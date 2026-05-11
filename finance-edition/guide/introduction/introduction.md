@@ -15,7 +15,7 @@ In this workshop, you will:
 - Use the left navigation to move through finance data, risk, fraud, spatial, transaction, analytics, natural-language, and agent workflows.
 - Inspect the Oracle Internals panel in each scene to connect the visible workflow to Oracle AI Database 26ai capabilities.
 - Use the dataset manager to validate, replace, or restore the demo dataset.
-- Run the portable LiveStack locally from `finance-livestack.zip` with Podman Compose.
+- Run the portable LiveStack locally from `livestack-finance.zip` with Podman Compose.
 
 ### Prerequisites
 

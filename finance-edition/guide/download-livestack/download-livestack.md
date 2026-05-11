@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This lab shows how to run the Seer Equity Bank Finance LiveStack from the portable package. The archive in this solution is `finance-livestack.zip`, and it expands directly into the working directory. Do not expect a nested `stack/` folder: `compose.yml`, `Containerfile`, `frontend/`, `backend/`, `db/`, `scripts/`, and `verification/` live at the extracted bundle root.
+This lab shows how to run the Seer Equity Bank Finance LiveStack from the portable package. Download [`livestack-finance.zip`](https://c4u04.objectstorage.us-ashburn-1.oci.customer-oci.com/p/EcTjWk2IuZPZeNnD_fYMcgUhdNDIDA6rt9gaFj_WZMiL7VvxPBNMY60837hu5hga/n/c4u04/b/livelabsfiles/o/livestack/livestack-finance.zip); it expands into a `finance/` working directory. Do not expect a nested `stack/` folder: `compose.yml`, `Containerfile`, `frontend/`, `backend/`, `db/`, `scripts/`, and `verification/` live at the `finance/` bundle root.
 
 Estimated Time: 30 minutes
 
@@ -10,7 +10,7 @@ Estimated Time: 30 minutes
 
 In this lab, you will:
 - Prepare a clean working directory for the portable package.
-- Extract `finance-livestack.zip` into that directory.
+- Download and extract [`livestack-finance.zip`](https://c4u04.objectstorage.us-ashburn-1.oci.customer-oci.com/p/EcTjWk2IuZPZeNnD_fYMcgUhdNDIDA6rt9gaFj_WZMiL7VvxPBNMY60837hu5hga/n/c4u04/b/livelabsfiles/o/livestack/livestack-finance.zip) into that directory.
 - Start Oracle Database, ORDS, Ollama, and the finance application with Podman Compose.
 - Validate the health endpoint and open the application.
 - Stop the stack cleanly when the demo is complete.
@@ -21,7 +21,7 @@ In this lab, you will:
 
     ```bash
     <copy>
-    mkdir -p ~/finance-livestack
+    mkdir -p ~/livestack-finance
     <copy>
     ```
 
@@ -29,7 +29,7 @@ In this lab, you will:
 
     ```bash
     <copy>
-    cd ~/finance-livestack
+    cd ~/livestack-finance
     <copy>
     ```
 
@@ -37,12 +37,12 @@ In this lab, you will:
 
     ```bash
     <copy>
-    mv ~/Downloads/finance-livestack.zip .
+    mv ~/Downloads/livestack-finance.zip .
     <copy>
     ```
 
 Expected result:
-- The file `finance-livestack.zip` is in a clean directory that will become the bundle root.
+- The file `livestack-finance.zip` is in a clean directory that will contain the extracted `finance/` bundle root.
 
 ## Task 2: Extract the package
 
@@ -50,11 +50,19 @@ Expected result:
 
     ```bash
     <copy>
-    unzip finance-livestack.zip
+    unzip livestack-finance.zip
     <copy>
     ```
 
-2. Confirm that the archive expanded directly into the current directory.
+2. Move into the extracted finance bundle.
+
+    ```bash
+    <copy>
+    cd finance
+    <copy>
+    ```
+
+3. Confirm that the archive expanded into the expected bundle root.
 
     ```bash
     <copy>
@@ -63,8 +71,8 @@ Expected result:
     ```
 
 Expected result:
-- You see `compose.yml` in the current directory.
-- You do not need to `cd stack` or `cd finance-livestack` after extraction.
+- You see `compose.yml` in the `finance/` directory.
+- You do not need to `cd stack`; the extracted `finance/` directory is the bundle root.
 
 ## Task 3: Start the LiveStack
 
@@ -139,9 +147,9 @@ Expected result:
 
 ## Task 6: Why this matters?
 
-The package is designed to be portable: one archive, one compose file, and one browser URL. Keeping the extraction flow flat and the startup command simple reduces setup drift, while the health endpoint confirms that the Oracle-backed app is ready before the demo starts.
+The package is designed to be portable: one archive, one bundle directory, one compose file, and one browser URL. Keeping the startup command simple reduces setup drift, while the health endpoint confirms that the Oracle-backed app is ready before the demo starts.
 
 ## Credits & Build Notes
 - **Author** - LiveLabs Team
 - **Last Updated By/Date** - LiveLabs Team, 2026-05-11
-- **Build Notes** - The local run path is derived from the current `finance-livestack.zip` archive and root-level `compose.yml`.
+- **Build Notes** - The local run path is derived from the current `livestack-finance.zip` archive and `finance/compose.yml`.
