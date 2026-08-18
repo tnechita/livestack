@@ -1,0 +1,462 @@
+influencer_id,handle,display_name,platform,follower_count,engagement_rate,influence_score,niche,city,region,country,is_verified,created_at
+1,@freight_mike,Freight Mike,instagram,936852,0.0439,86.2,Less-than-Truckload,New York,New York,US,1,2026-05-13T10:00:43Z
+2,@freight_jen,Freight Jen,tiktok,947586,0.02,88.27,Final Mile,Los Angeles,California,US,1,2026-05-13T10:00:43Z
+3,@freight_alex,Freight Alex,twitter,4612,0.0642,77.36,Time-Critical Freight,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+4,@freight_zoe,Freight Zoe,youtube,25448,0.0669,88.42,Brokerage,Houston,Texas,US,0,2026-05-13T10:00:43Z
+5,@freight_marcus,Freight Marcus,threads,7421,0.0865,94.2,Heavy Haul,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+6,@freight_lily,Freight Lily,instagram,43878,0.0661,92.47,Regional Distribution,San Francisco,California,US,0,2026-05-13T10:00:43Z
+7,@freight_kai,Freight Kai,tiktok,142196,0.0292,81.64,Intermodal,Miami,Florida,US,0,2026-05-13T10:00:43Z
+8,@freight_maya,Freight Maya,twitter,9337,0.0824,86.94,Passenger Mobility,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+9,@freight_tyler,Freight Tyler,youtube,4978,0.0852,80.33,Cold Chain,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+10,@freight_ava,Freight Ava,threads,697980,0.0202,77.17,Port Drayage,Austin,Texas,US,1,2026-05-13T10:00:43Z
+11,@driver_jen,Driver Jen,instagram,1024,0.0816,76.52,Rail Freight,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+12,@driver_zoe,Driver Zoe,tiktok,6537,0.1102,100,Fleet Services,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+13,@driver_lily,Driver Lily,twitter,7272,0.0957,91.11,Fleet Monitoring,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+14,@driver_maya,Driver Maya,youtube,703077,0.0394,90.98,Disruption Response,Atlanta,Georgia,US,1,2026-05-13T10:00:43Z
+15,@driver_ava,Driver Ava,threads,5581280,0.0178,89.71,Yard Operations,Dallas,Texas,US,1,2026-05-13T10:00:43Z
+16,@driver_nina,Driver Nina,instagram,544407,0.0359,88.14,Less-than-Truckload,San Diego,California,US,1,2026-05-13T10:00:43Z
+17,@driver_ella,Driver Ella,tiktok,65799,0.0732,89.56,Final Mile,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+18,@driver_aria,Driver Aria,twitter,83544,0.0409,75.25,Time-Critical Freight,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+19,@driver_luna,Driver Luna,youtube,2546,0.108,99.69,Brokerage,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+20,@driver_mia,Driver Mia,threads,7947,0.0607,73.11,Heavy Haul,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+21,@dispatcher_alex,Dispatcher Alex,instagram,64451,0.0744,87.78,Regional Distribution,New York,New York,US,0,2026-05-13T10:00:43Z
+22,@dispatcher_lily,Dispatcher Lily,tiktok,9272,0.0595,81.66,Intermodal,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+23,@dispatcher_tyler,Dispatcher Tyler,twitter,8582,0.0363,59.09,Passenger Mobility,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+24,@dispatcher_nina,Dispatcher Nina,youtube,18943,0.0357,65.01,Cold Chain,Houston,Texas,US,0,2026-05-13T10:00:43Z
+25,@dispatcher_finn,Dispatcher Finn,threads,5572,0.0539,65.63,Port Drayage,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+26,@dispatcher_luna,Dispatcher Luna,instagram,20475,0.0374,74.94,Rail Freight,San Francisco,California,US,0,2026-05-13T10:00:43Z
+27,@dispatcher_noah,Dispatcher Noah,tiktok,6164,0.0963,96.04,Fleet Services,Miami,Florida,US,0,2026-05-13T10:00:43Z
+28,@dispatcher_ruby,Dispatcher Ruby,twitter,2447,0.0313,63.73,Fleet Monitoring,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+29,@dispatcher_dane,Dispatcher Dane,youtube,7197,0.1084,100,Disruption Response,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+30,@dispatcher_hope,Dispatcher Hope,threads,9630,0.0402,63.42,Yard Operations,Austin,Texas,US,0,2026-05-13T10:00:43Z
+31,@logistics_zoe,Logistics Zoe,instagram,6143,0.0332,63.5,Less-than-Truckload,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+32,@logistics_maya,Logistics Maya,tiktok,6450,0.0675,84.71,Final Mile,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+33,@logistics_nina,Logistics Nina,twitter,9058,0.0534,70.38,Time-Critical Freight,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+34,@logistics_aria,Logistics Aria,youtube,6470,0.0477,64.78,Brokerage,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+35,@logistics_mia,Logistics Mia,threads,81739,0.0291,71.18,Heavy Haul,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+36,@logistics_ruby,Logistics Ruby,instagram,4747,0.0431,70.46,Regional Distribution,San Diego,California,US,0,2026-05-13T10:00:43Z
+37,@logistics_faye,Logistics Faye,tiktok,38477,0.0672,87.85,Intermodal,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+38,@logistics_jace,Logistics Jace,twitter,4259,0.0826,80.06,Passenger Mobility,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+39,@logistics_omar,Logistics Omar,youtube,3661,0.081,81.17,Cold Chain,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+40,@logistics_tess,Logistics Tess,threads,5979,0.0632,71.74,Port Drayage,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+41,@shipper_marcus,Shipper Marcus,instagram,3768,0.032,60.6,Rail Freight,New York,New York,US,0,2026-05-13T10:00:43Z
+42,@shipper_ava,Shipper Ava,tiktok,8854,0.0491,65.39,Fleet Services,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+43,@shipper_finn,Shipper Finn,twitter,1534,0.1173,100,Fleet Monitoring,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+44,@shipper_mia,Shipper Mia,youtube,9057,0.0384,69.39,Disruption Response,Houston,Texas,US,0,2026-05-13T10:00:43Z
+45,@shipper_max,Shipper Max,threads,2641,0.1173,100,Yard Operations,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+46,@shipper_hope,Shipper Hope,instagram,946925,0.0165,81.42,Less-than-Truckload,San Francisco,California,US,1,2026-05-13T10:00:43Z
+47,@shipper_nora,Shipper Nora,tiktok,36984,0.0357,68.96,Final Mile,Miami,Florida,US,0,2026-05-13T10:00:43Z
+48,@shipper_tess,Shipper Tess,twitter,45389,0.0521,79.99,Time-Critical Freight,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+49,@shipper_yuri,Shipper Yuri,youtube,612098,0.0431,86.32,Brokerage,Denver,Colorado,US,1,2026-05-13T10:00:43Z
+50,@shipper_sarah,Shipper Sarah,threads,5846,0.0928,94.6,Heavy Haul,Austin,Texas,US,0,2026-05-13T10:00:43Z
+51,@terminal_lily,Terminal Lily,instagram,51546,0.074,96.54,Regional Distribution,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+52,@terminal_nina,Terminal Nina,tiktok,6677,0.048,77.76,Intermodal,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+53,@terminal_luna,Terminal Luna,twitter,4840,0.0926,85.15,Passenger Mobility,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+54,@terminal_ruby,Terminal Ruby,youtube,76448,0.0694,97.74,Cold Chain,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+55,@terminal_hope,Terminal Hope,threads,6723,0.0839,90.6,Port Drayage,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+56,@terminal_omar,Terminal Omar,instagram,802079,0.017,83.25,Rail Freight,San Diego,California,US,1,2026-05-13T10:00:43Z
+57,@terminal_vince,Terminal Vince,tiktok,66833,0.0785,89.98,Fleet Services,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+58,@terminal_cass,Terminal Cass,twitter,7673,0.09,99.66,Fleet Monitoring,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+59,@terminal_zoe,Terminal Zoe,youtube,9183,0.1139,100,Disruption Response,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+60,@terminal_ava,Terminal Ava,threads,4688,0.0346,56.03,Yard Operations,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+61,@fleet_kai,Fleet Kai,instagram,9548,0.0836,93.1,Less-than-Truckload,New York,New York,US,0,2026-05-13T10:00:43Z
+62,@fleet_ella,Fleet Ella,tiktok,42651,0.0364,72.51,Final Mile,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+63,@fleet_noah,Fleet Noah,twitter,1519,0.1128,94.1,Time-Critical Freight,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+64,@fleet_faye,Fleet Faye,youtube,3297,0.1096,98.82,Brokerage,Houston,Texas,US,0,2026-05-13T10:00:43Z
+65,@fleet_nora,Fleet Nora,threads,234083,0.0449,82.12,Heavy Haul,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+66,@fleet_vince,Fleet Vince,instagram,2855,0.1008,93.9,Regional Distribution,San Francisco,California,US,0,2026-05-13T10:00:43Z
+67,@fleet_dev,Fleet Dev,tiktok,6823,0.0971,89.25,Intermodal,Miami,Florida,US,0,2026-05-13T10:00:43Z
+68,@fleet_lily,Fleet Lily,twitter,99378,0.0635,98.79,Passenger Mobility,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+69,@fleet_drew,Fleet Drew,youtube,87586,0.0569,90.33,Cold Chain,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+70,@fleet_mia,Fleet Mia,threads,52220,0.0678,97.41,Port Drayage,Austin,Texas,US,0,2026-05-13T10:00:43Z
+71,@yard_maya,Yard Maya,instagram,8669,0.0608,72.99,Rail Freight,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+72,@yard_aria,Yard Aria,tiktok,3389,0.076,85.69,Fleet Services,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+73,@yard_ruby,Yard Ruby,twitter,4911054,0.009,87.89,Fleet Monitoring,Boston,Massachusetts,US,1,2026-05-13T10:00:43Z
+74,@yard_jace,Yard Jace,youtube,4781,0.0802,84.24,Disruption Response,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+75,@yard_tess,Yard Tess,threads,9066367,0.0221,86.96,Yard Operations,Dallas,Texas,US,1,2026-05-13T10:00:43Z
+76,@yard_cass,Yard Cass,instagram,707764,0.032,86.26,Less-than-Truckload,San Diego,California,US,1,2026-05-13T10:00:43Z
+77,@yard_lily,Yard Lily,tiktok,5493,0.0379,60.82,Final Mile,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+78,@yard_ella,Yard Ella,twitter,3327,0.049,71.61,Time-Critical Freight,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+79,@yard_ivy,Yard Ivy,youtube,6574,0.0543,75.42,Brokerage,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+80,@yard_hope,Yard Hope,threads,930473,0.0426,96.85,Heavy Haul,Brooklyn,New York,US,1,2026-05-13T10:00:43Z
+81,@route_tyler,Route Tyler,instagram,4734,0.1108,92.97,Regional Distribution,New York,New York,US,0,2026-05-13T10:00:43Z
+82,@route_luna,Route Luna,tiktok,95145,0.064,84.46,Intermodal,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+83,@route_dane,Route Dane,twitter,6067,0.0762,90.89,Passenger Mobility,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+84,@route_omar,Route Omar,youtube,56684,0.0777,98.03,Cold Chain,Houston,Texas,US,0,2026-05-13T10:00:43Z
+85,@route_yuri,Route Yuri,threads,6702,0.1171,100,Port Drayage,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+86,@route_zoe,Route Zoe,instagram,994469,0.027,90.44,Rail Freight,San Francisco,California,US,1,2026-05-13T10:00:43Z
+87,@route_drew,Route Drew,tiktok,972520,0.0444,96.45,Fleet Services,Miami,Florida,US,1,2026-05-13T10:00:43Z
+88,@route_ivy,Route Ivy,twitter,69559,0.0336,81.11,Fleet Monitoring,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+89,@route_ines,Route Ines,youtube,297586,0.0387,83.5,Disruption Response,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+90,@route_tess,Route Tess,threads,4776,0.0632,70.7,Yard Operations,Austin,Texas,US,0,2026-05-13T10:00:43Z
+91,@rail_ava,Rail Ava,instagram,878886,0.0334,81.18,Less-than-Truckload,Nashville,Tennessee,US,1,2026-05-13T10:00:43Z
+92,@rail_mia,Rail Mia,tiktok,61249,0.0474,88.76,Final Mile,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+93,@rail_hope,Rail Hope,twitter,29449,0.0755,90.03,Time-Critical Freight,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+94,@rail_tess,Rail Tess,youtube,1239,0.0987,80.95,Brokerage,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+95,@rail_sarah,Rail Sarah,threads,46852,0.0511,85.93,Heavy Haul,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+101,@port_cole,Port Cole,instagram,85935,0.0682,92.3,Regional Distribution,San Diego,California,US,0,2026-05-13T10:00:43Z
+102,@port_ivy,Port Ivy,tiktok,7436,0.0559,71.56,Intermodal,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+103,@port_kara,Port Kara,twitter,1150,0.1148,100,Passenger Mobility,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+104,@port_xena,Port Xena,youtube,28298,0.0493,85.05,Cold Chain,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+105,@port_marcus,Port Marcus,threads,96141,0.072,95.73,Port Drayage,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+106,@port_aria,Port Aria,instagram,8259,0.1095,96.81,Rail Freight,New York,New York,US,0,2026-05-13T10:00:43Z
+107,@port_dane,Port Dane,tiktok,36701,0.0455,80.67,Fleet Services,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+108,@port_reed,Port Reed,twitter,6335,0.0475,72.04,Fleet Monitoring,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+109,@port_dev,Port Dev,youtube,325652,0.0239,79.99,Disruption Response,Houston,Texas,US,0,2026-05-13T10:00:43Z
+110,@port_ava,Port Ava,threads,5936,0.0721,86.51,Yard Operations,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+111,@parcel_nina,Parcel Nina,instagram,5055,0.0485,69.72,Less-than-Truckload,San Francisco,California,US,0,2026-05-13T10:00:43Z
+112,@parcel_ruby,Parcel Ruby,tiktok,7931,0.0724,80.79,Final Mile,Miami,Florida,US,0,2026-05-13T10:00:43Z
+113,@parcel_omar,Parcel Omar,twitter,92682,0.0649,96.58,Time-Critical Freight,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+114,@parcel_cass,Parcel Cass,youtube,4485,0.0867,84.19,Brokerage,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+115,@parcel_ava,Parcel Ava,threads,9008,0.0377,63.49,Heavy Haul,Austin,Texas,US,0,2026-05-13T10:00:43Z
+116,@parcel_ivy,Parcel Ivy,instagram,13520,0.0506,75.4,Regional Distribution,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+117,@parcel_liam,Parcel Liam,tiktok,3310,0.0645,68.73,Intermodal,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+118,@parcel_zara,Parcel Zara,twitter,51288,0.0343,66.7,Passenger Mobility,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+119,@parcel_maya,Parcel Maya,youtube,5142,0.1142,96.29,Cold Chain,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+120,@parcel_mia,Parcel Mia,threads,306773,0.0304,78.48,Port Drayage,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+121,@drayage_drew,Drayage Drew,instagram,2531,0.0328,62.72,Rail Freight,San Diego,California,US,0,2026-05-13T10:00:43Z
+122,@drayage_cleo,Drayage Cleo,tiktok,46830,0.0713,87.05,Fleet Services,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+123,@drayage_sage,Drayage Sage,twitter,57580,0.0681,96.54,Fleet Monitoring,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+124,@drayage_jen,Drayage Jen,youtube,7937,0.0719,81.1,Disruption Response,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+125,@drayage_finn,Drayage Finn,threads,6204386,0.0198,96.61,Yard Operations,Brooklyn,New York,US,1,2026-05-13T10:00:43Z
+126,@drayage_faye,Drayage Faye,instagram,8143,0.0922,96.86,Less-than-Truckload,New York,New York,US,0,2026-05-13T10:00:43Z
+127,@drayage_uma,Drayage Uma,tiktok,10112,0.0428,64.93,Final Mile,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+128,@drayage_zoe,Drayage Zoe,twitter,21814,0.0412,74.57,Time-Critical Freight,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+129,@drayage_owen,Drayage Owen,youtube,4406954,0.0206,95.25,Brokerage,Houston,Texas,US,1,2026-05-13T10:00:43Z
+130,@drayage_hope,Drayage Hope,threads,100567,0.0444,85.15,Heavy Haul,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+131,@linehaul_ella,Linehaul Ella,instagram,1636,0.0847,79.79,Regional Distribution,San Francisco,California,US,0,2026-05-13T10:00:43Z
+132,@linehaul_faye,Linehaul Faye,tiktok,2123,0.0756,78.04,Intermodal,Miami,Florida,US,0,2026-05-13T10:00:43Z
+133,@linehaul_vince,Linehaul Vince,twitter,7211,0.0689,76.05,Passenger Mobility,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+134,@linehaul_lily,Linehaul Lily,youtube,43472,0.0513,82.95,Cold Chain,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+135,@linehaul_mia,Linehaul Mia,threads,96207,0.0567,88.72,Port Drayage,Austin,Texas,US,0,2026-05-13T10:00:43Z
+136,@linehaul_liam,Linehaul Liam,instagram,873048,0.0242,86.55,Rail Freight,Nashville,Tennessee,US,1,2026-05-13T10:00:43Z
+137,@linehaul_cass,Linehaul Cass,tiktok,9393,0.0357,70.19,Fleet Services,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+138,@linehaul_nina,Linehaul Nina,twitter,2404,0.036,62.47,Fleet Monitoring,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+139,@linehaul_cleo,Linehaul Cleo,youtube,76095,0.0403,76.94,Disruption Response,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+140,@linehaul_tess,Linehaul Tess,threads,49303,0.0612,80.06,Yard Operations,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+141,@coldchain_finn,Coldchain Finn,instagram,74423,0.0669,91.02,Less-than-Truckload,San Diego,California,US,0,2026-05-13T10:00:43Z
+142,@coldchain_hope,Coldchain Hope,tiktok,6458,0.0659,83.12,Final Mile,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+143,@coldchain_yuri,Coldchain Yuri,twitter,8555,0.0639,78.81,Time-Critical Freight,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+144,@coldchain_ava,Coldchain Ava,youtube,3797,0.102,90.75,Brokerage,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+145,@coldchain_max,Coldchain Max,threads,2998,0.0566,77.8,Heavy Haul,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+146,@coldchain_tess,Coldchain Tess,instagram,506332,0.0446,92.7,Regional Distribution,New York,New York,US,1,2026-05-13T10:00:43Z
+147,@coldchain_marcus,Coldchain Marcus,tiktok,24854,0.041,77.54,Intermodal,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+148,@coldchain_mia,Coldchain Mia,twitter,8923,0.1195,100,Passenger Mobility,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+149,@coldchain_nora,Coldchain Nora,youtube,5974,0.1062,100,Cold Chain,Houston,Texas,US,0,2026-05-13T10:00:43Z
+150,@coldchain_sarah,Coldchain Sarah,threads,89844,0.0262,79.2,Port Drayage,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+151,@intermodal_aria,Intermodal Aria,instagram,49282,0.042,78.92,Rail Freight,San Francisco,California,US,0,2026-05-13T10:00:43Z
+152,@intermodal_jace,Intermodal Jace,tiktok,9103123,0.0132,81.78,Fleet Services,Miami,Florida,US,1,2026-05-13T10:00:43Z
+153,@intermodal_cass,Intermodal Cass,twitter,225760,0.0421,87.26,Fleet Monitoring,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+154,@intermodal_ella,Intermodal Ella,youtube,43679,0.0741,96.89,Disruption Response,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+155,@intermodal_hope,Intermodal Hope,threads,13882,0.0482,67.25,Yard Operations,Austin,Texas,US,0,2026-05-13T10:00:43Z
+156,@intermodal_zara,Intermodal Zara,instagram,62768,0.0735,96.02,Less-than-Truckload,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+157,@intermodal_nina,Intermodal Nina,tiktok,4198,0.0762,75.35,Final Mile,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+158,@intermodal_faye,Intermodal Faye,twitter,73409,0.0687,96.12,Time-Critical Freight,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+159,@intermodal_xena,Intermodal Xena,youtube,1469,0.1049,86.26,Brokerage,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+160,@intermodal_ava,Intermodal Ava,threads,10580,0.0305,68.87,Heavy Haul,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+161,@brokerage_owen,Brokerage Owen,instagram,10097193,0.018,93.66,Regional Distribution,San Diego,California,US,1,2026-05-13T10:00:43Z
+162,@brokerage_liam,Brokerage Liam,tiktok,15741,0.0645,86.54,Intermodal,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+163,@brokerage_mike,Brokerage Mike,twitter,4964,0.0746,81.09,Passenger Mobility,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+164,@brokerage_luna,Brokerage Luna,youtube,9168,0.0332,65.11,Cold Chain,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+165,@brokerage_nora,Brokerage Nora,threads,19809,0.0721,86,Port Drayage,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+166,@brokerage_jen,Brokerage Jen,instagram,1897,0.0526,62.76,Rail Freight,New York,New York,US,0,2026-05-13T10:00:43Z
+167,@brokerage_jack,Brokerage Jack,tiktok,546561,0.0241,87.32,Fleet Services,Los Angeles,California,US,1,2026-05-13T10:00:43Z
+168,@brokerage_omar,Brokerage Omar,twitter,22125,0.0773,85.81,Fleet Monitoring,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+169,@brokerage_alex,Brokerage Alex,youtube,8594,0.0636,78.47,Disruption Response,Houston,Texas,US,0,2026-05-13T10:00:43Z
+170,@brokerage_mia,Brokerage Mia,threads,16647,0.0375,73.73,Yard Operations,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+171,@access_luna,Access Luna,instagram,49785,0.0489,75.98,Less-than-Truckload,San Francisco,California,US,0,2026-05-13T10:00:43Z
+172,@access_omar,Access Omar,tiktok,6082,0.0453,72.39,Final Mile,Miami,Florida,US,0,2026-05-13T10:00:43Z
+173,@access_zoe,Access Zoe,twitter,9797,0.0851,96.38,Time-Critical Freight,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+174,@access_ivy,Access Ivy,youtube,2489,0.0328,57.74,Brokerage,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+175,@access_tess,Access Tess,threads,25919,0.0522,76.81,Heavy Haul,Austin,Texas,US,0,2026-05-13T10:00:43Z
+176,@access_maya,Access Maya,instagram,11531897,0.0235,93.65,Regional Distribution,Nashville,Tennessee,US,1,2026-05-13T10:00:43Z
+177,@access_cleo,Access Cleo,tiktok,81981,0.0478,86.61,Intermodal,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+178,@access_xena,Access Xena,twitter,898474,0.0269,87.7,Passenger Mobility,Boston,Massachusetts,US,1,2026-05-13T10:00:43Z
+179,@access_nina,Access Nina,youtube,3553,0.0814,76.75,Cold Chain,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+180,@access_hope,Access Hope,threads,31733,0.0682,91.8,Port Drayage,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+181,@routing_jack,Routing Jack,instagram,5408,0.1182,100,Rail Freight,San Diego,California,US,0,2026-05-13T10:00:43Z
+182,@routing_reed,Routing Reed,tiktok,53502,0.0555,77.87,Fleet Services,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+183,@routing_kai,Routing Kai,twitter,98176,0.0286,79.9,Fleet Monitoring,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+184,@routing_cleo,Routing Cleo,youtube,5222,0.0808,83.14,Disruption Response,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+185,@routing_yuri,Routing Yuri,threads,6253,0.0526,73.07,Yard Operations,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+186,@routing_ella,Routing Ella,instagram,7012,0.0841,93.03,Less-than-Truckload,New York,New York,US,0,2026-05-13T10:00:43Z
+187,@routing_kara,Routing Kara,tiktok,673325,0.0219,78.61,Final Mile,Los Angeles,California,US,1,2026-05-13T10:00:43Z
+188,@routing_jen,Routing Jen,twitter,58715,0.0414,74.55,Time-Critical Freight,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+189,@routing_noah,Routing Noah,youtube,84724,0.031,77.9,Brokerage,Houston,Texas,US,0,2026-05-13T10:00:43Z
+190,@routing_tess,Routing Tess,threads,540071,0.0316,86.76,Heavy Haul,Phoenix,Arizona,US,1,2026-05-13T10:00:43Z
+191,@safety_mia,Safety Mia,instagram,12178,0.0614,82.72,Regional Distribution,San Francisco,California,US,0,2026-05-13T10:00:43Z
+192,@safety_tess,Safety Tess,tiktok,1688,0.1054,99.09,Intermodal,Miami,Florida,US,0,2026-05-13T10:00:43Z
+193,@safety_ava,Safety Ava,twitter,1322,0.1151,94.39,Passenger Mobility,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+194,@safety_hope,Safety Hope,youtube,1217,0.1174,97.69,Cold Chain,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+195,@safety_sarah,Safety Sarah,threads,7319,0.0492,65.77,Port Drayage,Austin,Texas,US,0,2026-05-13T10:00:43Z
+201,@telematics_noah,Telematics Noah,instagram,8532,0.0743,92.11,Rail Freight,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+202,@telematics_vince,Telematics Vince,tiktok,962268,0.0429,94.64,Fleet Services,Portland,Oregon,US,1,2026-05-13T10:00:43Z
+203,@telematics_drew,Telematics Drew,twitter,37064,0.0271,72.2,Fleet Monitoring,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+204,@telematics_liam,Telematics Liam,youtube,5773046,0.0089,83.9,Disruption Response,Atlanta,Georgia,US,1,2026-05-13T10:00:43Z
+205,@telematics_marcus,Telematics Marcus,threads,6734,0.0805,85.95,Yard Operations,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+206,@telematics_cleo,Telematics Cleo,instagram,2574,0.0905,79.6,Less-than-Truckload,San Diego,California,US,0,2026-05-13T10:00:43Z
+207,@telematics_beau,Telematics Beau,tiktok,4234,0.0747,82.75,Final Mile,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+208,@telematics_luna,Telematics Luna,twitter,10015421,0.0188,87.3,Time-Critical Freight,Detroit,Michigan,US,1,2026-05-13T10:00:43Z
+209,@telematics_sage,Telematics Sage,youtube,1516,0.0525,66.39,Brokerage,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+210,@telematics_ava,Telematics Ava,threads,2997,0.0703,79.21,Heavy Haul,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+211,@capacity_ivy,Capacity Ivy,instagram,344996,0.0163,67.88,Regional Distribution,New York,New York,US,0,2026-05-13T10:00:43Z
+212,@capacity_xena,Capacity Xena,tiktok,9670,0.1081,95.55,Intermodal,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+213,@capacity_aria,Capacity Aria,twitter,560805,0.0413,82.87,Passenger Mobility,Chicago,Illinois,US,1,2026-05-13T10:00:43Z
+214,@capacity_reed,Capacity Reed,youtube,5252,0.1141,100,Cold Chain,Houston,Texas,US,0,2026-05-13T10:00:43Z
+215,@capacity_ava,Capacity Ava,threads,21758,0.0473,81.19,Port Drayage,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+216,@capacity_jace,Capacity Jace,instagram,1774,0.0345,52.79,Rail Freight,San Francisco,California,US,0,2026-05-13T10:00:43Z
+217,@capacity_zoe,Capacity Zoe,tiktok,92771,0.0444,89.3,Fleet Services,Miami,Florida,US,0,2026-05-13T10:00:43Z
+218,@capacity_cleo,Capacity Cleo,twitter,4672,0.0306,57.89,Fleet Monitoring,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+219,@capacity_cass,Capacity Cass,youtube,15768,0.049,76.37,Disruption Response,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+220,@capacity_mia,Capacity Mia,threads,6573,0.0457,71.97,Yard Operations,Austin,Texas,US,0,2026-05-13T10:00:43Z
+221,@eta_leo,Eta Leo,instagram,28063,0.0724,82.61,Less-than-Truckload,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+222,@eta_zara,Eta Zara,tiktok,40636,0.0487,75.85,Final Mile,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+223,@eta_jack,Eta Jack,twitter,9540,0.1093,100,Time-Critical Freight,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+224,@eta_vince,Eta Vince,youtube,5562,0.0475,74.49,Brokerage,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+225,@eta_finn,Eta Finn,threads,4205,0.0935,86.84,Heavy Haul,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+226,@eta_reed,Eta Reed,instagram,4360,0.0408,60.51,Regional Distribution,San Diego,California,US,0,2026-05-13T10:00:43Z
+227,@eta_cole,Eta Cole,tiktok,9243473,0.0097,91.22,Intermodal,Minneapolis,Minnesota,US,1,2026-05-13T10:00:43Z
+228,@eta_liam,Eta Liam,twitter,2706,0.0771,84.59,Passenger Mobility,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+229,@eta_kai,Eta Kai,youtube,5433899,0.0152,90.14,Cold Chain,Las Vegas,Nevada,US,1,2026-05-13T10:00:43Z
+230,@eta_hope,Eta Hope,threads,43267,0.0535,79.5,Port Drayage,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+231,@dock_ruby,Dock Ruby,instagram,6105,0.0514,78.73,Rail Freight,New York,New York,US,0,2026-05-13T10:00:43Z
+232,@dock_cass,Dock Cass,tiktok,742416,0.0316,85.04,Fleet Services,Los Angeles,California,US,1,2026-05-13T10:00:43Z
+233,@dock_ivy,Dock Ivy,twitter,7244,0.0866,88.42,Fleet Monitoring,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+234,@dock_zara,Dock Zara,youtube,216458,0.0233,71.19,Disruption Response,Houston,Texas,US,0,2026-05-13T10:00:43Z
+235,@dock_mia,Dock Mia,threads,70657,0.0548,90.7,Yard Operations,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+236,@dock_xena,Dock Xena,instagram,3416,0.0373,64.49,Less-than-Truckload,San Francisco,California,US,0,2026-05-13T10:00:43Z
+237,@dock_luna,Dock Luna,tiktok,1791,0.1095,94.14,Final Mile,Miami,Florida,US,0,2026-05-13T10:00:43Z
+238,@dock_vince,Dock Vince,twitter,333966,0.0151,73.22,Time-Critical Freight,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+239,@dock_aria,Dock Aria,youtube,2369,0.0503,63.72,Brokerage,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+240,@dock_tess,Dock Tess,threads,2901,0.0883,84.74,Heavy Haul,Austin,Texas,US,0,2026-05-13T10:00:43Z
+241,@warehouse_max,Warehouse Max,instagram,4314,0.074,79.96,Regional Distribution,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+242,@warehouse_sarah,Warehouse Sarah,tiktok,38340,0.0268,73.05,Intermodal,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+251,@carrier_cleo,Carrier Cleo,twitter,505585,0.0251,78.07,Passenger Mobility,Boston,Massachusetts,US,1,2026-05-13T10:00:43Z
+252,@carrier_jen,Carrier Jen,youtube,464251,0.0267,87.89,Cold Chain,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+253,@carrier_faye,Carrier Faye,threads,62894,0.0672,97.79,Port Drayage,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+254,@carrier_zoe,Carrier Zoe,instagram,279023,0.0192,68.28,Rail Freight,San Diego,California,US,0,2026-05-13T10:00:43Z
+255,@carrier_hope,Carrier Hope,tiktok,7727342,0.0111,85.57,Fleet Services,Minneapolis,Minnesota,US,1,2026-05-13T10:00:43Z
+256,@carrier_lily,Carrier Lily,twitter,9488,0.097,100,Fleet Monitoring,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+257,@carrier_jace,Carrier Jace,youtube,433773,0.0424,90.31,Disruption Response,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+258,@carrier_maya,Carrier Maya,threads,9692,0.1192,100,Yard Operations,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+259,@carrier_liam,Carrier Liam,instagram,4899,0.0759,84.72,Less-than-Truckload,New York,New York,US,0,2026-05-13T10:00:43Z
+260,@carrier_ava,Carrier Ava,tiktok,1764,0.0366,62.11,Final Mile,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+261,@maintenance_dane,Maintenance Dane,twitter,699955,0.0244,77.58,Time-Critical Freight,Chicago,Illinois,US,1,2026-05-13T10:00:43Z
+262,@maintenance_zoe,Maintenance Zoe,youtube,761966,0.0215,80.52,Brokerage,Houston,Texas,US,1,2026-05-13T10:00:43Z
+263,@maintenance_ines,Maintenance Ines,threads,8773,0.1031,98.32,Heavy Haul,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+264,@maintenance_maya,Maintenance Maya,instagram,4161,0.0774,89.02,Regional Distribution,San Francisco,California,US,0,2026-05-13T10:00:43Z
+265,@maintenance_nora,Maintenance Nora,tiktok,5865,0.0619,81.12,Intermodal,Miami,Florida,US,0,2026-05-13T10:00:43Z
+266,@maintenance_nina,Maintenance Nina,twitter,556119,0.0447,95.87,Passenger Mobility,Seattle,Washington,US,1,2026-05-13T10:00:43Z
+267,@maintenance_sage,Maintenance Sage,youtube,89225,0.0535,93.14,Cold Chain,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+268,@maintenance_aria,Maintenance Aria,threads,92204,0.0599,85.85,Port Drayage,Austin,Texas,US,0,2026-05-13T10:00:43Z
+269,@maintenance_wren,Maintenance Wren,instagram,8030,0.1021,91.64,Rail Freight,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+270,@maintenance_mia,Maintenance Mia,tiktok,7774,0.0465,71.35,Fleet Services,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+271,@customs_faye,Customs Faye,twitter,2395775,0.0082,76.78,Fleet Monitoring,Boston,Massachusetts,US,1,2026-05-13T10:00:43Z
+272,@customs_lily,Customs Lily,youtube,29408,0.0255,65.22,Disruption Response,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+273,@customs_liam,Customs Liam,threads,3693,0.0598,73.13,Yard Operations,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+274,@customs_nina,Customs Nina,instagram,6106,0.0603,74.67,Less-than-Truckload,San Diego,California,US,0,2026-05-13T10:00:43Z
+275,@customs_tess,Customs Tess,tiktok,31160,0.0772,93.85,Final Mile,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+276,@customs_luna,Customs Luna,twitter,79019,0.0682,89.67,Time-Critical Freight,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+277,@customs_zara,Customs Zara,youtube,716820,0.0425,93.43,Brokerage,Las Vegas,Nevada,US,1,2026-05-13T10:00:43Z
+278,@customs_ruby,Customs Ruby,threads,6678,0.0686,75.69,Heavy Haul,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+279,@customs_jen,Customs Jen,instagram,12509,0.0374,69.31,Regional Distribution,New York,New York,US,0,2026-05-13T10:00:43Z
+280,@customs_hope,Customs Hope,tiktok,900100,0.0419,90.77,Intermodal,Los Angeles,California,US,1,2026-05-13T10:00:43Z
+281,@mobility_gus,Mobility Gus,twitter,865267,0.0381,95.9,Passenger Mobility,Chicago,Illinois,US,1,2026-05-13T10:00:43Z
+282,@mobility_maya,Mobility Maya,youtube,7125,0.0772,84.08,Cold Chain,Houston,Texas,US,0,2026-05-13T10:00:43Z
+283,@mobility_pia,Mobility Pia,threads,8213,0.1084,100,Port Drayage,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+284,@mobility_aria,Mobility Aria,instagram,2188,0.1167,100,Rail Freight,San Francisco,California,US,0,2026-05-13T10:00:43Z
+285,@mobility_yuri,Mobility Yuri,tiktok,5112,0.0667,71.99,Fleet Services,Miami,Florida,US,0,2026-05-13T10:00:43Z
+286,@mobility_ruby,Mobility Ruby,twitter,44834,0.0257,73.34,Fleet Monitoring,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+287,@mobility_alex,Mobility Alex,youtube,2064,0.1196,100,Disruption Response,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+288,@mobility_jace,Mobility Jace,threads,13397794,0.0125,94.08,Yard Operations,Austin,Texas,US,1,2026-05-13T10:00:43Z
+289,@mobility_cole,Mobility Cole,instagram,67082,0.0557,84.17,Less-than-Truckload,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+290,@mobility_tess,Mobility Tess,tiktok,8585,0.1017,100,Final Mile,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+291,@recovery_hope,Recovery Hope,twitter,7270,0.0451,75.71,Time-Critical Freight,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+292,@recovery_ava,Recovery Ava,youtube,13762,0.0555,79.64,Brokerage,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+293,@recovery_tess,Recovery Tess,threads,5021,0.1093,100,Heavy Haul,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+294,@recovery_mia,Recovery Mia,instagram,934135,0.028,79.17,Regional Distribution,San Diego,California,US,1,2026-05-13T10:00:43Z
+295,@recovery_sarah,Recovery Sarah,tiktok,9238,0.1083,95.22,Intermodal,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+301,@mobile_ines,Mobile Ines,twitter,2756,0.1046,88.02,Passenger Mobility,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+302,@mobile_nina,Mobile Nina,youtube,6303,0.0676,86.81,Cold Chain,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+303,@mobile_wren,Mobile Wren,threads,8279,0.1016,93.69,Port Drayage,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+304,@mobile_ruby,Mobile Ruby,instagram,1289236,0.024,80,Rail Freight,New York,New York,US,1,2026-05-13T10:00:43Z
+305,@mobile_marcus,Mobile Marcus,tiktok,838177,0.0387,88.43,Fleet Services,Los Angeles,California,US,1,2026-05-13T10:00:43Z
+306,@mobile_omar,Mobile Omar,twitter,5210,0.1054,96.86,Fleet Monitoring,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+307,@mobile_owen,Mobile Owen,youtube,2236,0.1126,96.14,Disruption Response,Houston,Texas,US,0,2026-05-13T10:00:43Z
+308,@mobile_cass,Mobile Cass,threads,9377,0.0321,57.94,Yard Operations,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+309,@mobile_gus,Mobile Gus,instagram,38553,0.0733,92.59,Less-than-Truckload,San Francisco,California,US,0,2026-05-13T10:00:43Z
+310,@mobile_ava,Mobile Ava,tiktok,280198,0.0222,79.1,Final Mile,Miami,Florida,US,0,2026-05-13T10:00:43Z
+311,@urgent_jace,Urgent Jace,twitter,6730,0.0994,93.66,Time-Critical Freight,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+312,@urgent_ella,Urgent Ella,youtube,1191172,0.0088,75.57,Brokerage,Denver,Colorado,US,1,2026-05-13T10:00:43Z
+313,@urgent_zara,Urgent Zara,threads,532913,0.0182,74.91,Heavy Haul,Austin,Texas,US,1,2026-05-13T10:00:43Z
+314,@urgent_faye,Urgent Faye,instagram,1394,0.0324,61.61,Regional Distribution,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+315,@urgent_ava,Urgent Ava,tiktok,223707,0.0351,88.16,Intermodal,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+316,@urgent_vince,Urgent Vince,twitter,7361,0.0772,79.52,Passenger Mobility,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+317,@urgent_ruby,Urgent Ruby,youtube,9171,0.0519,73.05,Cold Chain,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+318,@urgent_lily,Urgent Lily,threads,76821,0.0299,74.58,Port Drayage,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+319,@urgent_reed,Urgent Reed,instagram,33036,0.0697,90.67,Rail Freight,San Diego,California,US,0,2026-05-13T10:00:43Z
+320,@urgent_mia,Urgent Mia,tiktok,963798,0.0263,89.39,Fleet Services,Minneapolis,Minnesota,US,1,2026-05-13T10:00:43Z
+321,@controltower_kara,Controltower Kara,twitter,56194,0.0617,81.02,Fleet Monitoring,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+322,@controltower_aria,Controltower Aria,youtube,777392,0.0424,88.65,Disruption Response,Las Vegas,Nevada,US,1,2026-05-13T10:00:43Z
+323,@controltower_dev,Controltower Dev,threads,8695,0.0318,57.84,Yard Operations,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+324,@controltower_jace,Controltower Jace,instagram,626789,0.0398,86.65,Less-than-Truckload,New York,New York,US,1,2026-05-13T10:00:43Z
+325,@controltower_finn,Controltower Finn,tiktok,5689,0.1007,100,Final Mile,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+326,@controltower_cass,Controltower Cass,twitter,412605,0.028,80.48,Time-Critical Freight,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+327,@controltower_ines,Controltower Ines,youtube,617596,0.0233,87.87,Brokerage,Houston,Texas,US,1,2026-05-13T10:00:43Z
+328,@controltower_ella,Controltower Ella,threads,14611,0.0286,61.49,Heavy Haul,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+329,@controltower_beau,Controltower Beau,instagram,42578,0.0519,85.05,Regional Distribution,San Francisco,California,US,0,2026-05-13T10:00:43Z
+330,@controltower_hope,Controltower Hope,tiktok,88496,0.0369,82.72,Intermodal,Miami,Florida,US,0,2026-05-13T10:00:43Z
+331,@visibility_liam,Visibility Liam,twitter,5711,0.0404,71.73,Passenger Mobility,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+332,@visibility_luna,Visibility Luna,youtube,3872,0.0795,76.07,Cold Chain,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+333,@visibility_jen,Visibility Jen,threads,2665,0.0955,85.16,Port Drayage,Austin,Texas,US,0,2026-05-13T10:00:43Z
+334,@visibility_omar,Visibility Omar,instagram,8864,0.098,100,Rail Freight,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+335,@visibility_mia,Visibility Mia,tiktok,2349,0.116,100,Fleet Services,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+336,@visibility_zoe,Visibility Zoe,twitter,47471,0.0304,69.92,Fleet Monitoring,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+337,@visibility_reed,Visibility Reed,youtube,5691,0.0633,79.1,Disruption Response,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+338,@visibility_ivy,Visibility Ivy,threads,8730,0.0792,83.21,Yard Operations,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+339,@visibility_lily,Visibility Lily,instagram,15103,0.066,90.7,Less-than-Truckload,San Diego,California,US,0,2026-05-13T10:00:43Z
+340,@visibility_tess,Visibility Tess,tiktok,2261,0.0906,79.99,Final Mile,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+341,@pulse_nora,Pulse Nora,twitter,81226,0.0655,94,Time-Critical Freight,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+342,@pulse_mia,Pulse Mia,youtube,2345,0.0936,82.07,Brokerage,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+343,@pulse_marcus,Pulse Marcus,threads,71626,0.0653,88.08,Heavy Haul,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+344,@pulse_tess,Pulse Tess,instagram,83730,0.0364,80.4,Regional Distribution,New York,New York,US,0,2026-05-13T10:00:43Z
+345,@pulse_max,Pulse Max,tiktok,573804,0.0388,89.05,Intermodal,Los Angeles,California,US,1,2026-05-13T10:00:43Z
+346,@pulse_ava,Pulse Ava,twitter,97310,0.0661,90.17,Passenger Mobility,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+347,@pulse_yuri,Pulse Yuri,youtube,3651,0.0832,77.74,Cold Chain,Houston,Texas,US,0,2026-05-13T10:00:43Z
+348,@pulse_hope,Pulse Hope,threads,8733,0.0531,78.05,Port Drayage,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+349,@pulse_finn,Pulse Finn,instagram,8339,0.0998,100,Rail Freight,San Francisco,California,US,0,2026-05-13T10:00:43Z
+350,@pulse_sarah,Pulse Sarah,tiktok,8544,0.0844,91.23,Fleet Services,Miami,Florida,US,0,2026-05-13T10:00:43Z
+351,@vital_omar,Vital Omar,twitter,7040,0.0875,96.49,Fleet Monitoring,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+352,@vital_ivy,Vital Ivy,youtube,3850582,0.0065,86.49,Disruption Response,Denver,Colorado,US,1,2026-05-13T10:00:43Z
+353,@vital_maya,Vital Maya,threads,6003,0.075,89.35,Yard Operations,Austin,Texas,US,0,2026-05-13T10:00:43Z
+354,@vital_xena,Vital Xena,instagram,953270,0.0204,86.2,Less-than-Truckload,Nashville,Tennessee,US,1,2026-05-13T10:00:43Z
+355,@vital_hope,Vital Hope,tiktok,5787267,0.0164,88.8,Final Mile,Portland,Oregon,US,1,2026-05-13T10:00:43Z
+356,@vital_aria,Vital Aria,twitter,82757,0.0443,87.22,Time-Critical Freight,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+357,@vital_jen,Vital Jen,youtube,9691,0.0507,79.82,Brokerage,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+358,@vital_reed,Vital Reed,threads,7188,0.0951,87.21,Heavy Haul,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+359,@vital_ruby,Vital Ruby,instagram,7351,0.117,98.55,Regional Distribution,San Diego,California,US,0,2026-05-13T10:00:43Z
+360,@vital_ava,Vital Ava,tiktok,8752,0.1152,100,Intermodal,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+361,@bridge_pia,Bridge Pia,twitter,183321,0.0439,84.26,Passenger Mobility,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+362,@bridge_ruby,Bridge Ruby,youtube,7825,0.0625,77.56,Cold Chain,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+363,@bridge_cole,Bridge Cole,threads,1151,0.0927,89.78,Port Drayage,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+364,@bridge_cass,Bridge Cass,instagram,6773,0.0751,77.37,Rail Freight,New York,New York,US,0,2026-05-13T10:00:43Z
+365,@bridge_nora,Bridge Nora,tiktok,2707,0.0379,63.52,Fleet Services,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+366,@bridge_ivy,Bridge Ivy,twitter,285356,0.0377,86.03,Fleet Monitoring,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+367,@bridge_tyler,Bridge Tyler,youtube,26943,0.0315,70.22,Disruption Response,Houston,Texas,US,0,2026-05-13T10:00:43Z
+368,@bridge_zara,Bridge Zara,threads,3183140,0.0155,90.61,Yard Operations,Phoenix,Arizona,US,1,2026-05-13T10:00:43Z
+369,@bridge_kara,Bridge Kara,instagram,8612,0.1052,100,Less-than-Truckload,San Francisco,California,US,0,2026-05-13T10:00:43Z
+370,@bridge_mia,Bridge Mia,tiktok,99489,0.0629,89.38,Final Mile,Miami,Florida,US,0,2026-05-13T10:00:43Z
+371,@clear_reed,Clear Reed,twitter,20580,0.0551,86.7,Time-Critical Freight,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+372,@clear_cleo,Clear Cleo,youtube,4240,0.0465,72,Brokerage,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+373,@clear_ella,Clear Ella,threads,2895299,0.0102,88.4,Heavy Haul,Austin,Texas,US,1,2026-05-13T10:00:43Z
+374,@clear_jen,Clear Jen,instagram,37035,0.0797,94.19,Regional Distribution,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+375,@clear_tess,Clear Tess,tiktok,58905,0.0539,77.35,Intermodal,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+376,@clear_faye,Clear Faye,twitter,3773,0.1117,100,Passenger Mobility,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+377,@clear_aria,Clear Aria,youtube,93349,0.0293,67.38,Cold Chain,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+378,@clear_zoe,Clear Zoe,threads,7078,0.0867,92.62,Port Drayage,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+379,@clear_vince,Clear Vince,instagram,65842,0.0656,88.64,Rail Freight,San Diego,California,US,0,2026-05-13T10:00:43Z
+380,@clear_hope,Clear Hope,tiktok,772164,0.0398,95.07,Fleet Services,Minneapolis,Minnesota,US,1,2026-05-13T10:00:43Z
+381,@motion_sage,Motion Sage,twitter,855406,0.0361,86.94,Fleet Monitoring,Detroit,Michigan,US,1,2026-05-13T10:00:43Z
+382,@motion_faye,Motion Faye,youtube,98128,0.0525,81.28,Disruption Response,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+383,@motion_owen,Motion Owen,threads,5245,0.0475,75.57,Yard Operations,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+384,@motion_lily,Motion Lily,instagram,23890,0.0348,71.12,Less-than-Truckload,New York,New York,US,0,2026-05-13T10:00:43Z
+385,@motion_yuri,Motion Yuri,tiktok,76302,0.0694,90.6,Final Mile,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+386,@motion_liam,Motion Liam,twitter,9505,0.0785,92.92,Time-Critical Freight,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+387,@motion_leo,Motion Leo,youtube,8677,0.0917,88.67,Brokerage,Houston,Texas,US,0,2026-05-13T10:00:43Z
+388,@motion_nina,Motion Nina,threads,76057,0.0395,78.08,Heavy Haul,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+389,@motion_mike,Motion Mike,instagram,6007,0.0502,77.49,Regional Distribution,San Francisco,California,US,0,2026-05-13T10:00:43Z
+390,@motion_tess,Motion Tess,tiktok,5851,0.0818,86.95,Intermodal,Miami,Florida,US,0,2026-05-13T10:00:43Z
+391,@first_tess,First Tess,twitter,9003,0.1132,97.7,Passenger Mobility,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+392,@first_hope,First Hope,youtube,6049649,0.0098,91.29,Cold Chain,Denver,Colorado,US,1,2026-05-13T10:00:43Z
+393,@first_mia,First Mia,threads,83959,0.0424,74.6,Port Drayage,Austin,Texas,US,0,2026-05-13T10:00:43Z
+394,@first_ava,First Ava,instagram,74532,0.0788,96.08,Rail Freight,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+395,@first_sarah,First Sarah,tiktok,314102,0.0304,84.32,Fleet Services,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+401,@silver_uma,Silver Uma,twitter,2383,0.0658,71.96,Fleet Monitoring,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+402,@silver_jace,Silver Jace,youtube,54111,0.0416,80.74,Disruption Response,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+403,@silver_leo,Silver Leo,threads,1268,0.0647,68.6,Yard Operations,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+404,@silver_ella,Silver Ella,instagram,2300,0.0845,89.83,Less-than-Truckload,San Diego,California,US,0,2026-05-13T10:00:43Z
+405,@silver_marcus,Silver Marcus,tiktok,98592,0.0752,100,Final Mile,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+406,@silver_zara,Silver Zara,twitter,11660,0.0447,68.25,Time-Critical Freight,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+407,@silver_pia,Silver Pia,youtube,68980,0.0715,100,Brokerage,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+408,@silver_faye,Silver Faye,threads,66020,0.0468,85.83,Heavy Haul,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+409,@silver_jack,Silver Jack,instagram,8496,0.092,94.16,Regional Distribution,New York,New York,US,0,2026-05-13T10:00:43Z
+410,@silver_ava,Silver Ava,tiktok,8235,0.0424,65.95,Intermodal,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+411,@guide_vince,Guide Vince,twitter,18140,0.053,80.42,Passenger Mobility,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+412,@guide_liam,Guide Liam,youtube,6148,0.0917,87.94,Cold Chain,Houston,Texas,US,0,2026-05-13T10:00:43Z
+413,@guide_cleo,Guide Cleo,threads,99104,0.0672,86.15,Port Drayage,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+414,@guide_luna,Guide Luna,instagram,9806,0.1036,100,Rail Freight,San Francisco,California,US,0,2026-05-13T10:00:43Z
+415,@guide_ava,Guide Ava,tiktok,5617,0.104,97.6,Fleet Services,Miami,Florida,US,0,2026-05-13T10:00:43Z
+416,@guide_jen,Guide Jen,twitter,4628,0.0971,91.07,Fleet Monitoring,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+417,@guide_xena,Guide Xena,youtube,7470,0.0475,64.58,Disruption Response,Denver,Colorado,US,0,2026-05-13T10:00:43Z
+418,@guide_omar,Guide Omar,threads,6537665,0.0066,90.6,Yard Operations,Austin,Texas,US,1,2026-05-13T10:00:43Z
+419,@guide_faye,Guide Faye,instagram,2058,0.0553,61.27,Less-than-Truckload,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+420,@guide_mia,Guide Mia,tiktok,7213,0.0432,61.31,Final Mile,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+421,@flow_wren,Flow Wren,twitter,59713,0.048,80.78,Time-Critical Freight,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+422,@flow_omar,Flow Omar,youtube,9395,0.1153,100,Brokerage,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+423,@flow_gus,Flow Gus,threads,77465,0.0745,97.86,Heavy Haul,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+424,@flow_ivy,Flow Ivy,instagram,97065,0.0712,100,Regional Distribution,San Diego,California,US,0,2026-05-13T10:00:43Z
+425,@flow_finn,Flow Finn,tiktok,5477,0.0607,81.99,Intermodal,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+426,@flow_maya,Flow Maya,twitter,7902,0.0978,100,Passenger Mobility,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+427,@flow_mike,Flow Mike,youtube,6525,0.0596,69.12,Cold Chain,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+428,@flow_xena,Flow Xena,threads,6534,0.1081,95.68,Port Drayage,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+429,@flow_pia,Flow Pia,instagram,9736,0.0892,100,Rail Freight,New York,New York,US,0,2026-05-13T10:00:43Z
+430,@flow_hope,Flow Hope,tiktok,942377,0.0332,81.13,Fleet Services,Los Angeles,California,US,1,2026-05-13T10:00:43Z
+431,@path_xena,Path Xena,twitter,80224,0.0399,81.91,Fleet Monitoring,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+432,@path_reed,Path Reed,youtube,2180,0.0838,80.79,Disruption Response,Houston,Texas,US,0,2026-05-13T10:00:43Z
+433,@path_jace,Path Jace,threads,2550,0.0727,79.3,Yard Operations,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+434,@path_cleo,Path Cleo,instagram,277802,0.0237,70.23,Less-than-Truckload,San Francisco,California,US,0,2026-05-13T10:00:43Z
+435,@path_mia,Path Mia,tiktok,4614,0.0748,83.91,Final Mile,Miami,Florida,US,0,2026-05-13T10:00:43Z
+436,@path_ella,Path Ella,twitter,5778,0.0811,83.26,Time-Critical Freight,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+437,@path_maya,Path Maya,youtube,755030,0.0246,81.16,Brokerage,Denver,Colorado,US,1,2026-05-13T10:00:43Z
+438,@path_jen,Path Jen,threads,46739,0.0416,73.77,Heavy Haul,Austin,Texas,US,0,2026-05-13T10:00:43Z
+439,@path_zara,Path Zara,instagram,72564,0.0315,71.9,Regional Distribution,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+440,@path_tess,Path Tess,tiktok,7824,0.0527,78.17,Intermodal,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+441,@team_yuri,Team Yuri,twitter,55323,0.0379,74.73,Passenger Mobility,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+442,@team_tess,Team Tess,youtube,33037,0.0457,83.65,Cold Chain,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+443,@team_nora,Team Nora,threads,815106,0.0432,92.88,Port Drayage,Dallas,Texas,US,1,2026-05-13T10:00:43Z
+444,@team_hope,Team Hope,instagram,9216,0.0516,75.27,Rail Freight,San Diego,California,US,0,2026-05-13T10:00:43Z
+445,@team_max,Team Max,tiktok,1231,0.0589,65.56,Fleet Services,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+446,@team_mia,Team Mia,twitter,8003,0.0391,62.96,Fleet Monitoring,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+447,@team_finn,Team Finn,youtube,19267,0.0514,79.99,Disruption Response,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+448,@team_ava,Team Ava,threads,51988,0.0269,72.26,Yard Operations,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+449,@team_marcus,Team Marcus,instagram,5208,0.0688,87.16,Less-than-Truckload,New York,New York,US,0,2026-05-13T10:00:43Z
+450,@team_sarah,Team Sarah,tiktok,76472,0.0304,78.79,Final Mile,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+451,@operator_zara,Operator Zara,twitter,51574,0.0265,67.86,Time-Critical Freight,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+452,@operator_vince,Operator Vince,youtube,3418,0.1108,97.36,Brokerage,Houston,Texas,US,0,2026-05-13T10:00:43Z
+453,@operator_reed,Operator Reed,threads,2509,0.0642,70.35,Heavy Haul,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+454,@operator_liam,Operator Liam,instagram,6751,0.0744,87.57,Regional Distribution,San Francisco,California,US,0,2026-05-13T10:00:43Z
+455,@operator_hope,Operator Hope,tiktok,7232,0.0765,80.67,Intermodal,Miami,Florida,US,0,2026-05-13T10:00:43Z
+456,@operator_cleo,Operator Cleo,twitter,38189,0.0561,83.4,Passenger Mobility,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+457,@operator_ivy,Operator Ivy,youtube,4988219,0.0185,92.8,Cold Chain,Denver,Colorado,US,1,2026-05-13T10:00:43Z
+458,@operator_luna,Operator Luna,threads,89146,0.0261,73.45,Port Drayage,Austin,Texas,US,0,2026-05-13T10:00:43Z
+459,@operator_ella,Operator Ella,instagram,15744,0.0529,81.91,Rail Freight,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+460,@operator_ava,Operator Ava,tiktok,9731,0.1038,100,Fleet Services,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+461,@quality_beau,Quality Beau,twitter,6972,0.0871,89.24,Fleet Monitoring,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+462,@quality_xena,Quality Xena,youtube,3101,0.0715,77.56,Disruption Response,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+463,@quality_uma,Quality Uma,threads,285734,0.0233,70.47,Yard Operations,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+464,@quality_reed,Quality Reed,instagram,60651,0.0601,90.44,Less-than-Truckload,San Diego,California,US,0,2026-05-13T10:00:43Z
+465,@quality_nora,Quality Nora,tiktok,8122,0.087,85.47,Final Mile,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+466,@quality_jace,Quality Jace,twitter,747416,0.0165,79.54,Time-Critical Freight,Detroit,Michigan,US,1,2026-05-13T10:00:43Z
+467,@quality_gus,Quality Gus,youtube,38546,0.0467,85.82,Brokerage,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+468,@quality_cleo,Quality Cleo,threads,60899,0.0759,95.21,Heavy Haul,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+469,@quality_leo,Quality Leo,instagram,6197,0.0948,88.15,Regional Distribution,New York,New York,US,0,2026-05-13T10:00:43Z
+470,@quality_mia,Quality Mia,tiktok,6905,0.0694,79.12,Intermodal,Los Angeles,California,US,0,2026-05-13T10:00:43Z
+471,@safety_cass,Safety Cass,twitter,68415,0.035,82.81,Passenger Mobility,Chicago,Illinois,US,0,2026-05-13T10:00:43Z
+472,@safety_zara,Safety Zara,youtube,2099,0.0689,76.71,Cold Chain,Houston,Texas,US,0,2026-05-13T10:00:43Z
+473,@safety_xena,Safety Xena,threads,28145,0.0632,85.15,Port Drayage,Phoenix,Arizona,US,0,2026-05-13T10:00:43Z
+474,@safety_vince,Safety Vince,instagram,793140,0.0156,77.8,Rail Freight,San Francisco,California,US,1,2026-05-13T10:00:43Z
+476,@safety_reed,Safety Reed,tiktok,16614,0.0504,83.28,Fleet Services,Miami,Florida,US,0,2026-05-13T10:00:43Z
+477,@safety_omar,Safety Omar,twitter,9018,0.0976,99.65,Fleet Monitoring,Seattle,Washington,US,0,2026-05-13T10:00:43Z
+478,@safety_liam,Safety Liam,youtube,633787,0.0376,91.21,Disruption Response,Denver,Colorado,US,1,2026-05-13T10:00:43Z
+479,@safety_jace,Safety Jace,threads,7524,0.0783,89.57,Yard Operations,Austin,Texas,US,0,2026-05-13T10:00:43Z
+481,@journey_dev,Journey Dev,instagram,7629,0.0889,96.49,Less-than-Truckload,Nashville,Tennessee,US,0,2026-05-13T10:00:43Z
+482,@journey_cass,Journey Cass,tiktok,28734,0.0307,62.89,Final Mile,Portland,Oregon,US,0,2026-05-13T10:00:43Z
+483,@journey_beau,Journey Beau,twitter,2762,0.0859,85.44,Time-Critical Freight,Boston,Massachusetts,US,0,2026-05-13T10:00:43Z
+484,@journey_zara,Journey Zara,youtube,4602,0.0717,86.29,Brokerage,Atlanta,Georgia,US,0,2026-05-13T10:00:43Z
+485,@journey_yuri,Journey Yuri,threads,458973,0.0386,84.2,Heavy Haul,Dallas,Texas,US,0,2026-05-13T10:00:43Z
+486,@journey_xena,Journey Xena,instagram,668532,0.019,77.85,Regional Distribution,San Diego,California,US,1,2026-05-13T10:00:43Z
+487,@journey_wren,Journey Wren,tiktok,3439,0.098,88.57,Intermodal,Minneapolis,Minnesota,US,0,2026-05-13T10:00:43Z
+488,@journey_vince,Journey Vince,twitter,7583,0.1017,97.62,Passenger Mobility,Detroit,Michigan,US,0,2026-05-13T10:00:43Z
+489,@journey_uma,Journey Uma,youtube,46261,0.0339,77.45,Cold Chain,Las Vegas,Nevada,US,0,2026-05-13T10:00:43Z
+490,@journey_tess,Journey Tess,threads,4611,0.0848,92.54,Port Drayage,Brooklyn,New York,US,0,2026-05-13T10:00:43Z
+491,@network_sarah,Network Sarah,instagram,6959,0.0327,60.26,Rail Freight,New York,New York,US,0,2026-05-13T10:00:43Z

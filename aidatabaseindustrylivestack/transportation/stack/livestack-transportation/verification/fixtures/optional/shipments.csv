@@ -1,0 +1,3 @@
+shipment_id,order_id,center_id,carrier,tracking_number,ship_status,distance_km,estimated_hours,ship_cost,shipped_at,delivered_at,created_at
+1,5,1,RoadRunner Freight,TRK0000000005,delivered,12.4,1.5,0,2026-05-04T08:00:00Z,2026-05-04T09:30:00Z,2026-05-05T16:30:00Z
+2,6,5,PortRouteDispatch,TRK0000000006,in_transit,18.0,2.0,0,2026-05-05T08:00:00Z,,2026-05-05T16:30:00Z

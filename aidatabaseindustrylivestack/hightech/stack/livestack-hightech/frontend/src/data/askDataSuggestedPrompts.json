@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Which high-tech products are constrained by component shortages and supplier risk?",
+    "category": "Supplier Risk"
+  },
+  {
+    "text": "Which fab operations have the highest wafer-start and yield improvement exposure?",
+    "category": "Fab Operations"
+  },
+  {
+    "text": "Show customer commitments at risk from order promising and channel inventory constraints",
+    "category": "Customer Commitments"
+  },
+  {
+    "text": "Which engineering change orders affect the bill of materials for active NPI programs?",
+    "category": "Product Lifecycle"
+  },
+  {
+    "text": "What connected products have the strongest field quality and warranty analytics signals?",
+    "category": "Field Quality"
+  },
+  {
+    "text": "Which contract manufacturing partners support the highest product value?",
+    "category": "Contract Manufacturing"
+  },
+  {
+    "text": "Which product portfolios show demand volatility across enterprise buyer signals?",
+    "category": "Demand Volatility"
+  },
+  {
+    "text": "What service and support operations need follow-up for customer commitments?",
+    "category": "Support Operations"
+  }
+]

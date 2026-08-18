@@ -1,0 +1,32 @@
+product_id,brand_id,sku,product_name,description,category,subcategory,unit_price,unit_cost,weight_kg,is_active,launch_date,tags,created_at,updated_at
+1,1,MET-00001,Regional LTL Freight Move,,Less-than-Truckload,Regional Lane,125,48,8.5,1,2025-12-09,"ltl,regional,pallet,terminal",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+2,1,MET-00002,Expedited Dock-to-Dock Transfer,,Fleet Logistics,Expedited,210,82,12,1,2025-09-13,"expedited,cross-dock,linehaul,priority",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+3,1,MET-00003,Hazmat Documentation Review,,Compliance,Safety,95,35,0.001,1,2026-02-05,"hazmat,compliance,bill-of-lading,safety",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+4,2,VIT-00004,Same-Day Final Mile Slot,,Final Mile,Metro Delivery,160,65,4,1,2025-02-03,"same-day,final-mile,metro,delivery",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+5,2,VIT-00005,White Glove Delivery Crew,,Final Mile,Premium Delivery,340,125,18,1,2026-01-16,"white-glove,scheduled,crew,delivery",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+6,2,VIT-00006,Remote Trailer Telematics Onboarding,,Fleet Monitoring,Telematics,275,98,0.05,1,2024-06-27,"telematics,trailer,gps,monitoring",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+7,3,PUL-00007,Time-Critical Air Freight Tender,,Time-Critical Freight,Air Freight,420,175,2,1,2026-04-01,"air-freight,critical,tender,airport",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+8,3,PUL-00008,High-Value Load Monitoring Kit,,Fleet Monitoring,Security,680,260,1.2,1,2024-12-04,"high-value,gps,seal,sensor,monitoring",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+9,3,PUL-00009,Priority Recovery Dispatch,,Disruption Response,Recovery,520,210,0.001,1,2026-02-11,"recovery,reroute,priority,exception",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+10,4,CLE-00010,Brokered Truckload Match,,Brokerage,Truckload,180,70,0.001,1,2025-08-06,"brokerage,truckload,spot-market,capacity",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+11,4,CLE-00011,Carrier Exception Follow-Up,,Brokerage,Exception,140,58,0.001,1,2025-01-04,"exception,carrier,follow-up,eta",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+12,4,CLE-00012,Contract Lane Rebid,,Brokerage,Procurement,260,105,0.001,1,2024-09-08,"contract,lane,rebid,procurement",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+13,5,ORT-00013,Oversize Permit Coordination,,Heavy Haul,Permitting,220,90,0.001,1,2024-05-15,"oversize,permit,escort,heavy-haul",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+14,5,ORT-00014,Heavy Equipment Recovery Bundle,,Heavy Haul,Recovery,780,310,1.4,1,2025-07-26,"heavy-equipment,recovery,route-survey,escort",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+15,5,ORT-00015,Bridge Clearance Assessment,,Heavy Haul,Route Survey,195,74,0.001,1,2024-09-17,"bridge,clearance,route-survey,safety",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+16,6,HOM-00016,Regional Pool Distribution,,Regional Distribution,Pool Point,240,96,0.001,1,2025-02-17,"pool-distribution,regional,freight-consolidation,terminal-capacity",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+17,6,HOM-00017,Trailer Yard Starter Kit,,Transport Equipment,Yard Operations,145,54,0.9,1,2025-09-20,"yard,dock,seal,placard,equipment",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+18,6,HOM-00018,Remote Yard Check Onboarding,,Fleet Monitoring,Yard Visibility,310,120,0.4,1,2024-12-10,"yard-check,onboarding,device,visibility",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+19,7,INT-00019,Intermodal Ramp Transfer,,Intermodal,Ramp Drayage,89,31,0.35,1,2026-02-28,"intermodal,ramp,container,drayage",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+20,7,INT-00020,Container Seal Sensor LTE,,Fleet Monitoring,Container Security,115,42,0.5,1,2025-09-10,"container,seal,lte,sensor",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+21,7,INT-00021,Rail ETA Visibility Kit,,Rail Freight,Visibility,185,70,0.6,1,2024-07-07,"rail,eta,visibility,intermodal",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+22,8,WEL-00022,Paratransit Reservation Window,,Passenger Mobility,Paratransit,170,68,0.001,1,2025-04-03,"paratransit,reservation,passenger,route",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+23,8,WEL-00023,School Route Capacity Review,,Passenger Mobility,School Route,145,55,0.001,1,2024-09-15,"school-route,capacity,passenger",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+24,9,SIL-00024,Refrigerated Truckload Slot,,Cold Chain,Reefer,190,78,0.001,1,2026-03-15,"reefer,cold-chain,temperature,truckload",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+25,9,SIL-00025,Cold Chain Exception Review,,Cold Chain,Temperature Excursion,130,50,0.001,1,2025-08-25,"temperature,exception,cold-chain,quality",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+26,10,ONR-00026,Port Drayage Appointment,,Port Drayage,Port Appointment,360,145,0.001,1,2026-02-03,"port,drayage,appointment,container",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+27,10,ONR-00027,Empty Container Return Slot,,Port Drayage,Equipment Return,640,260,0.001,1,2026-01-26,"empty-container,return,port,capacity",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+28,11,RAI-00028,Railcar Spotting Request,,Rail Freight,Yard Service,520,210,0.001,1,2025-02-20,"railcar,spotting,yard,capacity",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+29,11,RAI-00029,Interchange Delay Coaching,,Rail Freight,Delay Recovery,155,62,0.001,1,2025-08-16,"interchange,delay,recovery,rail",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+30,12,ROU-00030,Fleet Maintenance Window,,Fleet Services,Maintenance,210,86,0.001,1,2026-02-27,"fleet,maintenance,pm,availability",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z
+31,12,ROU-00031,Driver Safety Briefing,,Fleet Services,Safety,135,53,0.001,1,2026-03-11,"driver,safety,briefing,compliance",2026-05-13T10:00:43Z,2026-05-13T10:00:43Z

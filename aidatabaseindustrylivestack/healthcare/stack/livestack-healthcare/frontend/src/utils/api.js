@@ -245,10 +245,10 @@ export const api = {
         method: 'POST',
         body: JSON.stringify({ windowHours, viralThreshold }),
       }),
-    chat: (question) =>
+    chat: (question, history = []) =>
       apiFetch('/agents/chat', {
         method: 'POST',
-        body: JSON.stringify({ question }),
+        body: JSON.stringify({ question, history }),
       }),
     events: (params = {}) => {
       const qs = new URLSearchParams(params).toString();
@@ -300,10 +300,10 @@ export const api = {
     profiles: () => apiFetch('/selectai/profiles'),
     health: () => apiFetch('/selectai/health'),
     schemaObjects: () => apiFetch('/selectai/schema-objects'),
-    chat: (question, showSql = true, profile) =>
+    chat: (question, showSql = true, profile, history = []) =>
       apiFetch('/selectai/chat', {
         method: 'POST',
-        body: JSON.stringify({ question, showSql, profile }),
+        body: JSON.stringify({ question, showSql, profile, history }),
       }),
     showsql: (question, profile) =>
       apiFetch('/selectai/showsql', {

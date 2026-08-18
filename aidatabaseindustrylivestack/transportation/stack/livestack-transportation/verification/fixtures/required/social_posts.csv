@@ -1,0 +1,7 @@
+post_id,influencer_id,platform,external_post_id,post_text,posted_at,likes_count,shares_count,comments_count,views_count,sentiment_score,virality_score,detected_products,momentum_flag,processed_at,created_at
+1,1,threads,transport_threads_0001,Dispatch coordinators are flagging Regional LTL Freight Move demand before the weekend tender surge,2026-05-04T14:00:00Z,2200,410,92,34000,0.82,88.0,1,viral,2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+2,2,youtube,transport_youtube_0002,High-Value Load Monitoring Kit is helping teams catch dwell-time alerts before a missed delivery,2026-05-04T13:00:00Z,5100,870,140,92000,0.86,91.2,8,mega_viral,2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+3,3,instagram,transport_instagram_0003,Brokerage Truckload slots are the top request in our shipper operations forum,2026-05-04T12:00:00Z,3100,520,155,58000,0.71,84.5,10,viral,2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+4,4,tiktok,transport_tiktok_0004,Yard operators need more Trailer Yard Starter Kit capacity this week,2026-05-04T11:00:00Z,1800,300,80,26000,0.68,74.0,17,rising,2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+5,5,instagram,transport_instagram_0005,School Route Capacity Review demand is rising ahead of school activities,2026-05-04T10:00:00Z,1250,205,60,17000,0.79,69.0,23,rising,2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+6,6,threads,transport_threads_0006,Refrigerated Truckload Slot outreach is bringing shippers back into fleet planning,2026-05-04T09:00:00Z,900,120,45,11000,0.77,58.0,24,normal,2026-05-05T16:30:00Z,2026-05-05T16:30:00Z

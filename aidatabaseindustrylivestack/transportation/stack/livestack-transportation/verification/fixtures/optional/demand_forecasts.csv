@@ -1,0 +1,3 @@
+forecast_id,product_id,region,forecast_date,predicted_demand,confidence_low,confidence_high,social_factor,model_version,explanation,created_at
+1,1,Northeast Freight Corridor,2026-05-06,145,120,180,1.42,transport_signal_v2,"{""model"": ""transport_signal_v2"", ""drivers"": [""community_access_spike"", ""capacity_scarcity_signal""], ""confidence"": ""high"", ""alert"": ""pre_position_capacity_recommended""}",2026-05-05T16:30:00Z
+2,8,Southern Fleet Monitoring Belt,2026-05-06,88,70,115,1.31,transport_signal_v2,"{""model"": ""transport_signal_v2"", ""drivers"": [""community_access_spike"", ""capacity_scarcity_signal""], ""confidence"": ""high"", ""alert"": ""pre_position_capacity_recommended""}",2026-05-05T16:30:00Z

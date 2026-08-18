@@ -1,0 +1,80 @@
+product_id,brand_id,sku,product_name,description,category,subcategory,unit_price,unit_cost,weight_kg,is_active,launch_date,tags,created_at,updated_at
+1,1,VIT-00001,mRNA LNP Clinical Batch,,Biologics,mRNA Therapeutics,18500,12600,12,1,2025-06-13,"mrna,lnp,clinical-batch,cold-chain",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+2,1,VIT-00002,Recombinant Protein GMP Lot,,Biologics,Recombinant Proteins,14200,9100,8,1,2025-12-05,"recombinant-protein,gmp,release-testing",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+3,1,VIT-00003,AAV Vector Reference Lot,,Cell and Gene Therapy,Viral Vectors,26400,18800,6,1,2025-07-01,"aav,viral-vector,gene-therapy",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+4,1,VIT-00004,Sterile Fill Finish Batch Slot,,Manufacturing Services,Fill Finish,11800,7200,1,1,2025-09-26,"fill-finish,sterile,capacity",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+5,1,VIT-00005,Stability Study Sample Set,,Quality Control,Stability,3900,2100,3,1,2024-12-04,"stability,ich,quality",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+6,2,SOL-00006,Phase II Site Activation Kit,,Clinical Trial Supplies,Site Startup,720,420,9,1,2024-06-08,"site-activation,trial-kit,protocol",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+7,2,SOL-00007,eConsent Participant Packet,,Clinical Trial Supplies,Patient Materials,95,38,2,1,2026-03-29,"econsent,patient-materials,trial",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+8,2,SOL-00008,Randomization Label Pack,,Clinical Trial Supplies,IRT Labeling,210,92,1,1,2025-03-31,"randomization,labeling,irt",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+9,2,SOL-00009,Comparator Drug Blinding Kit,,Clinical Trial Supplies,Blinding,1280,740,4,1,2026-01-20,"comparator,blinding,trial-supply",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+10,2,SOL-00010,Rescue Medication Site Pack,,Clinical Trial Supplies,Rescue Medication,860,510,5,1,2025-11-24,"rescue-medication,site-pack,safety",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+11,3,BIO-00011,qPCR Respiratory Panel,,Diagnostics,Molecular Panels,1180,690,3,1,2025-11-19,"qpcr,diagnostics,respiratory",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+12,3,BIO-00012,NGS Oncology Library Kit,,Diagnostics,Sequencing,3250,2180,2,1,2024-12-22,"ngs,oncology,library-prep",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+13,3,BIO-00013,ELISA Cytokine Monitoring Kit,,Diagnostics,Immunoassay,760,430,2,1,2024-12-20,"elisa,cytokine,immunoassay",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+14,3,BIO-00014,Companion Diagnostic Control Set,,Diagnostics,Controls,1450,890,1,1,2025-07-10,"companion-diagnostic,controls,ivd",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+15,3,BIO-00015,Digital Pathology Slide Batch,,Diagnostics,Pathology,540,260,4,1,2026-02-18,"digital-pathology,slide-batch",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+16,4,GEN-00016,Autologous Cell Therapy Lot,,Cell and Gene Therapy,Autologous Therapy,52000,38100,7,1,2024-07-18,"autologous,cell-therapy,patient-specific",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+17,4,GEN-00017,Allogeneic Cell Bank Vial Set,,Cell and Gene Therapy,Cell Banks,14800,10100,4,1,2024-09-05,"allogeneic,cell-bank,cryogenic",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+18,4,GEN-00018,Plasmid DNA GMP Batch,,Cell and Gene Therapy,Plasmid DNA,21400,15200,5,1,2025-04-19,"plasmid,gmp,gene-therapy",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+19,4,GEN-00019,Viral Vector Release Panel,,Quality Control,Vector Release,4200,2600,1,1,2025-10-08,"vector-release,qc,potency",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+20,4,GEN-00020,Cryopreserved Dose Shipper,,Cold Chain,Cryogenic Shipment,1850,1100,16,1,2025-01-25,"cryogenic,shipper,cell-therapy",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+21,5,IMM-00021,Monoclonal Antibody Pilot Lot,,Biologics,mAb Manufacturing,33400,24100,10,1,2024-06-22,"monoclonal-antibody,pilot-lot,gmp",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+22,5,IMM-00022,High-Concentration Formulation Buffer,,Pharma Excipients,Biologics Buffer,640,360,12,1,2025-08-28,"formulation-buffer,biologics,excipient",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+23,5,IMM-00023,Host Cell Protein Assay Kit,,Quality Control,Process Impurities,1280,780,2,1,2024-11-08,"hcp,quality-control,bioprocess",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+24,5,IMM-00024,Protein A Resin Qualification Pack,,Manufacturing Consumables,Chromatography,8800,6200,14,1,2024-10-06,"protein-a,chromatography,qualification",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+25,5,IMM-00025,Bioburden Rapid Test Cartridge,,Quality Control,Microbiology,920,520,2,1,2025-12-02,"bioburden,microbiology,rapid-test",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+26,6,PRE-00026,GLP Toxicology Study Kit,,Preclinical,Toxicology,2400,1420,6,1,2026-03-01,"glp,toxicology,preclinical",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+27,6,PRE-00027,Animal Health Vaccine Batch,,Vaccines,Animal Health,8700,5800,10,1,2024-05-18,"animal-health,vaccine,batch",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+28,6,PRE-00028,Bioanalytical Plasma Sample Set,,Preclinical,Bioanalysis,680,360,5,1,2025-07-08,"bioanalysis,plasma,sample-set",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+29,6,PRE-00029,PK Sampling Visit Pack,,Clinical Trial Supplies,PK Sampling,340,170,3,1,2026-02-21,"pk,pharmacokinetics,visit-pack",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+30,6,PRE-00030,GLP Histopathology Slide Set,,Preclinical,Histopathology,1320,760,4,1,2025-05-27,"histopathology,glp,slides",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+31,7,CRY-00031,-80C Biologic Transport Lane,,Cold Chain,Ultra-Low Temperature,3100,1900,24,1,2025-07-29,"ultra-low,cold-chain,biologic",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+32,7,CRY-00032,2-8C Vaccine Distribution Lane,,Cold Chain,Refrigerated,1180,690,18,1,2025-11-20,"vaccine,2-8c,refrigerated",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+33,7,CRY-00033,Dry Ice Replenishment Service,,Cold Chain,Dry Ice,420,240,30,1,2025-07-30,"dry-ice,replenishment,shipment",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+34,7,CRY-00034,Cryogenic Dewar Validation Pack,,Cold Chain,Cryogenic Validation,2450,1510,20,1,2025-09-07,"dewar,validation,cryogenic",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+35,7,CRY-00035,Temperature Excursion Triage Kit,,Quality Control,Excursion Management,860,410,2,1,2025-06-12,"temperature-excursion,quality,cold-chain",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+36,8,SAF-00036,FDA IND Submission Pack,,Regulatory Services,IND,6200,3100,1,1,2024-06-05,"fda,ind,regulatory",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+37,8,SAF-00037,EMA Variation Dossier Review,,Regulatory Services,EMA,7400,3850,1,1,2024-08-28,"ema,variation,dossier",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+38,8,SAF-00038,GxP Audit Evidence Bundle,,Quality Compliance,GxP Audit,2850,1500,1,1,2025-04-26,"gxp,audit,evidence",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+39,8,SAF-00039,Labeling Change Impact Review,,Regulatory Services,Labeling,1950,930,1,1,2024-08-03,"labeling,change-control,regulatory",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+40,8,SAF-00040,Pharmacovigilance Case Pack,,Safety Operations,PV Case,520,230,1,1,2026-02-04,"pharmacovigilance,safety,case",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+41,9,STE-00041,Single-Use Bioreactor Bag 500L,,Manufacturing Consumables,Single Use,2200,1460,11,1,2024-10-31,"single-use,bioreactor,manufacturing",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+42,9,STE-00042,Sterile Connector Assembly,,Manufacturing Consumables,Fluid Path,480,260,2,1,2024-11-21,"sterile-connector,fluid-path",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+43,9,STE-00043,Gamma-Irradiated Tubing Set,,Manufacturing Consumables,Tubing,620,340,3,1,2025-08-16,"gamma-irradiated,tubing,sterile",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+44,9,STE-00044,Depth Filter Capsule Set,,Manufacturing Consumables,Filtration,1400,860,7,1,2026-03-14,"depth-filter,filtration,bioprocess",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+45,9,STE-00045,Cleanroom Gowning Kit,,Manufacturing Consumables,Cleanroom,58,29,1,1,2025-08-07,"cleanroom,gowning,gmp",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+46,10,GRE-00046,Sustainable Lab Plastics Kit,,Lab Supplies,Consumables,185,92,5,1,2026-04-07,"lab-plastics,sustainable,consumables",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+47,10,GRE-00047,Validated Sample Return Mailer,,Clinical Trial Supplies,Sample Logistics,72,35,1,1,2025-01-13,"sample-return,mailer,trial",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+48,10,GRE-00048,Ambient Biospecimen Ship Kit,,Clinical Trial Supplies,Biospecimen,126,64,2,1,2024-07-15,"biospecimen,ambient,shipping",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+49,10,GRE-00049,Recyclable Cold Pack Set,,Cold Chain,Passive Cooling,88,40,5,1,2026-04-04,"cold-pack,recyclable,passive",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+50,10,GRE-00050,Low-Waste Lab Starter Pack,,Lab Supplies,Sustainable Lab,240,128,6,1,2025-08-16,"low-waste,lab-supplies,sustainability",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+51,11,MED-00051,Sterile Vial Stopper Set,,Packaging Components,Container Closure,340,190,3,1,2024-08-29,"vial-stopper,sterile,closure",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+52,11,MED-00052,Prefilled Syringe Component Kit,,Packaging Components,Device Components,920,520,4,1,2025-05-18,"prefilled-syringe,device,packaging",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+53,11,MED-00053,Autoinjector Assembly Lot,,Combination Products,Autoinjector,8200,5600,9,1,2025-03-22,"autoinjector,combination-product",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+54,11,MED-00054,Tamper-Evident Carton Batch,,Packaging Components,Serialization,260,135,7,1,2024-07-10,"carton,serialization,tamper-evident",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+55,11,MED-00055,UDI Label Validation Pack,,Regulatory Services,UDI,780,390,1,1,2026-03-08,"udi,label-validation,device",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+56,12,CAT-00056,Continuous Bioprocess Sensor Set,,Manufacturing Analytics,Process Sensors,5600,3300,3,1,2025-02-01,"bioprocess,sensor,continuous",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+57,12,CAT-00057,PAT Spectroscopy Model Pack,,Manufacturing Analytics,PAT,7600,4400,1,1,2025-10-23,"pat,spectroscopy,model",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+58,12,CAT-00058,Cell Culture Media Feed Lot,,Bioprocess Materials,Media Feed,1180,720,18,1,2025-07-07,"cell-culture,media-feed,bioprocess",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+59,12,CAT-00059,Viral Clearance Study Pack,,Quality Control,Viral Clearance,9400,6100,2,1,2024-12-21,"viral-clearance,quality,study",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+60,12,CAT-00060,Process Deviation Triage Service,,Quality Compliance,Deviation,1750,820,1,1,2024-10-14,"deviation,triage,quality",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+61,31,PUR-00061,Purified Water Monitoring Kit,,Quality Control,Utilities,390,210,3,1,2025-06-21,"purified-water,monitoring,gmp",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+62,32,SIL-00062,Medical-Grade Silicone Tubing,,Device Components,Tubing,520,310,5,1,2025-07-14,"medical-grade,silicone,device",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+63,33,END-00063,Endotoxin Removal Cartridge,,Bioprocess Materials,Endotoxin Control,1480,920,4,1,2024-11-07,"endotoxin,cartridge,bioprocess",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+64,34,STE-00064,Sterility Assurance Swab Pack,,Quality Control,Sterility,260,120,1,1,2025-05-08,"sterility,swab,environmental-monitoring",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+65,35,STA-00065,Antioxidant Excipient Blend,,Pharma Excipients,Stabilizers,640,390,6,1,2025-04-21,"antioxidant,excipient,stability",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+66,36,ASE-00066,Aseptic Process Simulation Kit,,Quality Control,Media Fill,3200,1980,8,1,2025-01-19,"aseptic,media-fill,simulation",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+67,37,CIT-00067,Citrate Buffer USP Batch,,Pharma Excipients,Buffers,540,330,9,1,2025-01-14,"citrate-buffer,usp,excipient",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+68,38,WFI-00068,Sterile WFI Vial Batch,,Pharma Excipients,Water for Injection,780,460,10,1,2025-04-06,"wfi,sterile,vial",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+69,39,ADH-00069,Device Adhesive Biocompatibility Lot,,Device Components,Biocompatible Adhesives,1450,920,3,1,2024-07-23,"device,adhesive,biocompatibility",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+70,40,MED-00070,Medical-Grade Resin Cartridge,,Device Components,Medical Device Material,1180,730,8,1,2024-06-10,"medical-grade,resin,device",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+71,41,CLE-00071,Clean Steam Integrity Audit,,Quality Compliance,Utilities Audit,2100,1160,1,1,2026-04-11,"clean-steam,audit,gmp",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+72,24,PHA-00072,USP Propylene Glycol Excipient,,Pharma Excipients,Glycols,540,360,215,1,2025-02-23,"usp,propylene-glycol,pharma",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+73,25,CLE-00073,Stainless Bioreactor Passivation Kit,,Manufacturing Consumables,Passivation,680,410,7,1,2025-10-28,"passivation,bioreactor,cleaning",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+74,26,FOR-00074,Acrylic Device Housing Resin,,Device Components,Device Housing,330,202,10,1,2025-02-10,"device-housing,resin,medical-device",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+75,28,FIN-00075,Trace Impurity Reference Standard,,Quality Control,Reference Standards,1180,760,1,1,2024-12-25,"impurity,reference-standard,qc",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+76,29,POR-00076,Imported API Release Lot,,Active Pharmaceutical Ingredients,API,9200,6800,12,1,2025-09-17,"api,release-lot,import",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+77,30,PEP-00077,Peptide Intermediate Batch,,Active Pharmaceutical Ingredients,Peptide Intermediate,12600,9300,3,1,2025-08-22,"peptide,intermediate,api",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+78,48,LAB-00078,Sodium Chloride USP Buffer Component,,Lab Reagents,Salts,215,140,10,1,2025-07-11,"sodium-chloride,usp,buffer",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z
+79,49,SPE-00079,Specialty Amine API Intermediate,,Active Pharmaceutical Ingredients,API Intermediate,6800,4300,4,1,2024-12-07,"amine,api,intermediate",2026-05-13T09:49:19Z,2026-05-13T09:49:19Z

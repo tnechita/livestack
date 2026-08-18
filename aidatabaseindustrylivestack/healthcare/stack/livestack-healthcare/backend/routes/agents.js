@@ -219,12 +219,39 @@ function fallbackAgentSummary(teamName, context) {
   return `Last 30 days: ${totalRequests.toLocaleString()} care service requests, $${totalServiceValue.toLocaleString()} service value, ${signalRequests.toLocaleString()} signal-driven requests, $${signalServiceValue.toLocaleString()} signal-attributed service value.`;
 }
 
-async function askAgent(teamName, question) {
+function buildAgentConversationContext(history = []) {
+  if (!Array.isArray(history)) return [];
+  return history
+    .filter((entry) => entry?.role === 'user' || entry?.role === 'agent')
+    .slice(-6)
+    .map((entry) => ({
+      role: entry.role === 'agent' ? 'Agent' : 'User',
+      team: STATIC_TEAMS.some((team) => team.TEAM_NAME === entry.team) ? entry.team : null,
+      text: String(entry.text || '').replace(/\s+/g, ' ').trim().slice(0, 500),
+    }))
+    .filter((entry) => entry.text);
+}
+
+function getPriorAgentTeam(history = []) {
+  const priorAgent = [...buildAgentConversationContext(history)]
+    .reverse()
+    .find((entry) => entry.role === 'Agent' && entry.team);
+  return priorAgent?.team || null;
+}
+
+async function askAgent(teamName, question, history = []) {
   const { instructions, context } = await buildAgentContext(teamName);
   const fallback = fallbackAgentSummary(teamName, context);
   try {
     return await Promise.race([
-      summarizeContext({ question, instructions, context }),
+      summarizeContext({
+        question,
+        instructions,
+        context: {
+          ...context,
+          conversation_context: buildAgentConversationContext(history),
+        },
+      }),
       new Promise((_, reject) => setTimeout(() => reject(new Error('timeout')), 30000)),
     ]);
   } catch (_) {
@@ -802,7 +829,7 @@ router.post('/set-profile', async (req, res) => {
 // Auto-detects intent, tries Ollama reasoning first,
 // and falls back to direct SQL / PL/SQL tool functions.
 router.post('/chat', async (req, res) => {
-  const { question } = req.body;
+  const { question, history = [] } = req.body;
   if (!question || !question.trim()) {
     return res.status(400).json({ error: 'A question is required' });
   }
@@ -832,11 +859,21 @@ router.post('/chat', async (req, res) => {
                        + inventoryWeak.filter(k => qLower.includes(k)).length;
   const commerceScore = commerceStrong.filter(k => qLower.includes(k)).length * 3
                       + commerceWeak.filter(k => qLower.includes(k)).length;
+  const hasExplicitIntent = trendScore > 0 || inventoryScore > 0 || commerceScore > 0;
 
   if (trendScore >= inventoryScore && trendScore >= commerceScore && trendScore > 0) {
     team = 'SOCIAL_TREND_TEAM'; intent = 'trends';
   } else if (inventoryScore > trendScore && inventoryScore >= commerceScore) {
     team = 'FULFILLMENT_TEAM'; intent = 'fulfillment';
+  } else if (!hasExplicitIntent) {
+    const priorTeam = getPriorAgentTeam(history);
+    if (priorTeam === 'SOCIAL_TREND_TEAM') {
+      team = priorTeam;
+      intent = 'trends';
+    } else if (priorTeam === 'FULFILLMENT_TEAM') {
+      team = priorTeam;
+      intent = 'fulfillment';
+    }
   }
 
   // ── Step 2: Try Ollama team reasoning first ─────────────────────────────
@@ -844,7 +881,7 @@ router.post('/chat', async (req, res) => {
   let agentUsed = false;
   try {
     agentResponse = await Promise.race([
-      askAgent(team, q),
+      askAgent(team, q, history),
       new Promise((_, reject) => setTimeout(() => reject(new Error('timeout')), 8000)),
     ]);
     if (agentResponse) {

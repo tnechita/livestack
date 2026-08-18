@@ -1,0 +1,31 @@
+center_id,center_name,center_type,address_line1,city,state_province,postal_code,country,latitude,longitude,capacity_units,current_load_pct,is_active,operating_hours,created_at
+1,Edison Northeast Cold Chain Depot,distribution,,Edison,New Jersey,08817,US,40.5187,-74.4121,500000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+2,Ontario Clinical Supply Warehouse,warehouse,,Ontario,California,91761,US,34.0633,-117.6509,750000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+3,Joliet Midwest Regulatory Hub,distribution,,Joliet,Illinois,60435,US,41.525,-88.0817,400000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+4,Lancaster Trial Kit Storage Site,warehouse,,Lancaster,Texas,75134,US,32.5921,-96.7561,350000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+5,Union City Southeast Cold Chain Hub,distribution,,Union City,Georgia,30291,US,33.5871,-84.5421,450000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+6,Kent Pacific Biologics Warehouse,warehouse,,Kent,Washington,98032,US,47.3809,-122.2348,300000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+7,Hialeah Import Compliance Site,distribution,,Hialeah,Florida,33012,US,25.8576,-80.2781,250000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+8,Aurora Mountain West Repack Hub,warehouse,,Aurora,Colorado,80011,US,39.7294,-104.8319,200000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+9,Goodyear Desert Cold Chain Site,warehouse,,Goodyear,Arizona,85338,US,33.4353,-112.3577,280000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+10,Fall River Northeast Safety Hub,distribution,,Fall River,Massachusetts,02720,US,41.7015,-71.155,220000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+11,Shakopee Trial Supply Warehouse,warehouse,,Shakopee,Minnesota,55379,US,44.7974,-93.5272,180000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+12,Troutdale Pacific Micro Site,micro,,Troutdale,Oregon,97060,US,45.539,-122.3872,80000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+13,Lebanon Central Biologics Warehouse,warehouse,,Lebanon,Tennessee,37087,US,36.2081,-86.2911,250000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+14,Fremont Bay Area Compliance Site,micro,,Fremont,California,94538,US,37.5485,-121.9886,120000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+15,Romulus Great Lakes Bioprocess Hub,warehouse,,Romulus,Michigan,48174,US,42.2223,-83.3963,200000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+16,Middletown Mid-Atlantic Cold Chain Hub,distribution,,Middletown,Delaware,19709,US,39.4496,-75.7163,350000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+17,Missouri City Gulf Coast Warehouse,warehouse,,Missouri City,Texas,77459,US,29.6186,-95.5377,300000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+18,West Jordan Mountain Clinical Site,warehouse,,West Jordan,Utah,84084,US,40.6097,-111.9391,180000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+19,Concord Southeast Micro Site,micro,,Concord,North Carolina,28027,US,35.4088,-80.5795,100000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+20,Plainfield Heartland Clinical Hub,warehouse,,Plainfield,Indiana,46168,US,39.7043,-86.3994,250000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+21,North Las Vegas West Storage Site,warehouse,,North Las Vegas,Nevada,89030,US,36.1989,-115.1175,200000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+22,Edwardsville Central Distribution Site,distribution,,Edwardsville,Kansas,66111,US,39.0614,-94.8193,320000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+23,Etna Midwest Specialty Warehouse,warehouse,,Etna,Ohio,43018,US,39.9576,-82.6818,220000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+24,Sparks West Coast Cold Chain Hub,warehouse,,Sparks,Nevada,89431,US,39.5349,-119.7527,280000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+25,Brandon Florida Micro Site,micro,,Brandon,Florida,33510,US,27.9378,-82.2859,90000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+26,Aberdeen East Coast Biologics Warehouse,warehouse,,Aberdeen,Maryland,21001,US,39.5096,-76.1641,240000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+27,New Braunfels South Texas Micro Site,micro,,New Braunfels,Texas,78130,US,29.703,-98.1245,100000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+28,Olive Branch Memphis Logistics Site,distribution,,Olive Branch,Mississippi,38654,US,34.9618,-89.8295,400000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+29,Kapolei Pacific Island Storage Site,micro,,Kapolei,Hawaii,96707,US,21.335,-158.0581,50000,0,1,06:00-22:00,2026-05-13T09:49:19Z
+30,Anchorage Alaska Cold Chain Site,micro,,Anchorage,Alaska,99501,US,61.2181,-149.9003,40000,0,1,06:00-22:00,2026-05-13T09:49:19Z

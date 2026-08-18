@@ -31,7 +31,7 @@
       "filename": "../../batch-and-file-loading/batch-and-file-loading.md"
     },
     {
-      "title": "Scene 6: Data Processing and Pipelines",
+      "title": "Scene 6: Transform Iceberg Data",
       "filename": "../../process-bronze-to-silver/process-bronze-to-silver.md"
     },
     {

@@ -1869,7 +1869,13 @@ function validateReadOnlySql(sql) {
   return { ok: true, sql: normalized };
 }
 
-async function generateReadOnlySql(question, { mode = 'narrate', profile = DEFAULT_PROFILE, resolutionHints = [], trace = null } = {}) {
+async function generateReadOnlySql(question, {
+  mode = 'narrate',
+  profile = DEFAULT_PROFILE,
+  resolutionHints = [],
+  conversationContext = [],
+  trace = null,
+} = {}) {
   const start = Date.now();
   const patternSql = generatePatternSql(question);
   if (patternSql) {
@@ -1885,6 +1891,7 @@ async function generateReadOnlySql(question, { mode = 'narrate', profile = DEFAU
   }
 
   const schemaContext = await getSchemaContext(question);
+  const contextText = buildConversationContext(conversationContext);
   const response = await ollamaJson(
     [
       'You translate natural language into a single Oracle SQL query for a fixed application schema.',
@@ -1908,6 +1915,7 @@ async function generateReadOnlySql(question, { mode = 'narrate', profile = DEFAU
     [
       `Question: ${question}`,
       `Mode: ${mode}`,
+      contextText ? `Conversation context:\n${contextText}` : null,
       resolutionHints.length ? `Resolved entities:\n- ${resolutionHints.join('\n- ')}` : null,
       schemaContext,
     ].filter(Boolean).join('\n\n'),
@@ -1931,8 +1939,15 @@ async function generateReadOnlySql(question, { mode = 'narrate', profile = DEFAU
   return validation.sql;
 }
 
-async function repairReadOnlySql(question, failedSql, failedError, { mode = 'narrate', profile = DEFAULT_PROFILE, resolutionHints = [], trace = null } = {}) {
+async function repairReadOnlySql(question, failedSql, failedError, {
+  mode = 'narrate',
+  profile = DEFAULT_PROFILE,
+  resolutionHints = [],
+  conversationContext = [],
+  trace = null,
+} = {}) {
   const schemaContext = await getSchemaContext(question);
+  const contextText = buildConversationContext(conversationContext);
   const response = await ollamaJson(
     [
       'You repair a failing Oracle SQL query for a fixed application schema.',
@@ -1954,6 +1969,7 @@ async function repairReadOnlySql(question, failedSql, failedError, { mode = 'nar
     [
       `Question: ${question}`,
       `Mode: ${mode}`,
+      contextText ? `Conversation context:\n${contextText}` : null,
       resolutionHints.length ? `Resolved entities:\n- ${resolutionHints.join('\n- ')}` : null,
       `Oracle error: ${getShortErrorMessage(failedError)}`,
       `Failing SQL:\n${failedSql}`,
@@ -2029,7 +2045,12 @@ async function executeReadOnlySql(sql, { demoUser = null, maxRows = ASKDATA_MAX_
   }
 }
 
-async function generateQuestionSql(question, { mode = 'showsql', profile = DEFAULT_PROFILE, trace = null } = {}) {
+async function generateQuestionSql(question, {
+  mode = 'showsql',
+  profile = DEFAULT_PROFILE,
+  conversationContext = [],
+  trace = null,
+} = {}) {
   const resolvedProfile = normalizeProfile(profile);
   if (isUnsafeSqlIntent(question)) {
     if (trace) trace.sqlValidationOk = false;
@@ -2061,6 +2082,7 @@ async function generateQuestionSql(question, { mode = 'showsql', profile = DEFAU
     mode,
     profile: resolvedProfile,
     resolutionHints: resolution.resolutionHints,
+    conversationContext,
     trace,
   });
   const validation = validateReadOnlySql(sql);
@@ -2082,9 +2104,21 @@ async function generateQuestionSql(question, { mode = 'showsql', profile = DEFAU
   };
 }
 
-async function runQuestionQuery(question, { mode = 'narrate', demoUser = null, profile = DEFAULT_PROFILE, maxRows = ASKDATA_MAX_ROWS, trace = null } = {}) {
+async function runQuestionQuery(question, {
+  mode = 'narrate',
+  demoUser = null,
+  profile = DEFAULT_PROFILE,
+  maxRows = ASKDATA_MAX_ROWS,
+  conversationContext = [],
+  trace = null,
+} = {}) {
   const resolvedProfile = normalizeProfile(profile);
-  const generated = await generateQuestionSql(question, { mode, profile: resolvedProfile, trace });
+  const generated = await generateQuestionSql(question, {
+    mode,
+    profile: resolvedProfile,
+    conversationContext,
+    trace,
+  });
   const initialSql = generated.sql;
   let currentSql = initialSql;
 
@@ -2119,6 +2153,7 @@ async function runQuestionQuery(question, { mode = 'narrate', demoUser = null, p
 	          mode,
 	          profile: resolvedProfile,
 	          resolutionHints: [],
+	          conversationContext,
 	          trace,
 	        });
 	      } catch (repairPromptError) {
@@ -2866,6 +2901,7 @@ async function answerQuestion(question, {
     mode,
     demoUser,
     profile: resolvedProfile,
+    conversationContext,
     trace,
   });
   const answer = await summarizeQueryResult({

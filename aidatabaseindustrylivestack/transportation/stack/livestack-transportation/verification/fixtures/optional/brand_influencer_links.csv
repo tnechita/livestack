@@ -1,0 +1,4 @@
+link_id,brand_id,influencer_id,relationship_type,post_count,avg_engagement,revenue_attributed,first_mention,last_mention
+1,1,1,organic,18,0.061,14200,2026-04-01T00:00:00Z,2026-05-05T16:30:00Z
+2,3,2,ambassador,12,0.052,21800,2026-04-10T00:00:00Z,2026-05-05T16:30:00Z
+3,4,3,organic,20,0.067,9800,2026-04-15T00:00:00Z,2026-05-05T16:30:00Z

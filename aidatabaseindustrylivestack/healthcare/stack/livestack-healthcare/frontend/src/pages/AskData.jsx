@@ -557,7 +557,7 @@ export default function AskData() {
     try {
       let response;
       if (mode === 'narrate') {
-        const result = await api.selectai.chat(question, true, profile);
+        const result = await api.selectai.chat(question, true, profile, buildConversationHistory(messages));
         response = {
           role: 'assistant',
           mode: 'narrate',

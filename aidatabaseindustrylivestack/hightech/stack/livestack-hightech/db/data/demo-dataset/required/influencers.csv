@@ -1,0 +1,481 @@
+influencer_id,handle,display_name,platform,follower_count,engagement_rate,influence_score,niche,city,region,country,is_verified,created_at
+1,@semiconductor_manufacturing_001,Ava Chen semiconductor analyst,threads,102919,7.43,93.2,semiconductor manufacturing,San Jose,California,USA,1,2026-04-23T16:30:00Z
+2,@fab_operations_002,Noah Kim fab analyst,youtube,93957,7.79,88.6,fab operations,Phoenix,Arizona,USA,0,2026-04-22T16:30:00Z
+3,@wafer_starts_003,Mia Wright wafer analyst,instagram,58670,4.59,69.5,wafer starts,Dallas,Texas,USA,0,2026-04-21T16:30:00Z
+4,@yield_improvement_004,Ethan Garcia yield analyst,tiktok,155219,4.46,67.9,yield improvement,Chicago,Illinois,USA,0,2026-04-20T16:30:00Z
+5,@product_lifecycle_management_005,Sophia Foster product analyst,twitter,58205,7.79,54.4,product lifecycle management,Boston,Massachusetts,USA,1,2026-04-19T16:30:00Z
+6,@engineering_change_orders_006,Liam Carter engineering analyst,threads,41805,6.85,83.8,engineering change orders,Atlanta,Georgia,USA,0,2026-04-18T16:30:00Z
+7,@component_shortages_007,Olivia Gray component analyst,youtube,89808,5.05,54.4,component shortages,Seattle,Washington,USA,0,2026-04-17T16:30:00Z
+8,@supplier_risk_008,Lucas Patel supplier analyst,instagram,220350,7.21,77.1,supplier risk,Denver,Colorado,USA,0,2026-04-16T16:30:00Z
+9,@contract_manufacturing_009,Emma Morgan contract analyst,tiktok,167177,2.1,62.9,contract manufacturing,Raleigh,North Carolina,USA,1,2026-04-15T16:30:00Z
+10,@field_quality_010,Mason Singh field analyst,twitter,129993,8.38,74.7,field quality,Miami,Florida,USA,0,2026-04-14T16:30:00Z
+11,@warranty_analytics_011,Isabella Park warranty analyst,threads,36376,8.33,58.1,warranty analytics,New York,New York,USA,0,2026-04-23T16:30:00Z
+12,@connected_products_012,Logan Reed connected analyst,youtube,218552,8.48,64.9,connected products,Los Angeles,California,USA,0,2026-04-22T16:30:00Z
+13,@order_promising_013,Amelia Nguyen order analyst,instagram,113345,7.43,65.7,order promising,San Jose,California,USA,1,2026-04-21T16:30:00Z
+14,@service_and_support_operations_014,Elijah Morris service analyst,tiktok,214804,2.12,58.7,service and support operations,Phoenix,Arizona,USA,0,2026-04-20T16:30:00Z
+15,@semiconductor_manufacturing_015,Harper Rivera semiconductor analyst,twitter,115913,5.1,68,semiconductor manufacturing,Dallas,Texas,USA,0,2026-04-19T16:30:00Z
+16,@fab_operations_016,James Ramos fab analyst,threads,43242,4.22,82.6,fab operations,Chicago,Illinois,USA,0,2026-04-18T16:30:00Z
+17,@wafer_starts_017,Evelyn Nelson wafer analyst,youtube,117822,3.03,91.5,wafer starts,Boston,Massachusetts,USA,1,2026-04-17T16:30:00Z
+18,@yield_improvement_018,Benjamin Brooks yield analyst,instagram,205723,4.52,56.1,yield improvement,Atlanta,Georgia,USA,0,2026-04-16T16:30:00Z
+19,@product_lifecycle_management_019,Luna Price product analyst,tiktok,223060,4.48,65.3,product lifecycle management,Seattle,Washington,USA,0,2026-04-15T16:30:00Z
+20,@engineering_change_orders_020,Henry Scott engineering analyst,twitter,62910,3.67,78.8,engineering change orders,Denver,Colorado,USA,0,2026-04-14T16:30:00Z
+21,@component_shortages_021,Ava Chen component analyst,threads,145720,8.51,66.2,component shortages,Raleigh,North Carolina,USA,1,2026-04-23T16:30:00Z
+22,@supplier_risk_022,Noah Kim supplier analyst,youtube,146013,8.32,59.4,supplier risk,Miami,Florida,USA,0,2026-04-22T16:30:00Z
+23,@contract_manufacturing_023,Mia Wright contract analyst,instagram,161557,4.85,54.4,contract manufacturing,New York,New York,USA,0,2026-04-21T16:30:00Z
+24,@field_quality_024,Ethan Garcia field analyst,tiktok,154945,5.57,80.6,field quality,Los Angeles,California,USA,0,2026-04-20T16:30:00Z
+25,@warranty_analytics_025,Sophia Foster warranty analyst,twitter,188664,3.84,93.6,warranty analytics,San Jose,California,USA,1,2026-04-19T16:30:00Z
+26,@connected_products_026,Liam Carter connected analyst,threads,211163,3.59,64.2,connected products,Phoenix,Arizona,USA,0,2026-04-18T16:30:00Z
+27,@order_promising_027,Olivia Gray order analyst,youtube,231179,4.04,69,order promising,Dallas,Texas,USA,0,2026-04-17T16:30:00Z
+28,@service_and_support_operations_028,Lucas Patel service analyst,instagram,193370,6.15,76.2,service and support operations,Chicago,Illinois,USA,0,2026-04-16T16:30:00Z
+29,@semiconductor_manufacturing_029,Emma Morgan semiconductor analyst,tiktok,185370,8.65,68.6,semiconductor manufacturing,Boston,Massachusetts,USA,1,2026-04-15T16:30:00Z
+30,@fab_operations_030,Mason Singh fab analyst,twitter,44181,8.72,66.8,fab operations,Atlanta,Georgia,USA,0,2026-04-14T16:30:00Z
+31,@wafer_starts_031,Isabella Park wafer analyst,threads,91338,6.16,77.3,wafer starts,Seattle,Washington,USA,0,2026-04-23T16:30:00Z
+32,@yield_improvement_032,Logan Reed yield analyst,youtube,170566,2.8,76,yield improvement,Denver,Colorado,USA,0,2026-04-22T16:30:00Z
+33,@product_lifecycle_management_033,Amelia Nguyen product analyst,instagram,217294,1.89,75.5,product lifecycle management,Raleigh,North Carolina,USA,1,2026-04-21T16:30:00Z
+34,@engineering_change_orders_034,Elijah Morris engineering analyst,tiktok,179677,2.66,70.4,engineering change orders,Miami,Florida,USA,0,2026-04-20T16:30:00Z
+35,@component_shortages_035,Harper Rivera component analyst,twitter,117478,6.62,74.3,component shortages,New York,New York,USA,0,2026-04-19T16:30:00Z
+36,@supplier_risk_036,James Ramos supplier analyst,threads,80593,7.46,93,supplier risk,Los Angeles,California,USA,0,2026-04-18T16:30:00Z
+37,@contract_manufacturing_037,Evelyn Nelson contract analyst,youtube,188027,6.12,77.2,contract manufacturing,San Jose,California,USA,1,2026-04-17T16:30:00Z
+38,@field_quality_038,Benjamin Brooks field analyst,instagram,196649,7.12,77.9,field quality,Phoenix,Arizona,USA,0,2026-04-16T16:30:00Z
+39,@warranty_analytics_039,Luna Price warranty analyst,tiktok,20955,6.11,80,warranty analytics,Dallas,Texas,USA,0,2026-04-15T16:30:00Z
+40,@connected_products_040,Henry Scott connected analyst,twitter,67403,4.59,68,connected products,Chicago,Illinois,USA,0,2026-04-14T16:30:00Z
+41,@order_promising_041,Ava Chen order analyst,threads,110233,4.15,62.2,order promising,Boston,Massachusetts,USA,1,2026-04-23T16:30:00Z
+42,@service_and_support_operations_042,Noah Kim service analyst,youtube,184416,8.44,94,service and support operations,Atlanta,Georgia,USA,0,2026-04-22T16:30:00Z
+43,@semiconductor_manufacturing_043,Mia Wright semiconductor analyst,instagram,122728,2.9,68,semiconductor manufacturing,Seattle,Washington,USA,0,2026-04-21T16:30:00Z
+44,@fab_operations_044,Ethan Garcia fab analyst,tiktok,180838,2.34,86.7,fab operations,Denver,Colorado,USA,0,2026-04-20T16:30:00Z
+45,@wafer_starts_045,Sophia Foster wafer analyst,twitter,74991,6.72,65.8,wafer starts,Raleigh,North Carolina,USA,1,2026-04-19T16:30:00Z
+46,@yield_improvement_046,Liam Carter yield analyst,threads,199103,4.33,77.8,yield improvement,Miami,Florida,USA,0,2026-04-18T16:30:00Z
+47,@product_lifecycle_management_047,Olivia Gray product analyst,youtube,200552,4.56,74.4,product lifecycle management,New York,New York,USA,0,2026-04-17T16:30:00Z
+48,@engineering_change_orders_048,Lucas Patel engineering analyst,instagram,106536,6.23,90.2,engineering change orders,Los Angeles,California,USA,0,2026-04-16T16:30:00Z
+49,@component_shortages_049,Emma Morgan component analyst,tiktok,187075,5.64,71.1,component shortages,San Jose,California,USA,1,2026-04-15T16:30:00Z
+50,@supplier_risk_050,Mason Singh supplier analyst,twitter,197301,8.2,86,supplier risk,Phoenix,Arizona,USA,0,2026-04-14T16:30:00Z
+51,@contract_manufacturing_051,Isabella Park contract analyst,threads,58750,5.72,75.2,contract manufacturing,Dallas,Texas,USA,0,2026-04-23T16:30:00Z
+52,@field_quality_052,Logan Reed field analyst,youtube,150293,5.89,69.8,field quality,Chicago,Illinois,USA,0,2026-04-22T16:30:00Z
+53,@warranty_analytics_053,Amelia Nguyen warranty analyst,instagram,98410,3.17,81.3,warranty analytics,Boston,Massachusetts,USA,1,2026-04-21T16:30:00Z
+54,@connected_products_054,Elijah Morris connected analyst,tiktok,40799,3.05,69,connected products,Atlanta,Georgia,USA,0,2026-04-20T16:30:00Z
+55,@order_promising_055,Harper Rivera order analyst,twitter,89061,2.84,76,order promising,Seattle,Washington,USA,0,2026-04-19T16:30:00Z
+56,@service_and_support_operations_056,James Ramos service analyst,threads,231265,8.34,57.1,service and support operations,Denver,Colorado,USA,0,2026-04-18T16:30:00Z
+57,@semiconductor_manufacturing_057,Evelyn Nelson semiconductor analyst,youtube,198762,8.48,65.9,semiconductor manufacturing,Raleigh,North Carolina,USA,1,2026-04-17T16:30:00Z
+58,@fab_operations_058,Benjamin Brooks fab analyst,instagram,134767,8.69,79.5,fab operations,Miami,Florida,USA,0,2026-04-16T16:30:00Z
+59,@wafer_starts_059,Luna Price wafer analyst,tiktok,62847,6.63,60.9,wafer starts,New York,New York,USA,0,2026-04-15T16:30:00Z
+60,@yield_improvement_060,Henry Scott yield analyst,twitter,33489,5.06,76.4,yield improvement,Los Angeles,California,USA,0,2026-04-14T16:30:00Z
+61,@product_lifecycle_management_061,Ava Chen product analyst,threads,125440,5.37,90.3,product lifecycle management,San Jose,California,USA,1,2026-04-23T16:30:00Z
+62,@engineering_change_orders_062,Noah Kim engineering analyst,youtube,219950,8.55,74.7,engineering change orders,Phoenix,Arizona,USA,0,2026-04-22T16:30:00Z
+63,@component_shortages_063,Mia Wright component analyst,instagram,21948,3.79,54.9,component shortages,Dallas,Texas,USA,0,2026-04-21T16:30:00Z
+64,@supplier_risk_064,Ethan Garcia supplier analyst,tiktok,13246,2.03,91.5,supplier risk,Chicago,Illinois,USA,0,2026-04-20T16:30:00Z
+65,@contract_manufacturing_065,Sophia Foster contract analyst,twitter,77503,2.38,93.7,contract manufacturing,Boston,Massachusetts,USA,1,2026-04-19T16:30:00Z
+66,@field_quality_066,Liam Carter field analyst,threads,31760,4.58,75.7,field quality,Atlanta,Georgia,USA,0,2026-04-18T16:30:00Z
+67,@warranty_analytics_067,Olivia Gray warranty analyst,youtube,128156,2.84,56.2,warranty analytics,Seattle,Washington,USA,0,2026-04-17T16:30:00Z
+68,@connected_products_068,Lucas Patel connected analyst,instagram,195566,2.82,54.6,connected products,Denver,Colorado,USA,0,2026-04-16T16:30:00Z
+69,@order_promising_069,Emma Morgan order analyst,tiktok,176291,8.64,77.2,order promising,Raleigh,North Carolina,USA,1,2026-04-15T16:30:00Z
+70,@service_and_support_operations_070,Mason Singh service analyst,twitter,28892,3.95,93.6,service and support operations,Miami,Florida,USA,0,2026-04-14T16:30:00Z
+71,@semiconductor_manufacturing_071,Isabella Park semiconductor analyst,threads,23899,8.88,80.9,semiconductor manufacturing,New York,New York,USA,0,2026-04-23T16:30:00Z
+72,@fab_operations_072,Logan Reed fab analyst,youtube,13025,2.43,81.7,fab operations,Los Angeles,California,USA,0,2026-04-22T16:30:00Z
+73,@wafer_starts_073,Amelia Nguyen wafer analyst,instagram,115070,4.59,91.6,wafer starts,San Jose,California,USA,1,2026-04-21T16:30:00Z
+74,@yield_improvement_074,Elijah Morris yield analyst,tiktok,80709,3.58,74.7,yield improvement,Phoenix,Arizona,USA,0,2026-04-20T16:30:00Z
+75,@product_lifecycle_management_075,Harper Rivera product analyst,twitter,211868,7.26,88.4,product lifecycle management,Dallas,Texas,USA,0,2026-04-19T16:30:00Z
+76,@engineering_change_orders_076,James Ramos engineering analyst,threads,38902,5.17,69.9,engineering change orders,Chicago,Illinois,USA,0,2026-04-18T16:30:00Z
+77,@component_shortages_077,Evelyn Nelson component analyst,youtube,16948,3.83,76.8,component shortages,Boston,Massachusetts,USA,1,2026-04-17T16:30:00Z
+78,@supplier_risk_078,Benjamin Brooks supplier analyst,instagram,196426,7.08,84.9,supplier risk,Atlanta,Georgia,USA,0,2026-04-16T16:30:00Z
+79,@contract_manufacturing_079,Luna Price contract analyst,tiktok,80995,8.72,93.6,contract manufacturing,Seattle,Washington,USA,0,2026-04-15T16:30:00Z
+80,@field_quality_080,Henry Scott field analyst,twitter,48128,6.42,72.6,field quality,Denver,Colorado,USA,0,2026-04-14T16:30:00Z
+81,@warranty_analytics_081,Ava Chen warranty analyst,threads,118871,3.47,72.3,warranty analytics,Raleigh,North Carolina,USA,1,2026-04-23T16:30:00Z
+82,@connected_products_082,Noah Kim connected analyst,youtube,140321,5.69,84.7,connected products,Miami,Florida,USA,0,2026-04-22T16:30:00Z
+83,@order_promising_083,Mia Wright order analyst,instagram,197842,3.09,93.8,order promising,New York,New York,USA,0,2026-04-21T16:30:00Z
+84,@service_and_support_operations_084,Ethan Garcia service analyst,tiktok,66067,8.81,75.5,service and support operations,Los Angeles,California,USA,0,2026-04-20T16:30:00Z
+85,@semiconductor_manufacturing_085,Sophia Foster semiconductor analyst,twitter,107381,2.46,70.2,semiconductor manufacturing,San Jose,California,USA,1,2026-04-19T16:30:00Z
+86,@fab_operations_086,Liam Carter fab analyst,threads,78973,2.13,61.4,fab operations,Phoenix,Arizona,USA,0,2026-04-18T16:30:00Z
+87,@wafer_starts_087,Olivia Gray wafer analyst,youtube,161143,3.12,93.9,wafer starts,Dallas,Texas,USA,0,2026-04-17T16:30:00Z
+88,@yield_improvement_088,Lucas Patel yield analyst,instagram,136942,3.75,59.8,yield improvement,Chicago,Illinois,USA,0,2026-04-16T16:30:00Z
+89,@product_lifecycle_management_089,Emma Morgan product analyst,tiktok,193965,5.59,69.8,product lifecycle management,Boston,Massachusetts,USA,1,2026-04-15T16:30:00Z
+90,@engineering_change_orders_090,Mason Singh engineering analyst,twitter,144703,4.93,76,engineering change orders,Atlanta,Georgia,USA,0,2026-04-14T16:30:00Z
+91,@component_shortages_091,Isabella Park component analyst,threads,14992,5.52,68.8,component shortages,Seattle,Washington,USA,0,2026-04-23T16:30:00Z
+92,@supplier_risk_092,Logan Reed supplier analyst,youtube,198465,5.18,79.3,supplier risk,Denver,Colorado,USA,0,2026-04-22T16:30:00Z
+93,@contract_manufacturing_093,Amelia Nguyen contract analyst,instagram,62521,7.97,64.6,contract manufacturing,Raleigh,North Carolina,USA,1,2026-04-21T16:30:00Z
+94,@field_quality_094,Elijah Morris field analyst,tiktok,114788,7.94,74.3,field quality,Miami,Florida,USA,0,2026-04-20T16:30:00Z
+95,@warranty_analytics_095,Harper Rivera warranty analyst,twitter,157669,6.76,79,warranty analytics,New York,New York,USA,0,2026-04-19T16:30:00Z
+96,@connected_products_096,James Ramos connected analyst,threads,126271,7.04,91.2,connected products,Los Angeles,California,USA,0,2026-04-18T16:30:00Z
+97,@order_promising_097,Evelyn Nelson order analyst,youtube,118788,3.32,76,order promising,San Jose,California,USA,1,2026-04-17T16:30:00Z
+98,@service_and_support_operations_098,Benjamin Brooks service analyst,instagram,75182,5.57,90.4,service and support operations,Phoenix,Arizona,USA,0,2026-04-16T16:30:00Z
+99,@semiconductor_manufacturing_099,Luna Price semiconductor analyst,tiktok,230966,3.57,76.4,semiconductor manufacturing,Dallas,Texas,USA,0,2026-04-15T16:30:00Z
+100,@fab_operations_100,Henry Scott fab analyst,twitter,185156,8.14,65.6,fab operations,Chicago,Illinois,USA,0,2026-04-14T16:30:00Z
+101,@wafer_starts_101,Ava Chen wafer analyst,threads,202304,5.27,75.8,wafer starts,Boston,Massachusetts,USA,1,2026-04-23T16:30:00Z
+102,@yield_improvement_102,Noah Kim yield analyst,youtube,149170,1.87,73.7,yield improvement,Atlanta,Georgia,USA,0,2026-04-22T16:30:00Z
+103,@product_lifecycle_management_103,Mia Wright product analyst,instagram,140392,8.31,89.7,product lifecycle management,Seattle,Washington,USA,0,2026-04-21T16:30:00Z
+104,@engineering_change_orders_104,Ethan Garcia engineering analyst,tiktok,35363,3.97,82,engineering change orders,Denver,Colorado,USA,0,2026-04-20T16:30:00Z
+105,@component_shortages_105,Sophia Foster component analyst,twitter,103890,5.3,71,component shortages,Raleigh,North Carolina,USA,1,2026-04-19T16:30:00Z
+106,@supplier_risk_106,Liam Carter supplier analyst,threads,97682,4.57,87.3,supplier risk,Miami,Florida,USA,0,2026-04-18T16:30:00Z
+107,@contract_manufacturing_107,Olivia Gray contract analyst,youtube,146266,2.02,91.6,contract manufacturing,New York,New York,USA,0,2026-04-17T16:30:00Z
+108,@field_quality_108,Lucas Patel field analyst,instagram,112437,7.26,83.5,field quality,Los Angeles,California,USA,0,2026-04-16T16:30:00Z
+109,@warranty_analytics_109,Emma Morgan warranty analyst,tiktok,219930,5.59,65.1,warranty analytics,San Jose,California,USA,1,2026-04-15T16:30:00Z
+110,@connected_products_110,Mason Singh connected analyst,twitter,121155,6.85,89.2,connected products,Phoenix,Arizona,USA,0,2026-04-14T16:30:00Z
+111,@order_promising_111,Isabella Park order analyst,threads,174345,3.43,79.1,order promising,Dallas,Texas,USA,0,2026-04-23T16:30:00Z
+112,@service_and_support_operations_112,Logan Reed service analyst,youtube,176753,4.91,95.1,service and support operations,Chicago,Illinois,USA,0,2026-04-22T16:30:00Z
+113,@semiconductor_manufacturing_113,Amelia Nguyen semiconductor analyst,instagram,120084,2.38,86.6,semiconductor manufacturing,Boston,Massachusetts,USA,1,2026-04-21T16:30:00Z
+114,@fab_operations_114,Elijah Morris fab analyst,tiktok,114849,4.31,56.5,fab operations,Atlanta,Georgia,USA,0,2026-04-20T16:30:00Z
+115,@wafer_starts_115,Harper Rivera wafer analyst,twitter,29509,3.8,81.2,wafer starts,Seattle,Washington,USA,0,2026-04-19T16:30:00Z
+116,@yield_improvement_116,James Ramos yield analyst,threads,30848,7.55,81.6,yield improvement,Denver,Colorado,USA,0,2026-04-18T16:30:00Z
+117,@product_lifecycle_management_117,Evelyn Nelson product analyst,youtube,212936,4.67,89.9,product lifecycle management,Raleigh,North Carolina,USA,1,2026-04-17T16:30:00Z
+118,@engineering_change_orders_118,Benjamin Brooks engineering analyst,instagram,46859,6.01,92.1,engineering change orders,Miami,Florida,USA,0,2026-04-16T16:30:00Z
+119,@component_shortages_119,Luna Price component analyst,tiktok,95117,8.99,70.7,component shortages,New York,New York,USA,0,2026-04-15T16:30:00Z
+120,@supplier_risk_120,Henry Scott supplier analyst,twitter,88339,5.23,68.4,supplier risk,Los Angeles,California,USA,0,2026-04-14T16:30:00Z
+121,@contract_manufacturing_121,Ava Chen contract analyst,threads,43035,7.54,85.7,contract manufacturing,San Jose,California,USA,1,2026-04-23T16:30:00Z
+122,@field_quality_122,Noah Kim field analyst,youtube,142022,7.76,89.1,field quality,Phoenix,Arizona,USA,0,2026-04-22T16:30:00Z
+123,@warranty_analytics_123,Mia Wright warranty analyst,instagram,13995,6,90.7,warranty analytics,Dallas,Texas,USA,0,2026-04-21T16:30:00Z
+124,@connected_products_124,Ethan Garcia connected analyst,tiktok,131982,8.24,58,connected products,Chicago,Illinois,USA,0,2026-04-20T16:30:00Z
+125,@order_promising_125,Sophia Foster order analyst,twitter,19654,5.69,93.4,order promising,Boston,Massachusetts,USA,1,2026-04-19T16:30:00Z
+126,@service_and_support_operations_126,Liam Carter service analyst,threads,160373,2.88,84,service and support operations,Atlanta,Georgia,USA,0,2026-04-18T16:30:00Z
+127,@semiconductor_manufacturing_127,Olivia Gray semiconductor analyst,youtube,86606,6.01,90.3,semiconductor manufacturing,Seattle,Washington,USA,0,2026-04-17T16:30:00Z
+128,@fab_operations_128,Lucas Patel fab analyst,instagram,53454,8.19,69.4,fab operations,Denver,Colorado,USA,0,2026-04-16T16:30:00Z
+129,@wafer_starts_129,Emma Morgan wafer analyst,tiktok,162862,8.7,63.4,wafer starts,Raleigh,North Carolina,USA,1,2026-04-15T16:30:00Z
+130,@yield_improvement_130,Mason Singh yield analyst,twitter,200866,2.64,87.3,yield improvement,Miami,Florida,USA,0,2026-04-14T16:30:00Z
+131,@product_lifecycle_management_131,Isabella Park product analyst,threads,139012,6.55,65.5,product lifecycle management,New York,New York,USA,0,2026-04-23T16:30:00Z
+132,@engineering_change_orders_132,Logan Reed engineering analyst,youtube,168985,4.46,62.8,engineering change orders,Los Angeles,California,USA,0,2026-04-22T16:30:00Z
+133,@component_shortages_133,Amelia Nguyen component analyst,instagram,202834,5.8,59.1,component shortages,San Jose,California,USA,1,2026-04-21T16:30:00Z
+134,@supplier_risk_134,Elijah Morris supplier analyst,tiktok,161245,8.29,54.8,supplier risk,Phoenix,Arizona,USA,0,2026-04-20T16:30:00Z
+135,@contract_manufacturing_135,Harper Rivera contract analyst,twitter,26838,8.25,68.2,contract manufacturing,Dallas,Texas,USA,0,2026-04-19T16:30:00Z
+136,@field_quality_136,James Ramos field analyst,threads,54483,3,87.1,field quality,Chicago,Illinois,USA,0,2026-04-18T16:30:00Z
+137,@warranty_analytics_137,Evelyn Nelson warranty analyst,youtube,141991,8.55,72.3,warranty analytics,Boston,Massachusetts,USA,1,2026-04-17T16:30:00Z
+138,@connected_products_138,Benjamin Brooks connected analyst,instagram,226772,4.99,72.5,connected products,Atlanta,Georgia,USA,0,2026-04-16T16:30:00Z
+139,@order_promising_139,Luna Price order analyst,tiktok,143133,2.87,72.5,order promising,Seattle,Washington,USA,0,2026-04-15T16:30:00Z
+140,@service_and_support_operations_140,Henry Scott service analyst,twitter,28118,3.2,93.2,service and support operations,Denver,Colorado,USA,0,2026-04-14T16:30:00Z
+141,@semiconductor_manufacturing_141,Ava Chen semiconductor analyst,threads,17771,2.16,68.1,semiconductor manufacturing,Raleigh,North Carolina,USA,1,2026-04-23T16:30:00Z
+142,@fab_operations_142,Noah Kim fab analyst,youtube,209974,3.64,74.6,fab operations,Miami,Florida,USA,0,2026-04-22T16:30:00Z
+143,@wafer_starts_143,Mia Wright wafer analyst,instagram,147913,8.34,90.3,wafer starts,New York,New York,USA,0,2026-04-21T16:30:00Z
+144,@yield_improvement_144,Ethan Garcia yield analyst,tiktok,109504,7.78,84.5,yield improvement,Los Angeles,California,USA,0,2026-04-20T16:30:00Z
+145,@product_lifecycle_management_145,Sophia Foster product analyst,twitter,177542,6.02,59.7,product lifecycle management,San Jose,California,USA,1,2026-04-19T16:30:00Z
+146,@engineering_change_orders_146,Liam Carter engineering analyst,threads,146755,4.95,62.4,engineering change orders,Phoenix,Arizona,USA,0,2026-04-18T16:30:00Z
+147,@component_shortages_147,Olivia Gray component analyst,youtube,60722,2.85,83.9,component shortages,Dallas,Texas,USA,0,2026-04-17T16:30:00Z
+148,@supplier_risk_148,Lucas Patel supplier analyst,instagram,34317,5.44,92.2,supplier risk,Chicago,Illinois,USA,0,2026-04-16T16:30:00Z
+149,@contract_manufacturing_149,Emma Morgan contract analyst,tiktok,83413,2.99,66.7,contract manufacturing,Boston,Massachusetts,USA,1,2026-04-15T16:30:00Z
+150,@field_quality_150,Mason Singh field analyst,twitter,92442,7.57,65.7,field quality,Atlanta,Georgia,USA,0,2026-04-14T16:30:00Z
+151,@warranty_analytics_151,Isabella Park warranty analyst,threads,157501,3.91,94.8,warranty analytics,Seattle,Washington,USA,0,2026-04-23T16:30:00Z
+152,@connected_products_152,Logan Reed connected analyst,youtube,50251,4.46,95.4,connected products,Denver,Colorado,USA,0,2026-04-22T16:30:00Z
+153,@order_promising_153,Amelia Nguyen order analyst,instagram,160295,3.28,81.4,order promising,Raleigh,North Carolina,USA,1,2026-04-21T16:30:00Z
+154,@service_and_support_operations_154,Elijah Morris service analyst,tiktok,130398,3.75,80.8,service and support operations,Miami,Florida,USA,0,2026-04-20T16:30:00Z
+155,@semiconductor_manufacturing_155,Harper Rivera semiconductor analyst,twitter,65529,4.43,90.7,semiconductor manufacturing,New York,New York,USA,0,2026-04-19T16:30:00Z
+156,@fab_operations_156,James Ramos fab analyst,threads,24868,5.95,79,fab operations,Los Angeles,California,USA,0,2026-04-18T16:30:00Z
+157,@wafer_starts_157,Evelyn Nelson wafer analyst,youtube,171430,8.83,64,wafer starts,San Jose,California,USA,1,2026-04-17T16:30:00Z
+158,@yield_improvement_158,Benjamin Brooks yield analyst,instagram,104475,4.82,78.8,yield improvement,Phoenix,Arizona,USA,0,2026-04-16T16:30:00Z
+159,@product_lifecycle_management_159,Luna Price product analyst,tiktok,230555,3.41,78.2,product lifecycle management,Dallas,Texas,USA,0,2026-04-15T16:30:00Z
+160,@engineering_change_orders_160,Henry Scott engineering analyst,twitter,201900,2.19,84.8,engineering change orders,Chicago,Illinois,USA,0,2026-04-14T16:30:00Z
+161,@component_shortages_161,Ava Chen component analyst,threads,193444,3.12,87.6,component shortages,Boston,Massachusetts,USA,1,2026-04-23T16:30:00Z
+162,@supplier_risk_162,Noah Kim supplier analyst,youtube,191229,6.21,84,supplier risk,Atlanta,Georgia,USA,0,2026-04-22T16:30:00Z
+163,@contract_manufacturing_163,Mia Wright contract analyst,instagram,158526,7.91,70.5,contract manufacturing,Seattle,Washington,USA,0,2026-04-21T16:30:00Z
+164,@field_quality_164,Ethan Garcia field analyst,tiktok,68558,2.08,60.2,field quality,Denver,Colorado,USA,0,2026-04-20T16:30:00Z
+165,@warranty_analytics_165,Sophia Foster warranty analyst,twitter,109593,6.13,75,warranty analytics,Raleigh,North Carolina,USA,1,2026-04-19T16:30:00Z
+166,@connected_products_166,Liam Carter connected analyst,threads,118410,7.73,66,connected products,Miami,Florida,USA,0,2026-04-18T16:30:00Z
+167,@order_promising_167,Olivia Gray order analyst,youtube,119215,6.72,82.5,order promising,New York,New York,USA,0,2026-04-17T16:30:00Z
+168,@service_and_support_operations_168,Lucas Patel service analyst,instagram,213527,5.04,85.9,service and support operations,Los Angeles,California,USA,0,2026-04-16T16:30:00Z
+169,@semiconductor_manufacturing_169,Emma Morgan semiconductor analyst,tiktok,12739,2.2,71.2,semiconductor manufacturing,San Jose,California,USA,1,2026-04-15T16:30:00Z
+170,@fab_operations_170,Mason Singh fab analyst,twitter,207240,6.5,56.2,fab operations,Phoenix,Arizona,USA,0,2026-04-14T16:30:00Z
+171,@wafer_starts_171,Isabella Park wafer analyst,threads,38705,1.95,70.4,wafer starts,Dallas,Texas,USA,0,2026-04-23T16:30:00Z
+172,@yield_improvement_172,Logan Reed yield analyst,youtube,221997,2.52,75.3,yield improvement,Chicago,Illinois,USA,0,2026-04-22T16:30:00Z
+173,@product_lifecycle_management_173,Amelia Nguyen product analyst,instagram,212649,4.52,73.5,product lifecycle management,Boston,Massachusetts,USA,1,2026-04-21T16:30:00Z
+174,@engineering_change_orders_174,Elijah Morris engineering analyst,tiktok,152864,8.85,79.9,engineering change orders,Atlanta,Georgia,USA,0,2026-04-20T16:30:00Z
+175,@component_shortages_175,Harper Rivera component analyst,twitter,94784,2.16,91.9,component shortages,Seattle,Washington,USA,0,2026-04-19T16:30:00Z
+176,@supplier_risk_176,James Ramos supplier analyst,threads,196154,5.17,95,supplier risk,Denver,Colorado,USA,0,2026-04-18T16:30:00Z
+177,@contract_manufacturing_177,Evelyn Nelson contract analyst,youtube,98135,6.76,79.3,contract manufacturing,Raleigh,North Carolina,USA,1,2026-04-17T16:30:00Z
+178,@field_quality_178,Benjamin Brooks field analyst,instagram,23446,7.5,55.4,field quality,Miami,Florida,USA,0,2026-04-16T16:30:00Z
+179,@warranty_analytics_179,Luna Price warranty analyst,tiktok,13209,5.2,91.5,warranty analytics,New York,New York,USA,0,2026-04-15T16:30:00Z
+180,@connected_products_180,Henry Scott connected analyst,twitter,64281,4.06,80.8,connected products,Los Angeles,California,USA,0,2026-04-14T16:30:00Z
+181,@order_promising_181,Ava Chen order analyst,threads,166540,7.95,94.2,order promising,San Jose,California,USA,1,2026-04-23T16:30:00Z
+182,@service_and_support_operations_182,Noah Kim service analyst,youtube,93489,7.53,58.9,service and support operations,Phoenix,Arizona,USA,0,2026-04-22T16:30:00Z
+183,@semiconductor_manufacturing_183,Mia Wright semiconductor analyst,instagram,26429,6.02,68.5,semiconductor manufacturing,Dallas,Texas,USA,0,2026-04-21T16:30:00Z
+184,@fab_operations_184,Ethan Garcia fab analyst,tiktok,35524,5.9,82.6,fab operations,Chicago,Illinois,USA,0,2026-04-20T16:30:00Z
+185,@wafer_starts_185,Sophia Foster wafer analyst,twitter,213394,6.6,80.1,wafer starts,Boston,Massachusetts,USA,1,2026-04-19T16:30:00Z
+186,@yield_improvement_186,Liam Carter yield analyst,threads,203262,7.54,78.3,yield improvement,Atlanta,Georgia,USA,0,2026-04-18T16:30:00Z
+187,@product_lifecycle_management_187,Olivia Gray product analyst,youtube,48819,2.89,78.8,product lifecycle management,Seattle,Washington,USA,0,2026-04-17T16:30:00Z
+188,@engineering_change_orders_188,Lucas Patel engineering analyst,instagram,147810,8.65,89.4,engineering change orders,Denver,Colorado,USA,0,2026-04-16T16:30:00Z
+189,@component_shortages_189,Emma Morgan component analyst,tiktok,128213,5.85,78.1,component shortages,Raleigh,North Carolina,USA,1,2026-04-15T16:30:00Z
+190,@supplier_risk_190,Mason Singh supplier analyst,twitter,47299,8.47,74.5,supplier risk,Miami,Florida,USA,0,2026-04-14T16:30:00Z
+191,@contract_manufacturing_191,Isabella Park contract analyst,threads,168563,2.31,74.6,contract manufacturing,New York,New York,USA,0,2026-04-23T16:30:00Z
+192,@field_quality_192,Logan Reed field analyst,youtube,171245,2.02,72.1,field quality,Los Angeles,California,USA,0,2026-04-22T16:30:00Z
+193,@warranty_analytics_193,Amelia Nguyen warranty analyst,instagram,112378,6.56,94.7,warranty analytics,San Jose,California,USA,1,2026-04-21T16:30:00Z
+194,@connected_products_194,Elijah Morris connected analyst,tiktok,79783,7.37,94.2,connected products,Phoenix,Arizona,USA,0,2026-04-20T16:30:00Z
+195,@order_promising_195,Harper Rivera order analyst,twitter,57002,2.12,88.4,order promising,Dallas,Texas,USA,0,2026-04-19T16:30:00Z
+196,@service_and_support_operations_196,James Ramos service analyst,threads,56233,6.87,57.1,service and support operations,Chicago,Illinois,USA,0,2026-04-18T16:30:00Z
+197,@semiconductor_manufacturing_197,Evelyn Nelson semiconductor analyst,youtube,200320,5.28,65.7,semiconductor manufacturing,Boston,Massachusetts,USA,1,2026-04-17T16:30:00Z
+198,@fab_operations_198,Benjamin Brooks fab analyst,instagram,43594,6.02,80.7,fab operations,Atlanta,Georgia,USA,0,2026-04-16T16:30:00Z
+199,@wafer_starts_199,Luna Price wafer analyst,tiktok,100258,5.2,79,wafer starts,Seattle,Washington,USA,0,2026-04-15T16:30:00Z
+200,@yield_improvement_200,Henry Scott yield analyst,twitter,97796,4.31,95.1,yield improvement,Denver,Colorado,USA,0,2026-04-14T16:30:00Z
+201,@product_lifecycle_management_201,Ava Chen product analyst,threads,89099,7.23,77.9,product lifecycle management,Raleigh,North Carolina,USA,1,2026-04-23T16:30:00Z
+202,@engineering_change_orders_202,Noah Kim engineering analyst,youtube,148857,4.77,73.2,engineering change orders,Miami,Florida,USA,0,2026-04-22T16:30:00Z
+203,@component_shortages_203,Mia Wright component analyst,instagram,66350,5.65,92.8,component shortages,New York,New York,USA,0,2026-04-21T16:30:00Z
+204,@supplier_risk_204,Ethan Garcia supplier analyst,tiktok,84741,6.91,72.6,supplier risk,Los Angeles,California,USA,0,2026-04-20T16:30:00Z
+205,@contract_manufacturing_205,Sophia Foster contract analyst,twitter,147407,3.52,65.7,contract manufacturing,San Jose,California,USA,1,2026-04-19T16:30:00Z
+206,@field_quality_206,Liam Carter field analyst,threads,126978,4.74,78.6,field quality,Phoenix,Arizona,USA,0,2026-04-18T16:30:00Z
+207,@warranty_analytics_207,Olivia Gray warranty analyst,youtube,89841,5.68,85.4,warranty analytics,Dallas,Texas,USA,0,2026-04-17T16:30:00Z
+208,@connected_products_208,Lucas Patel connected analyst,instagram,95851,6.93,56.4,connected products,Chicago,Illinois,USA,0,2026-04-16T16:30:00Z
+209,@order_promising_209,Emma Morgan order analyst,tiktok,117820,5.23,66.4,order promising,Boston,Massachusetts,USA,1,2026-04-15T16:30:00Z
+210,@service_and_support_operations_210,Mason Singh service analyst,twitter,117316,2.17,87.7,service and support operations,Atlanta,Georgia,USA,0,2026-04-14T16:30:00Z
+211,@semiconductor_manufacturing_211,Isabella Park semiconductor analyst,threads,99316,6.41,84.4,semiconductor manufacturing,Seattle,Washington,USA,0,2026-04-23T16:30:00Z
+212,@fab_operations_212,Logan Reed fab analyst,youtube,90783,3.82,85.1,fab operations,Denver,Colorado,USA,0,2026-04-22T16:30:00Z
+213,@wafer_starts_213,Amelia Nguyen wafer analyst,instagram,79819,5.18,86.2,wafer starts,Raleigh,North Carolina,USA,1,2026-04-21T16:30:00Z
+214,@yield_improvement_214,Elijah Morris yield analyst,tiktok,62494,4.81,70.4,yield improvement,Miami,Florida,USA,0,2026-04-20T16:30:00Z
+215,@product_lifecycle_management_215,Harper Rivera product analyst,twitter,99172,5.11,64.8,product lifecycle management,New York,New York,USA,0,2026-04-19T16:30:00Z
+216,@engineering_change_orders_216,James Ramos engineering analyst,threads,132621,6.78,94.6,engineering change orders,Los Angeles,California,USA,0,2026-04-18T16:30:00Z
+217,@component_shortages_217,Evelyn Nelson component analyst,youtube,91970,3.55,64.2,component shortages,San Jose,California,USA,1,2026-04-17T16:30:00Z
+218,@supplier_risk_218,Benjamin Brooks supplier analyst,instagram,50855,2.17,55.6,supplier risk,Phoenix,Arizona,USA,0,2026-04-16T16:30:00Z
+219,@contract_manufacturing_219,Luna Price contract analyst,tiktok,173490,8.54,73.8,contract manufacturing,Dallas,Texas,USA,0,2026-04-15T16:30:00Z
+220,@field_quality_220,Henry Scott field analyst,twitter,158333,6.49,81.7,field quality,Chicago,Illinois,USA,0,2026-04-14T16:30:00Z
+221,@warranty_analytics_221,Ava Chen warranty analyst,threads,100986,5.72,68.4,warranty analytics,Boston,Massachusetts,USA,1,2026-04-23T16:30:00Z
+222,@connected_products_222,Noah Kim connected analyst,youtube,182953,2.1,68.1,connected products,Atlanta,Georgia,USA,0,2026-04-22T16:30:00Z
+223,@order_promising_223,Mia Wright order analyst,instagram,30913,2.96,83.8,order promising,Seattle,Washington,USA,0,2026-04-21T16:30:00Z
+224,@service_and_support_operations_224,Ethan Garcia service analyst,tiktok,188798,7.32,83.2,service and support operations,Denver,Colorado,USA,0,2026-04-20T16:30:00Z
+225,@semiconductor_manufacturing_225,Sophia Foster semiconductor analyst,twitter,221651,7.73,77.1,semiconductor manufacturing,Raleigh,North Carolina,USA,1,2026-04-19T16:30:00Z
+226,@fab_operations_226,Liam Carter fab analyst,threads,214309,4.13,59.2,fab operations,Miami,Florida,USA,0,2026-04-18T16:30:00Z
+227,@wafer_starts_227,Olivia Gray wafer analyst,youtube,48151,5.29,85.7,wafer starts,New York,New York,USA,0,2026-04-17T16:30:00Z
+228,@yield_improvement_228,Lucas Patel yield analyst,instagram,30054,5.52,86.7,yield improvement,Los Angeles,California,USA,0,2026-04-16T16:30:00Z
+229,@product_lifecycle_management_229,Emma Morgan product analyst,tiktok,70255,1.93,70.1,product lifecycle management,San Jose,California,USA,1,2026-04-15T16:30:00Z
+230,@engineering_change_orders_230,Mason Singh engineering analyst,twitter,106369,2.91,88.7,engineering change orders,Phoenix,Arizona,USA,0,2026-04-14T16:30:00Z
+231,@component_shortages_231,Isabella Park component analyst,threads,24113,4.17,58.3,component shortages,Dallas,Texas,USA,0,2026-04-23T16:30:00Z
+232,@supplier_risk_232,Logan Reed supplier analyst,youtube,218343,7.19,73.8,supplier risk,Chicago,Illinois,USA,0,2026-04-22T16:30:00Z
+233,@contract_manufacturing_233,Amelia Nguyen contract analyst,instagram,162351,3.01,82.7,contract manufacturing,Boston,Massachusetts,USA,1,2026-04-21T16:30:00Z
+234,@field_quality_234,Elijah Morris field analyst,tiktok,133269,7.75,54.7,field quality,Atlanta,Georgia,USA,0,2026-04-20T16:30:00Z
+235,@warranty_analytics_235,Harper Rivera warranty analyst,twitter,206550,5.88,54.6,warranty analytics,Seattle,Washington,USA,0,2026-04-19T16:30:00Z
+236,@connected_products_236,James Ramos connected analyst,threads,196880,5.74,62.1,connected products,Denver,Colorado,USA,0,2026-04-18T16:30:00Z
+237,@order_promising_237,Evelyn Nelson order analyst,youtube,41401,7.25,79,order promising,Raleigh,North Carolina,USA,1,2026-04-17T16:30:00Z
+238,@service_and_support_operations_238,Benjamin Brooks service analyst,instagram,194625,2.5,94.5,service and support operations,Miami,Florida,USA,0,2026-04-16T16:30:00Z
+239,@semiconductor_manufacturing_239,Luna Price semiconductor analyst,tiktok,66342,2.28,91.9,semiconductor manufacturing,New York,New York,USA,0,2026-04-15T16:30:00Z
+240,@fab_operations_240,Henry Scott fab analyst,twitter,104202,3.14,80.3,fab operations,Los Angeles,California,USA,0,2026-04-14T16:30:00Z
+241,@wafer_starts_241,Ava Chen wafer analyst,threads,192627,8.44,69,wafer starts,San Jose,California,USA,1,2026-04-23T16:30:00Z
+242,@yield_improvement_242,Noah Kim yield analyst,youtube,217794,3.19,92.6,yield improvement,Phoenix,Arizona,USA,0,2026-04-22T16:30:00Z
+243,@product_lifecycle_management_243,Mia Wright product analyst,instagram,91694,2.2,74.4,product lifecycle management,Dallas,Texas,USA,0,2026-04-21T16:30:00Z
+244,@engineering_change_orders_244,Ethan Garcia engineering analyst,tiktok,69933,3.58,58.1,engineering change orders,Chicago,Illinois,USA,0,2026-04-20T16:30:00Z
+245,@component_shortages_245,Sophia Foster component analyst,twitter,185646,8.79,74.1,component shortages,Boston,Massachusetts,USA,1,2026-04-19T16:30:00Z
+246,@supplier_risk_246,Liam Carter supplier analyst,threads,56170,3.88,93.5,supplier risk,Atlanta,Georgia,USA,0,2026-04-18T16:30:00Z
+247,@contract_manufacturing_247,Olivia Gray contract analyst,youtube,19694,5.19,81.7,contract manufacturing,Seattle,Washington,USA,0,2026-04-17T16:30:00Z
+248,@field_quality_248,Lucas Patel field analyst,instagram,16645,5.51,60.9,field quality,Denver,Colorado,USA,0,2026-04-16T16:30:00Z
+249,@warranty_analytics_249,Emma Morgan warranty analyst,tiktok,185154,3.03,82.6,warranty analytics,Raleigh,North Carolina,USA,1,2026-04-15T16:30:00Z
+250,@connected_products_250,Mason Singh connected analyst,twitter,215024,5.21,60.6,connected products,Miami,Florida,USA,0,2026-04-14T16:30:00Z
+251,@order_promising_251,Isabella Park order analyst,threads,217203,3.87,90.6,order promising,New York,New York,USA,0,2026-04-23T16:30:00Z
+252,@service_and_support_operations_252,Logan Reed service analyst,youtube,184180,6.1,83,service and support operations,Los Angeles,California,USA,0,2026-04-22T16:30:00Z
+253,@semiconductor_manufacturing_253,Amelia Nguyen semiconductor analyst,instagram,20596,6.02,69.2,semiconductor manufacturing,San Jose,California,USA,1,2026-04-21T16:30:00Z
+254,@fab_operations_254,Elijah Morris fab analyst,tiktok,14639,8.59,61.3,fab operations,Phoenix,Arizona,USA,0,2026-04-20T16:30:00Z
+255,@wafer_starts_255,Harper Rivera wafer analyst,twitter,15636,5.9,94.7,wafer starts,Dallas,Texas,USA,0,2026-04-19T16:30:00Z
+256,@yield_improvement_256,James Ramos yield analyst,threads,115151,2.02,91.2,yield improvement,Chicago,Illinois,USA,0,2026-04-18T16:30:00Z
+257,@product_lifecycle_management_257,Evelyn Nelson product analyst,youtube,165979,3.92,84.8,product lifecycle management,Boston,Massachusetts,USA,1,2026-04-17T16:30:00Z
+258,@engineering_change_orders_258,Benjamin Brooks engineering analyst,instagram,224186,3.54,78.3,engineering change orders,Atlanta,Georgia,USA,0,2026-04-16T16:30:00Z
+259,@component_shortages_259,Luna Price component analyst,tiktok,78987,7.19,56.7,component shortages,Seattle,Washington,USA,0,2026-04-15T16:30:00Z
+260,@supplier_risk_260,Henry Scott supplier analyst,twitter,162916,5.7,89.7,supplier risk,Denver,Colorado,USA,0,2026-04-14T16:30:00Z
+261,@contract_manufacturing_261,Ava Chen contract analyst,threads,50754,5.7,77.5,contract manufacturing,Raleigh,North Carolina,USA,1,2026-04-23T16:30:00Z
+262,@field_quality_262,Noah Kim field analyst,youtube,138580,3.09,58.4,field quality,Miami,Florida,USA,0,2026-04-22T16:30:00Z
+263,@warranty_analytics_263,Mia Wright warranty analyst,instagram,145514,7,79,warranty analytics,New York,New York,USA,0,2026-04-21T16:30:00Z
+264,@connected_products_264,Ethan Garcia connected analyst,tiktok,122782,4.36,56.6,connected products,Los Angeles,California,USA,0,2026-04-20T16:30:00Z
+265,@order_promising_265,Sophia Foster order analyst,twitter,124756,7.54,92.5,order promising,San Jose,California,USA,1,2026-04-19T16:30:00Z
+266,@service_and_support_operations_266,Liam Carter service analyst,threads,111530,6.78,85.8,service and support operations,Phoenix,Arizona,USA,0,2026-04-18T16:30:00Z
+267,@semiconductor_manufacturing_267,Olivia Gray semiconductor analyst,youtube,36423,6.72,86,semiconductor manufacturing,Dallas,Texas,USA,0,2026-04-17T16:30:00Z
+268,@fab_operations_268,Lucas Patel fab analyst,instagram,37262,6.23,63.6,fab operations,Chicago,Illinois,USA,0,2026-04-16T16:30:00Z
+269,@wafer_starts_269,Emma Morgan wafer analyst,tiktok,110546,2.22,88.6,wafer starts,Boston,Massachusetts,USA,1,2026-04-15T16:30:00Z
+270,@yield_improvement_270,Mason Singh yield analyst,twitter,26779,5.05,59.7,yield improvement,Atlanta,Georgia,USA,0,2026-04-14T16:30:00Z
+271,@product_lifecycle_management_271,Isabella Park product analyst,threads,213156,2.89,55.1,product lifecycle management,Seattle,Washington,USA,0,2026-04-23T16:30:00Z
+272,@engineering_change_orders_272,Logan Reed engineering analyst,youtube,14666,7.67,90.3,engineering change orders,Denver,Colorado,USA,0,2026-04-22T16:30:00Z
+273,@component_shortages_273,Amelia Nguyen component analyst,instagram,44288,6.72,60.5,component shortages,Raleigh,North Carolina,USA,1,2026-04-21T16:30:00Z
+274,@supplier_risk_274,Elijah Morris supplier analyst,tiktok,91371,8.77,69,supplier risk,Miami,Florida,USA,0,2026-04-20T16:30:00Z
+275,@contract_manufacturing_275,Harper Rivera contract analyst,twitter,59208,3.8,81.2,contract manufacturing,New York,New York,USA,0,2026-04-19T16:30:00Z
+276,@field_quality_276,James Ramos field analyst,threads,161266,3.52,58.2,field quality,Los Angeles,California,USA,0,2026-04-18T16:30:00Z
+277,@warranty_analytics_277,Evelyn Nelson warranty analyst,youtube,71363,2.5,75.5,warranty analytics,San Jose,California,USA,1,2026-04-17T16:30:00Z
+278,@connected_products_278,Benjamin Brooks connected analyst,instagram,192034,3.32,68.9,connected products,Phoenix,Arizona,USA,0,2026-04-16T16:30:00Z
+279,@order_promising_279,Luna Price order analyst,tiktok,25744,1.84,78.8,order promising,Dallas,Texas,USA,0,2026-04-15T16:30:00Z
+280,@service_and_support_operations_280,Henry Scott service analyst,twitter,40462,3.36,63.7,service and support operations,Chicago,Illinois,USA,0,2026-04-14T16:30:00Z
+281,@semiconductor_manufacturing_281,Ava Chen semiconductor analyst,threads,31669,5.04,86.7,semiconductor manufacturing,Boston,Massachusetts,USA,1,2026-04-23T16:30:00Z
+282,@fab_operations_282,Noah Kim fab analyst,youtube,152721,2.07,55.2,fab operations,Atlanta,Georgia,USA,0,2026-04-22T16:30:00Z
+283,@wafer_starts_283,Mia Wright wafer analyst,instagram,69693,3.54,67.7,wafer starts,Seattle,Washington,USA,0,2026-04-21T16:30:00Z
+284,@yield_improvement_284,Ethan Garcia yield analyst,tiktok,205891,3.68,94.3,yield improvement,Denver,Colorado,USA,0,2026-04-20T16:30:00Z
+285,@product_lifecycle_management_285,Sophia Foster product analyst,twitter,43526,2.47,81.1,product lifecycle management,Raleigh,North Carolina,USA,1,2026-04-19T16:30:00Z
+286,@engineering_change_orders_286,Liam Carter engineering analyst,threads,101270,4.36,78.7,engineering change orders,Miami,Florida,USA,0,2026-04-18T16:30:00Z
+287,@component_shortages_287,Olivia Gray component analyst,youtube,165363,2.88,80.4,component shortages,New York,New York,USA,0,2026-04-17T16:30:00Z
+288,@supplier_risk_288,Lucas Patel supplier analyst,instagram,27401,7.02,95,supplier risk,Los Angeles,California,USA,0,2026-04-16T16:30:00Z
+289,@contract_manufacturing_289,Emma Morgan contract analyst,tiktok,161437,8.49,87.8,contract manufacturing,San Jose,California,USA,1,2026-04-15T16:30:00Z
+290,@field_quality_290,Mason Singh field analyst,twitter,179990,2.26,56.5,field quality,Phoenix,Arizona,USA,0,2026-04-14T16:30:00Z
+291,@warranty_analytics_291,Isabella Park warranty analyst,threads,162973,6.67,84.5,warranty analytics,Dallas,Texas,USA,0,2026-04-23T16:30:00Z
+292,@connected_products_292,Logan Reed connected analyst,youtube,95293,8.95,91.2,connected products,Chicago,Illinois,USA,0,2026-04-22T16:30:00Z
+293,@order_promising_293,Amelia Nguyen order analyst,instagram,177561,8.46,56.6,order promising,Boston,Massachusetts,USA,1,2026-04-21T16:30:00Z
+294,@service_and_support_operations_294,Elijah Morris service analyst,tiktok,225351,5.93,66.7,service and support operations,Atlanta,Georgia,USA,0,2026-04-20T16:30:00Z
+295,@semiconductor_manufacturing_295,Harper Rivera semiconductor analyst,twitter,124582,5.12,95.5,semiconductor manufacturing,Seattle,Washington,USA,0,2026-04-19T16:30:00Z
+296,@fab_operations_296,James Ramos fab analyst,threads,169749,3.9,84,fab operations,Denver,Colorado,USA,0,2026-04-18T16:30:00Z
+297,@wafer_starts_297,Evelyn Nelson wafer analyst,youtube,49493,3.76,90.9,wafer starts,Raleigh,North Carolina,USA,1,2026-04-17T16:30:00Z
+298,@yield_improvement_298,Benjamin Brooks yield analyst,instagram,142618,6.87,55.4,yield improvement,Miami,Florida,USA,0,2026-04-16T16:30:00Z
+299,@product_lifecycle_management_299,Luna Price product analyst,tiktok,55855,3.85,75.3,product lifecycle management,New York,New York,USA,0,2026-04-15T16:30:00Z
+300,@engineering_change_orders_300,Henry Scott engineering analyst,twitter,126429,3.19,63.4,engineering change orders,Los Angeles,California,USA,0,2026-04-14T16:30:00Z
+301,@component_shortages_301,Ava Chen component analyst,threads,94077,6.42,68,component shortages,San Jose,California,USA,1,2026-04-23T16:30:00Z
+302,@supplier_risk_302,Noah Kim supplier analyst,youtube,158883,6.07,67.3,supplier risk,Phoenix,Arizona,USA,0,2026-04-22T16:30:00Z
+303,@contract_manufacturing_303,Mia Wright contract analyst,instagram,109092,7.93,77.8,contract manufacturing,Dallas,Texas,USA,0,2026-04-21T16:30:00Z
+304,@field_quality_304,Ethan Garcia field analyst,tiktok,40705,3.87,83,field quality,Chicago,Illinois,USA,0,2026-04-20T16:30:00Z
+305,@warranty_analytics_305,Sophia Foster warranty analyst,twitter,18692,2.15,83.7,warranty analytics,Boston,Massachusetts,USA,1,2026-04-19T16:30:00Z
+306,@connected_products_306,Liam Carter connected analyst,threads,145300,5.83,85.8,connected products,Atlanta,Georgia,USA,0,2026-04-18T16:30:00Z
+307,@order_promising_307,Olivia Gray order analyst,youtube,35095,5.49,58.2,order promising,Seattle,Washington,USA,0,2026-04-17T16:30:00Z
+308,@service_and_support_operations_308,Lucas Patel service analyst,instagram,140946,2.85,78,service and support operations,Denver,Colorado,USA,0,2026-04-16T16:30:00Z
+309,@semiconductor_manufacturing_309,Emma Morgan semiconductor analyst,tiktok,18255,6.58,86.9,semiconductor manufacturing,Raleigh,North Carolina,USA,1,2026-04-15T16:30:00Z
+310,@fab_operations_310,Mason Singh fab analyst,twitter,105141,3.61,85.4,fab operations,Miami,Florida,USA,0,2026-04-14T16:30:00Z
+311,@wafer_starts_311,Isabella Park wafer analyst,threads,221181,7.86,94.9,wafer starts,New York,New York,USA,0,2026-04-23T16:30:00Z
+312,@yield_improvement_312,Logan Reed yield analyst,youtube,78238,7.87,91.5,yield improvement,Los Angeles,California,USA,0,2026-04-22T16:30:00Z
+313,@product_lifecycle_management_313,Amelia Nguyen product analyst,instagram,130039,7.97,85.2,product lifecycle management,San Jose,California,USA,1,2026-04-21T16:30:00Z
+314,@engineering_change_orders_314,Elijah Morris engineering analyst,tiktok,118676,4.86,65.4,engineering change orders,Phoenix,Arizona,USA,0,2026-04-20T16:30:00Z
+315,@component_shortages_315,Harper Rivera component analyst,twitter,70896,3.83,56.7,component shortages,Dallas,Texas,USA,0,2026-04-19T16:30:00Z
+316,@supplier_risk_316,James Ramos supplier analyst,threads,55368,8.17,68.1,supplier risk,Chicago,Illinois,USA,0,2026-04-18T16:30:00Z
+317,@contract_manufacturing_317,Evelyn Nelson contract analyst,youtube,159966,8.88,63.6,contract manufacturing,Boston,Massachusetts,USA,1,2026-04-17T16:30:00Z
+318,@field_quality_318,Benjamin Brooks field analyst,instagram,15928,3.52,92.3,field quality,Atlanta,Georgia,USA,0,2026-04-16T16:30:00Z
+319,@warranty_analytics_319,Luna Price warranty analyst,tiktok,65463,4.66,66.7,warranty analytics,Seattle,Washington,USA,0,2026-04-15T16:30:00Z
+320,@connected_products_320,Henry Scott connected analyst,twitter,150394,8.01,88.7,connected products,Denver,Colorado,USA,0,2026-04-14T16:30:00Z
+321,@order_promising_321,Ava Chen order analyst,threads,146323,4.77,83.2,order promising,Raleigh,North Carolina,USA,1,2026-04-23T16:30:00Z
+322,@service_and_support_operations_322,Noah Kim service analyst,youtube,153783,7.79,74.1,service and support operations,Miami,Florida,USA,0,2026-04-22T16:30:00Z
+323,@semiconductor_manufacturing_323,Mia Wright semiconductor analyst,instagram,229618,8.74,60.9,semiconductor manufacturing,New York,New York,USA,0,2026-04-21T16:30:00Z
+324,@fab_operations_324,Ethan Garcia fab analyst,tiktok,26232,6.37,72.4,fab operations,Los Angeles,California,USA,0,2026-04-20T16:30:00Z
+325,@wafer_starts_325,Sophia Foster wafer analyst,twitter,214352,6.48,71.7,wafer starts,San Jose,California,USA,1,2026-04-19T16:30:00Z
+326,@yield_improvement_326,Liam Carter yield analyst,threads,110893,8.07,95.7,yield improvement,Phoenix,Arizona,USA,0,2026-04-18T16:30:00Z
+327,@product_lifecycle_management_327,Olivia Gray product analyst,youtube,56375,8.79,95.2,product lifecycle management,Dallas,Texas,USA,0,2026-04-17T16:30:00Z
+328,@engineering_change_orders_328,Lucas Patel engineering analyst,instagram,116407,8.54,87.5,engineering change orders,Chicago,Illinois,USA,0,2026-04-16T16:30:00Z
+329,@component_shortages_329,Emma Morgan component analyst,tiktok,153981,7.97,83.5,component shortages,Boston,Massachusetts,USA,1,2026-04-15T16:30:00Z
+330,@supplier_risk_330,Mason Singh supplier analyst,twitter,120702,8.63,63.4,supplier risk,Atlanta,Georgia,USA,0,2026-04-14T16:30:00Z
+331,@contract_manufacturing_331,Isabella Park contract analyst,threads,48202,3.45,75.5,contract manufacturing,Seattle,Washington,USA,0,2026-04-23T16:30:00Z
+332,@field_quality_332,Logan Reed field analyst,youtube,191391,2.69,77.2,field quality,Denver,Colorado,USA,0,2026-04-22T16:30:00Z
+333,@warranty_analytics_333,Amelia Nguyen warranty analyst,instagram,213536,6.97,85.2,warranty analytics,Raleigh,North Carolina,USA,1,2026-04-21T16:30:00Z
+334,@connected_products_334,Elijah Morris connected analyst,tiktok,46629,2.34,66.7,connected products,Miami,Florida,USA,0,2026-04-20T16:30:00Z
+335,@order_promising_335,Harper Rivera order analyst,twitter,67230,8.05,79.9,order promising,New York,New York,USA,0,2026-04-19T16:30:00Z
+336,@service_and_support_operations_336,James Ramos service analyst,threads,19318,5.12,63.7,service and support operations,Los Angeles,California,USA,0,2026-04-18T16:30:00Z
+337,@semiconductor_manufacturing_337,Evelyn Nelson semiconductor analyst,youtube,79072,7.72,55.6,semiconductor manufacturing,San Jose,California,USA,1,2026-04-17T16:30:00Z
+338,@fab_operations_338,Benjamin Brooks fab analyst,instagram,134741,6.32,57.7,fab operations,Phoenix,Arizona,USA,0,2026-04-16T16:30:00Z
+339,@wafer_starts_339,Luna Price wafer analyst,tiktok,113682,7.53,60.4,wafer starts,Dallas,Texas,USA,0,2026-04-15T16:30:00Z
+340,@yield_improvement_340,Henry Scott yield analyst,twitter,225329,6.26,67.5,yield improvement,Chicago,Illinois,USA,0,2026-04-14T16:30:00Z
+341,@product_lifecycle_management_341,Ava Chen product analyst,threads,65441,2.89,90.6,product lifecycle management,Boston,Massachusetts,USA,1,2026-04-23T16:30:00Z
+342,@engineering_change_orders_342,Noah Kim engineering analyst,youtube,158771,4.33,54.3,engineering change orders,Atlanta,Georgia,USA,0,2026-04-22T16:30:00Z
+343,@component_shortages_343,Mia Wright component analyst,instagram,69770,7.66,71.1,component shortages,Seattle,Washington,USA,0,2026-04-21T16:30:00Z
+344,@supplier_risk_344,Ethan Garcia supplier analyst,tiktok,220706,7.87,79.8,supplier risk,Denver,Colorado,USA,0,2026-04-20T16:30:00Z
+345,@contract_manufacturing_345,Sophia Foster contract analyst,twitter,221382,8.05,93.1,contract manufacturing,Raleigh,North Carolina,USA,1,2026-04-19T16:30:00Z
+346,@field_quality_346,Liam Carter field analyst,threads,198436,4.53,95.6,field quality,Miami,Florida,USA,0,2026-04-18T16:30:00Z
+347,@warranty_analytics_347,Olivia Gray warranty analyst,youtube,68706,4.73,85.8,warranty analytics,New York,New York,USA,0,2026-04-17T16:30:00Z
+348,@connected_products_348,Lucas Patel connected analyst,instagram,119573,2.73,89.4,connected products,Los Angeles,California,USA,0,2026-04-16T16:30:00Z
+349,@order_promising_349,Emma Morgan order analyst,tiktok,63982,2.6,76.2,order promising,San Jose,California,USA,1,2026-04-15T16:30:00Z
+350,@service_and_support_operations_350,Mason Singh service analyst,twitter,21671,2.42,91,service and support operations,Phoenix,Arizona,USA,0,2026-04-14T16:30:00Z
+351,@semiconductor_manufacturing_351,Isabella Park semiconductor analyst,threads,72196,6.48,78.2,semiconductor manufacturing,Dallas,Texas,USA,0,2026-04-23T16:30:00Z
+352,@fab_operations_352,Logan Reed fab analyst,youtube,133113,2.52,66.5,fab operations,Chicago,Illinois,USA,0,2026-04-22T16:30:00Z
+353,@wafer_starts_353,Amelia Nguyen wafer analyst,instagram,101881,8.81,54.9,wafer starts,Boston,Massachusetts,USA,1,2026-04-21T16:30:00Z
+354,@yield_improvement_354,Elijah Morris yield analyst,tiktok,93332,6.29,84.3,yield improvement,Atlanta,Georgia,USA,0,2026-04-20T16:30:00Z
+355,@product_lifecycle_management_355,Harper Rivera product analyst,twitter,203050,3.3,71,product lifecycle management,Seattle,Washington,USA,0,2026-04-19T16:30:00Z
+356,@engineering_change_orders_356,James Ramos engineering analyst,threads,218435,8.92,80.5,engineering change orders,Denver,Colorado,USA,0,2026-04-18T16:30:00Z
+357,@component_shortages_357,Evelyn Nelson component analyst,youtube,231929,7.15,65,component shortages,Raleigh,North Carolina,USA,1,2026-04-17T16:30:00Z
+358,@supplier_risk_358,Benjamin Brooks supplier analyst,instagram,220984,2.17,64.2,supplier risk,Miami,Florida,USA,0,2026-04-16T16:30:00Z
+359,@contract_manufacturing_359,Luna Price contract analyst,tiktok,136608,8.12,86.4,contract manufacturing,New York,New York,USA,0,2026-04-15T16:30:00Z
+360,@field_quality_360,Henry Scott field analyst,twitter,214586,6.82,55,field quality,Los Angeles,California,USA,0,2026-04-14T16:30:00Z
+361,@warranty_analytics_361,Ava Chen warranty analyst,threads,88342,3.76,76.9,warranty analytics,San Jose,California,USA,1,2026-04-23T16:30:00Z
+362,@connected_products_362,Noah Kim connected analyst,youtube,81135,3.57,68.9,connected products,Phoenix,Arizona,USA,0,2026-04-22T16:30:00Z
+363,@order_promising_363,Mia Wright order analyst,instagram,216773,6.82,62.8,order promising,Dallas,Texas,USA,0,2026-04-21T16:30:00Z
+364,@service_and_support_operations_364,Ethan Garcia service analyst,tiktok,23630,3.47,79.3,service and support operations,Chicago,Illinois,USA,0,2026-04-20T16:30:00Z
+365,@semiconductor_manufacturing_365,Sophia Foster semiconductor analyst,twitter,32291,2.07,84.8,semiconductor manufacturing,Boston,Massachusetts,USA,1,2026-04-19T16:30:00Z
+366,@fab_operations_366,Liam Carter fab analyst,threads,115397,2.67,55.5,fab operations,Atlanta,Georgia,USA,0,2026-04-18T16:30:00Z
+367,@wafer_starts_367,Olivia Gray wafer analyst,youtube,64532,8.62,79.6,wafer starts,Seattle,Washington,USA,0,2026-04-17T16:30:00Z
+368,@yield_improvement_368,Lucas Patel yield analyst,instagram,26047,6.21,67.1,yield improvement,Denver,Colorado,USA,0,2026-04-16T16:30:00Z
+369,@product_lifecycle_management_369,Emma Morgan product analyst,tiktok,196104,8.52,89.4,product lifecycle management,Raleigh,North Carolina,USA,1,2026-04-15T16:30:00Z
+370,@engineering_change_orders_370,Mason Singh engineering analyst,twitter,36731,4.74,64.3,engineering change orders,Miami,Florida,USA,0,2026-04-14T16:30:00Z
+371,@component_shortages_371,Isabella Park component analyst,threads,166839,5.92,72.3,component shortages,New York,New York,USA,0,2026-04-23T16:30:00Z
+372,@supplier_risk_372,Logan Reed supplier analyst,youtube,220996,7.33,91.8,supplier risk,Los Angeles,California,USA,0,2026-04-22T16:30:00Z
+373,@contract_manufacturing_373,Amelia Nguyen contract analyst,instagram,19366,5.82,56.8,contract manufacturing,San Jose,California,USA,1,2026-04-21T16:30:00Z
+374,@field_quality_374,Elijah Morris field analyst,tiktok,35371,3.22,90.1,field quality,Phoenix,Arizona,USA,0,2026-04-20T16:30:00Z
+375,@warranty_analytics_375,Harper Rivera warranty analyst,twitter,130264,2.93,93.4,warranty analytics,Dallas,Texas,USA,0,2026-04-19T16:30:00Z
+376,@connected_products_376,James Ramos connected analyst,threads,129780,5.54,71.6,connected products,Chicago,Illinois,USA,0,2026-04-18T16:30:00Z
+377,@order_promising_377,Evelyn Nelson order analyst,youtube,137264,2.2,83.3,order promising,Boston,Massachusetts,USA,1,2026-04-17T16:30:00Z
+378,@service_and_support_operations_378,Benjamin Brooks service analyst,instagram,168495,8.88,70.1,service and support operations,Atlanta,Georgia,USA,0,2026-04-16T16:30:00Z
+379,@semiconductor_manufacturing_379,Luna Price semiconductor analyst,tiktok,184855,5,77.2,semiconductor manufacturing,Seattle,Washington,USA,0,2026-04-15T16:30:00Z
+380,@fab_operations_380,Henry Scott fab analyst,twitter,146662,6.36,58.5,fab operations,Denver,Colorado,USA,0,2026-04-14T16:30:00Z
+381,@wafer_starts_381,Ava Chen wafer analyst,threads,27357,8.6,83,wafer starts,Raleigh,North Carolina,USA,1,2026-04-23T16:30:00Z
+382,@yield_improvement_382,Noah Kim yield analyst,youtube,54515,3.54,76.1,yield improvement,Miami,Florida,USA,0,2026-04-22T16:30:00Z
+383,@product_lifecycle_management_383,Mia Wright product analyst,instagram,149853,4.11,73.6,product lifecycle management,New York,New York,USA,0,2026-04-21T16:30:00Z
+384,@engineering_change_orders_384,Ethan Garcia engineering analyst,tiktok,43159,2.73,87.3,engineering change orders,Los Angeles,California,USA,0,2026-04-20T16:30:00Z
+385,@component_shortages_385,Sophia Foster component analyst,twitter,83563,6.37,58.6,component shortages,San Jose,California,USA,1,2026-04-19T16:30:00Z
+386,@supplier_risk_386,Liam Carter supplier analyst,threads,120114,7.14,93,supplier risk,Phoenix,Arizona,USA,0,2026-04-18T16:30:00Z
+387,@contract_manufacturing_387,Olivia Gray contract analyst,youtube,186046,2.31,56.7,contract manufacturing,Dallas,Texas,USA,0,2026-04-17T16:30:00Z
+388,@field_quality_388,Lucas Patel field analyst,instagram,167001,3.02,65.2,field quality,Chicago,Illinois,USA,0,2026-04-16T16:30:00Z
+389,@warranty_analytics_389,Emma Morgan warranty analyst,tiktok,34180,8.01,64,warranty analytics,Boston,Massachusetts,USA,1,2026-04-15T16:30:00Z
+390,@connected_products_390,Mason Singh connected analyst,twitter,29603,5.46,78,connected products,Atlanta,Georgia,USA,0,2026-04-14T16:30:00Z
+391,@order_promising_391,Isabella Park order analyst,threads,186252,2.2,81.9,order promising,Seattle,Washington,USA,0,2026-04-23T16:30:00Z
+392,@service_and_support_operations_392,Logan Reed service analyst,youtube,99681,2.25,55.3,service and support operations,Denver,Colorado,USA,0,2026-04-22T16:30:00Z
+393,@semiconductor_manufacturing_393,Amelia Nguyen semiconductor analyst,instagram,170707,2.57,63.4,semiconductor manufacturing,Raleigh,North Carolina,USA,1,2026-04-21T16:30:00Z
+394,@fab_operations_394,Elijah Morris fab analyst,tiktok,64311,4.88,67.5,fab operations,Miami,Florida,USA,0,2026-04-20T16:30:00Z
+395,@wafer_starts_395,Harper Rivera wafer analyst,twitter,192991,5.29,89.7,wafer starts,New York,New York,USA,0,2026-04-19T16:30:00Z
+396,@yield_improvement_396,James Ramos yield analyst,threads,156640,7.23,60.8,yield improvement,Los Angeles,California,USA,0,2026-04-18T16:30:00Z
+397,@product_lifecycle_management_397,Evelyn Nelson product analyst,youtube,98194,2.85,90,product lifecycle management,San Jose,California,USA,1,2026-04-17T16:30:00Z
+398,@engineering_change_orders_398,Benjamin Brooks engineering analyst,instagram,109618,2.88,85.3,engineering change orders,Phoenix,Arizona,USA,0,2026-04-16T16:30:00Z
+399,@component_shortages_399,Luna Price component analyst,tiktok,87651,5.21,70.5,component shortages,Dallas,Texas,USA,0,2026-04-15T16:30:00Z
+400,@supplier_risk_400,Henry Scott supplier analyst,twitter,100501,3.06,56.1,supplier risk,Chicago,Illinois,USA,0,2026-04-14T16:30:00Z
+401,@contract_manufacturing_401,Ava Chen contract analyst,threads,105406,5.06,69.9,contract manufacturing,Boston,Massachusetts,USA,1,2026-04-23T16:30:00Z
+402,@field_quality_402,Noah Kim field analyst,youtube,207334,4.95,80.7,field quality,Atlanta,Georgia,USA,0,2026-04-22T16:30:00Z
+403,@warranty_analytics_403,Mia Wright warranty analyst,instagram,128062,3.53,64.7,warranty analytics,Seattle,Washington,USA,0,2026-04-21T16:30:00Z
+404,@connected_products_404,Ethan Garcia connected analyst,tiktok,74768,5.05,66.2,connected products,Denver,Colorado,USA,0,2026-04-20T16:30:00Z
+405,@order_promising_405,Sophia Foster order analyst,twitter,104273,6.6,84.7,order promising,Raleigh,North Carolina,USA,1,2026-04-19T16:30:00Z
+406,@service_and_support_operations_406,Liam Carter service analyst,threads,28976,3.35,78.6,service and support operations,Miami,Florida,USA,0,2026-04-18T16:30:00Z
+407,@semiconductor_manufacturing_407,Olivia Gray semiconductor analyst,youtube,42307,4.61,70.7,semiconductor manufacturing,New York,New York,USA,0,2026-04-17T16:30:00Z
+408,@fab_operations_408,Lucas Patel fab analyst,instagram,182462,3.59,86.2,fab operations,Los Angeles,California,USA,0,2026-04-16T16:30:00Z
+409,@wafer_starts_409,Emma Morgan wafer analyst,tiktok,68614,8.02,83.3,wafer starts,San Jose,California,USA,1,2026-04-15T16:30:00Z
+410,@yield_improvement_410,Mason Singh yield analyst,twitter,210007,7.94,60,yield improvement,Phoenix,Arizona,USA,0,2026-04-14T16:30:00Z
+411,@product_lifecycle_management_411,Isabella Park product analyst,threads,76325,4.49,58.5,product lifecycle management,Dallas,Texas,USA,0,2026-04-23T16:30:00Z
+412,@engineering_change_orders_412,Logan Reed engineering analyst,youtube,18312,5.67,94.7,engineering change orders,Chicago,Illinois,USA,0,2026-04-22T16:30:00Z
+413,@component_shortages_413,Amelia Nguyen component analyst,instagram,76973,2.15,68,component shortages,Boston,Massachusetts,USA,1,2026-04-21T16:30:00Z
+414,@supplier_risk_414,Elijah Morris supplier analyst,tiktok,74055,2.01,61.1,supplier risk,Atlanta,Georgia,USA,0,2026-04-20T16:30:00Z
+415,@contract_manufacturing_415,Harper Rivera contract analyst,twitter,184350,4.32,80.5,contract manufacturing,Seattle,Washington,USA,0,2026-04-19T16:30:00Z
+416,@field_quality_416,James Ramos field analyst,threads,95390,3.7,66.5,field quality,Denver,Colorado,USA,0,2026-04-18T16:30:00Z
+417,@warranty_analytics_417,Evelyn Nelson warranty analyst,youtube,24483,7.99,95,warranty analytics,Raleigh,North Carolina,USA,1,2026-04-17T16:30:00Z
+418,@connected_products_418,Benjamin Brooks connected analyst,instagram,92219,4.49,61.7,connected products,Miami,Florida,USA,0,2026-04-16T16:30:00Z
+419,@order_promising_419,Luna Price order analyst,tiktok,122974,7.23,91.9,order promising,New York,New York,USA,0,2026-04-15T16:30:00Z
+420,@service_and_support_operations_420,Henry Scott service analyst,twitter,29544,5.07,79.6,service and support operations,Los Angeles,California,USA,0,2026-04-14T16:30:00Z
+421,@semiconductor_manufacturing_421,Ava Chen semiconductor analyst,threads,188197,8.98,79.6,semiconductor manufacturing,San Jose,California,USA,1,2026-04-23T16:30:00Z
+422,@fab_operations_422,Noah Kim fab analyst,youtube,129180,4.93,94.7,fab operations,Phoenix,Arizona,USA,0,2026-04-22T16:30:00Z
+423,@wafer_starts_423,Mia Wright wafer analyst,instagram,58118,7.92,55.2,wafer starts,Dallas,Texas,USA,0,2026-04-21T16:30:00Z
+424,@yield_improvement_424,Ethan Garcia yield analyst,tiktok,168860,7.58,85.1,yield improvement,Chicago,Illinois,USA,0,2026-04-20T16:30:00Z
+425,@product_lifecycle_management_425,Sophia Foster product analyst,twitter,99752,7.73,62.1,product lifecycle management,Boston,Massachusetts,USA,1,2026-04-19T16:30:00Z
+426,@engineering_change_orders_426,Liam Carter engineering analyst,threads,204888,5.68,80.9,engineering change orders,Atlanta,Georgia,USA,0,2026-04-18T16:30:00Z
+427,@component_shortages_427,Olivia Gray component analyst,youtube,215605,7.55,82.8,component shortages,Seattle,Washington,USA,0,2026-04-17T16:30:00Z
+428,@supplier_risk_428,Lucas Patel supplier analyst,instagram,17808,4.84,84.6,supplier risk,Denver,Colorado,USA,0,2026-04-16T16:30:00Z
+429,@contract_manufacturing_429,Emma Morgan contract analyst,tiktok,62307,5.69,74,contract manufacturing,Raleigh,North Carolina,USA,1,2026-04-15T16:30:00Z
+430,@field_quality_430,Mason Singh field analyst,twitter,41947,5.95,57.4,field quality,Miami,Florida,USA,0,2026-04-14T16:30:00Z
+431,@warranty_analytics_431,Isabella Park warranty analyst,threads,36800,3.26,80.3,warranty analytics,New York,New York,USA,0,2026-04-23T16:30:00Z
+432,@connected_products_432,Logan Reed connected analyst,youtube,70320,1.83,61.8,connected products,Los Angeles,California,USA,0,2026-04-22T16:30:00Z
+433,@order_promising_433,Amelia Nguyen order analyst,instagram,17818,3.58,86.6,order promising,San Jose,California,USA,1,2026-04-21T16:30:00Z
+434,@service_and_support_operations_434,Elijah Morris service analyst,tiktok,129970,5,95.8,service and support operations,Phoenix,Arizona,USA,0,2026-04-20T16:30:00Z
+435,@semiconductor_manufacturing_435,Harper Rivera semiconductor analyst,twitter,168166,2.72,90.9,semiconductor manufacturing,Dallas,Texas,USA,0,2026-04-19T16:30:00Z
+436,@fab_operations_436,James Ramos fab analyst,threads,46635,4.15,57.5,fab operations,Chicago,Illinois,USA,0,2026-04-18T16:30:00Z
+437,@wafer_starts_437,Evelyn Nelson wafer analyst,youtube,150679,2.44,87.4,wafer starts,Boston,Massachusetts,USA,1,2026-04-17T16:30:00Z
+438,@yield_improvement_438,Benjamin Brooks yield analyst,instagram,185160,2.73,93,yield improvement,Atlanta,Georgia,USA,0,2026-04-16T16:30:00Z
+439,@product_lifecycle_management_439,Luna Price product analyst,tiktok,93783,2.27,55.7,product lifecycle management,Seattle,Washington,USA,0,2026-04-15T16:30:00Z
+440,@engineering_change_orders_440,Henry Scott engineering analyst,twitter,88425,1.9,83.6,engineering change orders,Denver,Colorado,USA,0,2026-04-14T16:30:00Z
+441,@component_shortages_441,Ava Chen component analyst,threads,126965,5.68,82,component shortages,Raleigh,North Carolina,USA,1,2026-04-23T16:30:00Z
+442,@supplier_risk_442,Noah Kim supplier analyst,youtube,109165,8.48,93.5,supplier risk,Miami,Florida,USA,0,2026-04-22T16:30:00Z
+443,@contract_manufacturing_443,Mia Wright contract analyst,instagram,229578,1.86,91.4,contract manufacturing,New York,New York,USA,0,2026-04-21T16:30:00Z
+444,@field_quality_444,Ethan Garcia field analyst,tiktok,195336,4.23,71.5,field quality,Los Angeles,California,USA,0,2026-04-20T16:30:00Z
+445,@warranty_analytics_445,Sophia Foster warranty analyst,twitter,98241,2.64,78.2,warranty analytics,San Jose,California,USA,1,2026-04-19T16:30:00Z
+446,@connected_products_446,Liam Carter connected analyst,threads,103180,8.53,65.7,connected products,Phoenix,Arizona,USA,0,2026-04-18T16:30:00Z
+447,@order_promising_447,Olivia Gray order analyst,youtube,224997,6.35,64.1,order promising,Dallas,Texas,USA,0,2026-04-17T16:30:00Z
+448,@service_and_support_operations_448,Lucas Patel service analyst,instagram,175246,3,78,service and support operations,Chicago,Illinois,USA,0,2026-04-16T16:30:00Z
+449,@semiconductor_manufacturing_449,Emma Morgan semiconductor analyst,tiktok,226668,5.57,88,semiconductor manufacturing,Boston,Massachusetts,USA,1,2026-04-15T16:30:00Z
+450,@fab_operations_450,Mason Singh fab analyst,twitter,44936,5.52,62.7,fab operations,Atlanta,Georgia,USA,0,2026-04-14T16:30:00Z
+451,@wafer_starts_451,Isabella Park wafer analyst,threads,157615,3.37,72.8,wafer starts,Seattle,Washington,USA,0,2026-04-23T16:30:00Z
+452,@yield_improvement_452,Logan Reed yield analyst,youtube,180791,4.23,78.4,yield improvement,Denver,Colorado,USA,0,2026-04-22T16:30:00Z
+453,@product_lifecycle_management_453,Amelia Nguyen product analyst,instagram,147577,7.1,69.4,product lifecycle management,Raleigh,North Carolina,USA,1,2026-04-21T16:30:00Z
+454,@engineering_change_orders_454,Elijah Morris engineering analyst,tiktok,132516,5.62,80.3,engineering change orders,Miami,Florida,USA,0,2026-04-20T16:30:00Z
+455,@component_shortages_455,Harper Rivera component analyst,twitter,155894,7.76,74.3,component shortages,New York,New York,USA,0,2026-04-19T16:30:00Z
+456,@supplier_risk_456,James Ramos supplier analyst,threads,13085,5.31,62.8,supplier risk,Los Angeles,California,USA,0,2026-04-18T16:30:00Z
+457,@contract_manufacturing_457,Evelyn Nelson contract analyst,youtube,144935,6.65,73.2,contract manufacturing,San Jose,California,USA,1,2026-04-17T16:30:00Z
+458,@field_quality_458,Benjamin Brooks field analyst,instagram,209038,8.49,54.7,field quality,Phoenix,Arizona,USA,0,2026-04-16T16:30:00Z
+459,@warranty_analytics_459,Luna Price warranty analyst,tiktok,124878,4.26,60.5,warranty analytics,Dallas,Texas,USA,0,2026-04-15T16:30:00Z
+460,@connected_products_460,Henry Scott connected analyst,twitter,129497,4.6,59.3,connected products,Chicago,Illinois,USA,0,2026-04-14T16:30:00Z
+461,@order_promising_461,Ava Chen order analyst,threads,136691,8.75,72,order promising,Boston,Massachusetts,USA,1,2026-04-23T16:30:00Z
+462,@service_and_support_operations_462,Noah Kim service analyst,youtube,122899,3.93,80.5,service and support operations,Atlanta,Georgia,USA,0,2026-04-22T16:30:00Z
+463,@semiconductor_manufacturing_463,Mia Wright semiconductor analyst,instagram,208332,3.84,93,semiconductor manufacturing,Seattle,Washington,USA,0,2026-04-21T16:30:00Z
+464,@fab_operations_464,Ethan Garcia fab analyst,tiktok,109714,2.96,93.8,fab operations,Denver,Colorado,USA,0,2026-04-20T16:30:00Z
+465,@wafer_starts_465,Sophia Foster wafer analyst,twitter,188762,7.61,67.1,wafer starts,Raleigh,North Carolina,USA,1,2026-04-19T16:30:00Z
+466,@yield_improvement_466,Liam Carter yield analyst,threads,64455,2.53,91.2,yield improvement,Miami,Florida,USA,0,2026-04-18T16:30:00Z
+467,@product_lifecycle_management_467,Olivia Gray product analyst,youtube,95179,2.53,62.7,product lifecycle management,New York,New York,USA,0,2026-04-17T16:30:00Z
+468,@engineering_change_orders_468,Lucas Patel engineering analyst,instagram,63899,5.91,88,engineering change orders,Los Angeles,California,USA,0,2026-04-16T16:30:00Z
+469,@component_shortages_469,Emma Morgan component analyst,tiktok,17444,4.47,62,component shortages,San Jose,California,USA,1,2026-04-15T16:30:00Z
+470,@supplier_risk_470,Mason Singh supplier analyst,twitter,40177,4.5,82.9,supplier risk,Phoenix,Arizona,USA,0,2026-04-14T16:30:00Z
+471,@contract_manufacturing_471,Isabella Park contract analyst,threads,219731,3.54,92.5,contract manufacturing,Dallas,Texas,USA,0,2026-04-23T16:30:00Z
+472,@field_quality_472,Logan Reed field analyst,youtube,226697,8.6,58.8,field quality,Chicago,Illinois,USA,0,2026-04-22T16:30:00Z
+473,@warranty_analytics_473,Amelia Nguyen warranty analyst,instagram,193228,7.56,88.3,warranty analytics,Boston,Massachusetts,USA,1,2026-04-21T16:30:00Z
+474,@connected_products_474,Elijah Morris connected analyst,tiktok,169223,2.61,93.5,connected products,Atlanta,Georgia,USA,0,2026-04-20T16:30:00Z
+475,@order_promising_475,Harper Rivera order analyst,twitter,200394,4.92,59.1,order promising,Seattle,Washington,USA,0,2026-04-19T16:30:00Z
+476,@service_and_support_operations_476,James Ramos service analyst,threads,161375,7.92,80,service and support operations,Denver,Colorado,USA,0,2026-04-18T16:30:00Z
+477,@semiconductor_manufacturing_477,Evelyn Nelson semiconductor analyst,youtube,167628,2.61,78.5,semiconductor manufacturing,Raleigh,North Carolina,USA,1,2026-04-17T16:30:00Z
+478,@fab_operations_478,Benjamin Brooks fab analyst,instagram,26446,2.7,67.9,fab operations,Miami,Florida,USA,0,2026-04-16T16:30:00Z
+479,@wafer_starts_479,Luna Price wafer analyst,tiktok,36751,7.44,62,wafer starts,New York,New York,USA,0,2026-04-15T16:30:00Z
+480,@yield_improvement_480,Henry Scott yield analyst,twitter,140898,2.73,56.4,yield improvement,Los Angeles,California,USA,0,2026-04-14T16:30:00Z

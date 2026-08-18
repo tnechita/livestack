@@ -1,0 +1,21 @@
+product_id,brand_id,sku,product_name,description,category,subcategory,unit_price,unit_cost,weight_kg,is_active,launch_date,tags,created_at,updated_at
+1,1,CAR-00001,Regional LTL Freight Move,,Final Mile,Dispatch,125,48,0.001,1,2026-04-01,"ltl,regional,pallet,terminal",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+2,1,CAR-00002,Expedited Dock-to-Dock Transfer,,Fleet Logistics,Expedited,210,82,0.001,1,2026-04-01,"expedited,cross-dock,linehaul,priority",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+3,1,CAR-00003,Hazmat Documentation Review,,Compliance,Route Survey,95,35,0.001,1,2026-04-01,"hazmat,compliance,bill-of-lading,safety",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+4,2,VIT-00004,Same-Day Final Mile Slot,,Final Mile,Metro Delivery,160,65,0.001,1,2026-04-01,"same-day,final-mile,metro,delivery",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+5,2,VIT-00005,White Glove Delivery Crew,,Fleet Monitoring,Telematics,340,125,0.001,1,2026-04-01,"white-glove,scheduled,crew,delivery",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+6,2,VIT-00006,Remote Trailer Telematics Yard Visibility,,Fleet Monitoring,Telematics,275,98,0.05,1,2026-04-01,"telematics,trailer,gps,monitoring",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+7,3,PUL-00007,Time-Critical Air Freight Tender,,Time-Critical Freight,Time-Critical Freight,420,175,0.001,1,2026-04-01,"air-freight,critical,tender,airport",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+8,3,PUL-00008,High-Value Load Monitoring Kit,,Fleet Monitoring,Time-Critical Freight,680,260,1.2,1,2026-04-01,"high-value,gps,seal,sensor,monitoring",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+9,3,PUL-00009,Priority Recovery Dispatch,,Heavy Haul,Time-Critical Freight,520,210,0.001,1,2026-04-01,"recovery,reroute,priority,exception",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+10,4,CLE-00010,Brokerage Truckload,,Brokerage,Truckload,180,70,0.001,1,2026-04-01,"brokerage,truckload,spot-market,capacity",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+11,4,CLE-00011,Carrier Exception Follow-Up,,Brokerage,Crisis,140,58,0.001,1,2026-04-01,"exception,carrier,follow-up,eta",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+12,4,CLE-00012,Contract Lane Rebid,,Brokerage,Procurement,260,105,0.001,1,2026-04-01,"contract,lane,rebid,procurement",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+13,5,ORT-00013,Oversize Permit Coordination,,Heavy Haul,Heavy Haul,220,90,0.001,1,2026-04-01,"oversize,permit,escort,heavy-haul",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+14,5,ORT-00014,Heavy Equipment Recovery Bundle,,Heavy Haul,Recovery,780,310,1.4,1,2026-04-01,"heavy-equipment,recovery,route-survey,escort",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+15,5,ORT-00015,Bridge Clearance Assessment,,Cold Chain,Route Survey,195,74,0.001,1,2026-04-01,"bridge,clearance,route-survey,safety",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+16,6,HOM-00016,Regional Pool Distribution,,Pooled Distribution,Pool Point,240,96,0.001,1,2026-04-01,"pool-distribution,regional,freight-consolidation,terminal-capacity",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+17,6,HOM-00017,Trailer Yard Starter Kit,,Transport Equipment,Yard Operations,145,54,0.9,1,2026-04-01,"yard,dock,seal,placard,equipment",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+18,6,HOM-00018,Remote Yard Check Yard Visibility,,Fleet Monitoring,Yard Visibility,310,120,0.4,1,2026-04-01,"yard-check,onboarding,device,visibility",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+19,7,MED-00019,Intermodal Ramp Transfer,,Transport Equipment,Telematics,89,31,0.35,1,2026-04-01,"intermodal,ramp,container,drayage",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z
+20,7,MED-00020,Container Seal Sensor LTE,,Fleet Monitoring,Hypertension,115,42,0.5,1,2026-04-01,"blood-pressure,cuff,lte,rpm",2026-05-05T16:30:00Z,2026-05-05T16:30:00Z

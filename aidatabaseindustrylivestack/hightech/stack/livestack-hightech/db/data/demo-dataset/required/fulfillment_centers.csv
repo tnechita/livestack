@@ -1,0 +1,13 @@
+center_id,center_name,center_type,address_line1,city,state_province,postal_code,country,latitude,longitude,capacity_units,current_load_pct,is_active,operating_hours,created_at
+1,Bay Area Silicon Allocation Center,distribution,100 Innovation Way,San Jose,California,90000,USA,37.3382,-121.8863,125000,55.4,1,24x7 launch support,2026-04-25T16:30:00Z
+2,Phoenix Fab Operations Hub,warehouse,101 Innovation Way,Phoenix,Arizona,90001,USA,33.4484,-112.074,98000,66.7,1,24x7 launch support,2026-04-25T16:30:00Z
+3,Dallas Component Reservation Center,distribution,102 Innovation Way,Dallas,Texas,90002,USA,32.7767,-96.797,116000,74.1,1,24x7 launch support,2026-04-25T16:30:00Z
+4,Chicago Contract Manufacturing Desk,warehouse,103 Innovation Way,Chicago,Illinois,90003,USA,41.8781,-87.6298,86000,74.6,1,24x7 launch support,2026-04-25T16:30:00Z
+5,Boston PLM Handoff Center,micro,104 Innovation Way,Boston,Massachusetts,90004,USA,42.3601,-71.0589,42000,77.6,1,24x7 launch support,2026-04-25T16:30:00Z
+6,Atlanta Quality Response Hub,distribution,105 Innovation Way,Atlanta,Georgia,90005,USA,33.749,-84.388,76000,68,1,24x7 launch support,2026-04-25T16:30:00Z
+7,Seattle Connected Product Lab,micro,106 Innovation Way,Seattle,Washington,90006,USA,47.6062,-122.3321,39000,72.3,1,24x7 launch support,2026-04-25T16:30:00Z
+8,Denver Network Systems Depot,warehouse,107 Innovation Way,Denver,Colorado,90007,USA,39.7392,-104.9903,62000,88.1,1,24x7 launch support,2026-04-25T16:30:00Z
+9,Raleigh Field Quality Center,drop_ship,108 Innovation Way,Raleigh,North Carolina,90008,USA,35.7796,-78.6382,53000,63.3,1,24x7 launch support,2026-04-25T16:30:00Z
+10,Miami Channel Inventory Pool,distribution,109 Innovation Way,Miami,Florida,90009,USA,25.7617,-80.1918,91000,66.3,1,24x7 launch support,2026-04-25T16:30:00Z
+11,New York Support Operations Hub,store,110 Innovation Way,New York,New York,90010,USA,40.7128,-74.006,68000,83.6,1,24x7 launch support,2026-04-25T16:30:00Z
+12,Los Angeles Electronics Manufacturing Port,warehouse,111 Innovation Way,Los Angeles,California,90011,USA,34.0522,-118.2437,103000,55.1,1,24x7 launch support,2026-04-25T16:30:00Z

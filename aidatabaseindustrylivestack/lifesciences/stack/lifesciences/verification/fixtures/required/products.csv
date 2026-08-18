@@ -1,0 +1,2 @@
+product_id,brand_id,sku,product_name,description,category,subcategory,unit_price,unit_cost,weight_kg,is_active,launch_date,tags,created_at,updated_at
+1,1,VIT-00001,mRNA LNP Clinical Batch,"Biologics product supplied by VitaCore Therapeutics; tracked for regulatory, quality, demand, and cold-chain logistics.",Biologics,mRNA Therapeutics,18500,12600,12,1,2024-09-01,"mrna,lnp,clinical-batch,cold-chain",2026-04-01T08:00:00Z,2026-04-12T14:00:00Z

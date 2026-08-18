@@ -1,0 +1,7 @@
+influencer_id,handle,display_name,platform,follower_count,engagement_rate,influence_score,niche,city,region,country,is_verified,created_at
+1,@dispatch_navigation,Dispatch Navigation,threads,43800,0.072,86.2,Fleet Logistics,New York,New York,US,0,2026-05-05T16:30:00Z
+2,@cardio_transport_team,Critical Freight Team,youtube,118000,0.041,88.4,Time-Critical Freight,Dallas,Texas,US,1,2026-05-05T16:30:00Z
+3,@behavioral_access,Brokerage Metro Delivery,instagram,67000,0.063,82.1,Brokerage,Seattle,Washington,US,0,2026-05-05T16:30:00Z
+4,@hometransport_rn,Yard Ops,tiktok,54000,0.079,84.7,Pooled Distribution,Atlanta,Georgia,US,0,2026-05-05T16:30:00Z
+5,@intermodal_pathways,Intermodal Pathways,instagram,73000,0.058,81.3,Passenger Mobility,Boston,Massachusetts,US,0,2026-05-05T16:30:00Z
+6,@seniortransport_support,ColdChain Support,threads,39500,0.066,77.8,Cold Chain,Miami,Florida,US,0,2026-05-05T16:30:00Z

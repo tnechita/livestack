@@ -1,0 +1,7 @@
+customer_id,email,first_name,last_name,city,state_province,postal_code,country,latitude,longitude,customer_tier,lifetime_value,created_at
+1,ava.martinez1@example.com,Ava,Martinez,Los Angeles,California,90001,US,34.0522,-118.2437,preferred,3200,2026-05-05T16:30:00Z
+2,james.chen2@example.com,James,Chen,Chicago,Illinois,60601,US,41.8781,-87.6298,standard,875,2026-05-05T16:30:00Z
+3,sofia.patel3@example.com,Sofia,Patel,Dallas,Texas,75201,US,32.7767,-96.797,vip,8200,2026-05-05T16:30:00Z
+4,michael.brown4@example.com,Michael,Brown,Seattle,Washington,98101,US,47.6062,-122.3321,new,120,2026-05-05T16:30:00Z
+5,emma.wilson5@example.com,Emma,Wilson,Miami,Florida,33101,US,25.7617,-80.1918,preferred,4100,2026-05-05T16:30:00Z
+6,noah.garcia6@example.com,Noah,Garcia,Atlanta,Georgia,30301,US,33.749,-84.388,standard,950,2026-05-05T16:30:00Z

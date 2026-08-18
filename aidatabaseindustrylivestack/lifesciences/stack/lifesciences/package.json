@@ -1,0 +1,40 @@
+{
+  "name": "lifesciences-livestack",
+  "version": "1.0.0",
+  "description": "Life Sciences Clinical Supply, Quality Signals, and Cold Chain Intelligence - Oracle 26ai Converged Database Demo",
+  "main": "backend/server.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "nodemon backend/server.js",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "verify:brand-colors": "node verification/check-brand-colors.js",
+    "verify:contrast": "node verification/check-contrast.js",
+    "verify:focus-semantics": "node verification/check-focus-semantics.js",
+    "verify:lifesciences-demo-session": "node verification/check-lifesciences-demo-session-contract.js",
+    "verify:generation-lifecycle": "node verification/check-lifesciences-generation-lifecycle-contract.js",
+    "verify:vector-bootstrap": "node verification/check-lifesciences-vector-bootstrap-contract.js",
+    "verify:life-sciences-story": "node verification/check-life-sciences-story.js",
+    "verify:lifesciences-feature-evidence": "node verification/check-lifesciences-feature-evidence-contract.js",
+    "start": "node backend/server.js",
+    "start:prod": "NODE_ENV=production pm2 start backend/server.js --name Lifesciences"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.17",
+    "cors": "^2.8.5",
+    "csv-parse": "^6.2.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "helmet": "^7.1.0",
+    "morgan": "^1.10.0",
+    "multer": "^2.1.1",
+    "oracledb": "^6.7.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1",
+    "nodemon": "^3.1.4"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

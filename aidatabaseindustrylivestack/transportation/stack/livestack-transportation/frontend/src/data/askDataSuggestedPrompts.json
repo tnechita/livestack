@@ -1,0 +1,34 @@
+[
+  {
+    "category": "Lane Risk",
+    "text": "Which Northeast Corridor transportation services are predicted to have the highest demand surge this week?"
+  },
+  {
+    "category": "Regional Breakdown",
+    "text": "Break the demand surge down by operating region and logistics terminal."
+  },
+  {
+    "category": "Terminal Capacity",
+    "text": "Which logistics terminals have the most available capacity for urgent shipment orders?"
+  },
+  {
+    "category": "SLA Exposure",
+    "text": "Which shipment orders are most exposed to disruption or missed delivery commitments?"
+  },
+  {
+    "category": "Freight Value",
+    "text": "Show freight value at risk by transport service category."
+  },
+  {
+    "category": "Signal Evidence",
+    "text": "Which operational signals have the highest urgency score and escalation count?"
+  },
+  {
+    "category": "Rerouting",
+    "text": "Which routes or shipments have the longest estimated travel time?"
+  },
+  {
+    "category": "Shipper Health",
+    "text": "Which shippers show the highest commitment risk or declining order frequency?"
+  }
+]

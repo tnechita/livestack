@@ -248,6 +248,18 @@ function FulfillmentRouteMap({ routeData }) {
 }
 
 // ── Chat Agent Component ─────────────────────────────────────────────────────
+function buildConversationHistory(messages) {
+  return messages
+    .filter((message) => message.role === 'user' || message.role === 'agent')
+    .slice(-6)
+    .map((message) => ({
+      role: message.role === 'agent' ? 'agent' : 'user',
+      text: message.text || '',
+      team: message.team || null,
+    }))
+    .filter((message) => message.text);
+}
+
 function ChatAgent({ onActionLogged }) {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState('');
@@ -268,7 +280,7 @@ function ChatAgent({ onActionLogged }) {
     setSending(true);
 
     try {
-      const result = await api.agents.chat(question);
+      const result = await api.agents.chat(question, buildConversationHistory(messages));
       setMessages(prev => [...prev, {
         role: 'agent',
         text: result.response,
@@ -291,7 +303,7 @@ function ChatAgent({ onActionLogged }) {
       setSending(false);
       setTimeout(() => inputRef.current?.focus(), 100);
     }
-  }, [input, sending, onActionLogged]);
+  }, [input, sending, onActionLogged, messages]);
 
   const clearChat = useCallback(() => {
     setMessages([]);

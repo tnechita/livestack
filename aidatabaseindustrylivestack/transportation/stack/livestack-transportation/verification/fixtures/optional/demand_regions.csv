@@ -1,0 +1,3 @@
+region_id,region_name,region_type,boundary,population,avg_income,social_density,demand_index,updated_at
+1,Northeast Freight Corridor,metro,"POLYGON ((-74.3 40.4, -73.6 40.4, -73.6 41.0, -74.3 41.0, -74.3 40.4))",20140000,82000,18.4,91,2026-05-05T16:30:00Z
+2,Southern Fleet Monitoring Belt,custom,"POLYGON ((-96.0 29.0, -84.0 29.0, -84.0 35.0, -96.0 35.0, -96.0 29.0))",26000000,62000,15.1,83,2026-05-05T16:30:00Z

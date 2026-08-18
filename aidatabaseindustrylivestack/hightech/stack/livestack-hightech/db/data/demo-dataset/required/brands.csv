@@ -1,0 +1,13 @@
+brand_id,brand_name,brand_slug,brand_category,headquarters_city,headquarters_lat,headquarters_lon,founded_year,annual_revenue,social_tier,created_at,updated_at
+1,Seer Silicon Systems,seer-silicon-systems,Semiconductor Manufacturing,San Jose,37.3382,-121.8863,1998,21800000000,premium,2026-04-29T16:30:00Z,2026-05-05T16:30:00Z
+2,NovaFab Operations,novafab-operations,Fab Operations,Phoenix,33.4484,-112.074,2004,12600000000,premium,2026-04-29T16:30:00Z,2026-05-05T16:30:00Z
+3,QuantumEdge Devices,quantumedge-devices,Connected Products,Austin,30.2672,-97.7431,2011,8700000000,standard,2026-04-29T16:30:00Z,2026-05-05T16:30:00Z
+4,Apex Compute Platforms,apex-compute-platforms,Cloud Infrastructure,Seattle,47.6062,-122.3321,2006,14200000000,premium,2026-04-29T16:30:00Z,2026-05-05T16:30:00Z
+5,VectorLink Networks,vectorlink-networks,Network Systems,Denver,39.7392,-104.9903,2009,6100000000,standard,2026-04-29T16:30:00Z,2026-05-05T16:30:00Z
+6,Orion PLM Systems,orion-plm-systems,Product Lifecycle Management,Boston,42.3601,-71.0589,2013,3900000000,standard,2026-04-29T16:30:00Z,2026-05-05T16:30:00Z
+7,HelioCore Components,heliocore-components,Component Supply,Dallas,32.7767,-96.797,1994,9500000000,premium,2026-04-29T16:30:00Z,2026-05-05T16:30:00Z
+8,Atlas Contract Manufacturing,atlas-contract-manufacturing,Contract Manufacturing,Chicago,41.8781,-87.6298,1987,17300000000,premium,2026-04-29T16:30:00Z,2026-05-05T16:30:00Z
+9,SignalForge Quality,signalforge-quality,Field Quality,Raleigh,35.7796,-78.6382,2016,2400000000,emerging,2026-04-29T16:30:00Z,2026-05-05T16:30:00Z
+10,WarrantyIQ Services,warrantyiq-services,Warranty Analytics,Atlanta,33.749,-84.388,2018,1800000000,emerging,2026-04-29T16:30:00Z,2026-05-05T16:30:00Z
+11,ChannelFlow Systems,channelflow-systems,Channel Inventory,Miami,25.7617,-80.1918,2012,4200000000,standard,2026-04-29T16:30:00Z,2026-05-05T16:30:00Z
+12,SupportOps Cloud,supportops-cloud,Service and Support Operations,New York,40.7128,-74.006,2015,3300000000,standard,2026-04-29T16:30:00Z,2026-05-05T16:30:00Z
